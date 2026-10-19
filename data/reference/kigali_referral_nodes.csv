@@ -1,0 +1,5 @@
+node_id,province,district,district_code,sector,facility_name,facility_level,facility_type,ownership,source,data_source
+kigali-referral:RW12:king-faisal-hospital-hnr,Kigali City,Gasabo,RW12,Kacyiru,King Faisal Hospital HNR,Tertiary Levels,Referral Hospital,Public,"Rwanda Ministry of Health, Health Facilities Booklet 2023-2024",real
+kigali-referral:RW12:caraes-ndera-hnr,Kigali City,Gasabo,RW12,Ndera,Caraes Ndera Hnr,Tertiary Levels,Referral Hospital,Public,"Rwanda Ministry of Health, Health Facilities Booklet 2023-2024",real
+kigali-referral:RW11:chk-chuk-hnr,Kigali City,Nyarugenge,RW11,Nyarugenge,CHK(CHUK) HNR,Tertiary Levels,Referral Hospital,Public,"Rwanda Ministry of Health, Health Facilities Booklet 2023-2024",real
+kigali-referral:RW13:rwanda-military-hospital,Kigali City,Kicukiro,RW13,Nyarugunga,Rwanda Military Hospital,Tertiary Levels,Referral Hospital,Public,"Rwanda Ministry of Health, Health Facilities Booklet 2023-2024",real

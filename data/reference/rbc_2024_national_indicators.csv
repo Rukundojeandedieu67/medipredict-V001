@@ -1,0 +1,12 @@
+indicator,year,value,table,source,data_source
+units_collected,2024,84383,Table 1.6,RBC Blood Transfusion Division Annual Report 2024,real
+units_collected,2023,86812,Table 1.6,RBC Blood Transfusion Division Annual Report 2024,real
+units_planned_collection,2024,89148,Table 1.5,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_demand_units_rcbt,2024,55852,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_supply_units_rcbt,2024,55852,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_demand_units_zipline,2024,71346,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_supply_units_zipline,2024,70985,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_demand_units_total,2024,127198,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+hospital_supply_units_total,2024,126837,Table 3.1,RBC Blood Transfusion Division Annual Report 2024,real
+unmet_demand_units_total,2024,361,derived from Table 3.1,RBC Blood Transfusion Division Annual Report 2024,derived
+blood_donors,2024,58688,Table 1.8,RBC Blood Transfusion Division Annual Report 2024,real

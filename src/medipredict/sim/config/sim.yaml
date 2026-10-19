@@ -1,0 +1,55 @@
+seed: 2026
+start_date: '2024-01-01'
+period_days: 730
+frequency: daily
+add_kigali_referral_hospitals: false
+national_daily_demand_units: 231.186301369863
+negative_binomial_dispersion: 20.0
+district_weight_admissions_blend: 1.0
+weekly_seasonality:
+  monday: 1.032
+  tuesday: 1.032
+  wednesday: 1.032
+  thursday: 1.032
+  friday: 1.032
+  saturday: 0.92
+  sunday: 0.92
+surge_probability_per_district_day: 0.0005
+surge_types:
+- pph
+- trauma
+surge_o_positive_units:
+- 2
+- 6
+surge_o_negative_units:
+- 1
+- 2
+rainfall_road_trauma_uplift_probability: 0.0
+rainfall_road_trauma_uplift_fraction: 0.0
+initial_stock_cover_days: 6
+rare_group_daily_mean_threshold_units: 0.5
+rare_group_local_stock_units: 2
+reorder_point_cover_days: 4
+reorder_up_to_cover_days: 8
+reorder_quantity_noise_fraction: 0.25
+shelf_life_days: 35
+processing_delay_hours: 6.0
+drone_delivery_share: 0.56
+drone_route_time_multiplier: 0.45
+calibration_targets:
+  unmet_demand_pct: 0.28
+  unmet_demand_tolerance_percentage_points: 0.1
+  expiry_pct_max_by_group: 10.0
+  group_share_tolerance: 0.01
+rcbt_by_province:
+  Kigali City: Kigali
+  South: Butare
+  West: Karongi
+  North: Ruhengeri
+  East: Rwamagana
+rcbt_hub_district:
+  Kigali: Nyarugenge
+  Butare: Huye
+  Karongi: Karongi
+  Ruhengeri: Musanze
+  Rwamagana: Rwamagana

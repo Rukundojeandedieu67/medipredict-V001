@@ -1,0 +1,9 @@
+blood_group,blood_bank_csv_units_used,blood_bank_csv_share_pct,rbc_collected_2024_units,rbc_collected_share_pct,share_ratio_csv_vs_rbc,data_source,use_restriction
+O+,20092,46.0,40291,47.7,0.96,derived,audit_only_not_for_model_or_simulation
+O-,3406,7.8,3431,4.1,1.92,derived,audit_only_not_for_model_or_simulation
+A+,6790,15.6,20007,23.7,0.66,derived,audit_only_not_for_model_or_simulation
+A-,4021,9.2,1124,1.3,6.92,derived,audit_only_not_for_model_or_simulation
+B+,7140,16.4,15137,17.9,0.91,derived,audit_only_not_for_model_or_simulation
+B-,511,1.2,831,1.0,1.19,derived,audit_only_not_for_model_or_simulation
+AB+,1163,2.7,3393,4.0,0.66,derived,audit_only_not_for_model_or_simulation
+AB-,510,1.2,169,0.2,5.84,derived,audit_only_not_for_model_or_simulation

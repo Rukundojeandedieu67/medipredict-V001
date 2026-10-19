@@ -1,0 +1,154 @@
+province,district,district_code,facility_type,admissions,avg_los_days,avg_los_missing
+East,Bugesera,507,District Hospital,16485,4.54,False
+East,Bugesera,507,Health Center,10027,1.57,False
+East,Bugesera,507,Health Post,299,1.84,False
+East,Bugesera,507,Health Post 2nd Generation,52,0.43,False
+East,Bugesera,507,Medicalized health Center,1252,0.7,False
+East,Bugesera,507,Prison Clinic,182,2.49,False
+East,Bugesera,507,Specialised Hospital,1273,0.08,False
+North,Burera,404,District Hospital,17540,4.1,False
+North,Burera,404,Health Center,15029,2.59,False
+North,Burera,404,Health Post,157,1.42,False
+North,Gakenke,402,District Hospital,14954,5.23,False
+North,Gakenke,402,Health Center,9606,2.09,False
+North,Gakenke,402,Health Post,0,,True
+Kigali City,Gasabo,102,District Hospital,22565,4.03,False
+Kigali City,Gasabo,102,Health Center,1413,1.4,False
+Kigali City,Gasabo,102,Health Post,0,0.0,False
+Kigali City,Gasabo,102,Medical Clinic,5603,0.39,False
+Kigali City,Gasabo,102,Medicalized health Center,0,,True
+Kigali City,Gasabo,102,Private Hospital,6647,2.04,False
+Kigali City,Gasabo,102,Referral Hospital,50481,6.54,False
+Kigali City,Gasabo,102,Specialised Hospital,3,13.5,False
+East,Gatsibo,503,District Hospital,18995,4.41,False
+East,Gatsibo,503,Health Center,16720,2.2,False
+East,Gatsibo,503,Health Post,85,1.71,False
+North,Gicumbi,405,District Hospital,13424,3.95,False
+North,Gicumbi,405,Health Center,7209,2.74,False
+North,Gicumbi,405,Health Post,246,1.84,False
+North,Gicumbi,405,Medicalized health Center,860,2.41,False
+North,Gicumbi,405,Prison Clinic,0,,True
+South,Gisagara,202,District Hospital,12573,3.46,False
+South,Gisagara,202,Health Center,11104,1.8,False
+South,Gisagara,202,Health Post,0,,True
+South,Gisagara,202,Health Post 2nd Generation,0,,True
+South,Gisagara,202,Medicalized health Center,1211,8.36,False
+South,Huye,204,District Hospital,10902,3.51,False
+South,Huye,204,Health Center,4835,2.14,False
+South,Huye,204,Health Post,32,0.14,False
+South,Huye,204,Medical Clinic,145,1.06,False
+South,Huye,204,Prison Clinic,1370,3.26,False
+South,Huye,204,Referral Hospital,40174,7.42,False
+South,Huye,204,Specialised Hospital,35,,True
+South,Kamonyi,208,District Hospital,8131,6.08,False
+South,Kamonyi,208,Health Center,6139,1.84,False
+South,Kamonyi,208,Health Post,0,,True
+South,Kamonyi,208,Private Hospital,9164,2.76,False
+West,Karongi,301,District Hospital,12863,3.9,False
+West,Karongi,301,Health Center,12819,3.23,False
+West,Karongi,301,Health Post,0,,True
+West,Karongi,301,Health Post 2nd Generation,0,,True
+West,Karongi,301,Referral Hospital,8592,4.58,False
+East,Kayonza,504,District Hospital,15762,4.55,False
+East,Kayonza,504,Health Center,5847,1.7,False
+East,Kayonza,504,Health Post,0,,True
+Kigali City,Kicukiro,103,District Hospital,17383,4.05,False
+Kigali City,Kicukiro,103,Health Center,5149,0.92,False
+Kigali City,Kicukiro,103,Health Post,0,,True
+Kigali City,Kicukiro,103,Medical Clinic,203,2.29,False
+Kigali City,Kicukiro,103,Medicalized health Center,314,1.51,False
+Kigali City,Kicukiro,103,Other facility type,1810,4.42,False
+Kigali City,Kicukiro,103,Private Hospital,2470,1.96,False
+Kigali City,Kicukiro,103,Referral Hospital,71448,9.81,False
+Kigali City,Kicukiro,103,Specialised Hospital,426,0.39,False
+East,Kirehe,505,District Hospital,11582,4.55,False
+East,Kirehe,505,Health Center,8978,1.68,False
+East,Kirehe,505,Health Post,0,,True
+East,Kirehe,505,Health Post 2nd Generation,0,,True
+East,Kirehe,505,Medical Clinic,275,1.14,False
+East,Kirehe,505,Medicalized health Center,2633,2.28,False
+South,Muhanga,207,District Hospital,32923,3.98,False
+South,Muhanga,207,Health Center,7814,2.35,False
+South,Muhanga,207,Health Post,8,7.13,False
+South,Muhanga,207,Medical Clinic,2155,1.62,False
+South,Muhanga,207,Prison Clinic,0,,True
+North,Musanze,403,Health Center,12462,1.84,False
+North,Musanze,403,Health Post,0,,True
+North,Musanze,403,Medical Clinic,2374,2.58,False
+North,Musanze,403,Prison Clinic,0,,True
+North,Musanze,403,Referral Hospital,19000,4.61,False
+East,Ngoma,506,Health Center,5955,1.53,False
+East,Ngoma,506,Health Post,0,,True
+East,Ngoma,506,Health Post 2nd Generation,41,0.05,False
+East,Ngoma,506,Medical Clinic,0,,True
+East,Ngoma,506,Prison Clinic,0,,True
+East,Ngoma,506,Referral Hospital,13774,3.8,False
+West,Ngororero,305,District Hospital,12146,4.37,False
+West,Ngororero,305,Health Center,9247,4.13,False
+West,Ngororero,305,Health Post,310,1.48,False
+West,Nyabihu,304,District Hospital,4922,3.89,False
+West,Nyabihu,304,Health Center,7491,1.81,False
+West,Nyabihu,304,Health Post,2098,3.45,False
+West,Nyabihu,304,Medicalized health Center,2835,1.66,False
+East,Nyagatare,502,District Hospital,18049,3.72,False
+East,Nyagatare,502,Health Center,17027,1.53,False
+East,Nyagatare,502,Health Post,383,0.86,False
+East,Nyagatare,502,Health Post 2nd Generation,0,,True
+East,Nyagatare,502,Medical Clinic,0,,True
+East,Nyagatare,502,Prison Clinic,0,,True
+South,Nyamagabe,205,District Hospital,11452,3.51,False
+South,Nyamagabe,205,Health Center,6751,1.82,False
+South,Nyamagabe,205,Health Post,0,,True
+West,Nyamasheke,307,District Hospital,11371,5.17,False
+West,Nyamasheke,307,Health Center,8855,3.16,False
+West,Nyamasheke,307,Health Post,24,10.17,False
+West,Nyamasheke,307,Health Post 2nd Generation,0,,True
+West,Nyamasheke,307,Provincial Hospital,7769,4.29,False
+South,Nyanza,201,District Hospital,12794,3.96,False
+South,Nyanza,201,Health Center,6751,5.58,False
+South,Nyanza,201,Health Post,0,,True
+South,Nyanza,201,Other facility type,580,20.41,False
+South,Nyanza,201,Prison Clinic,112,3.22,False
+Kigali City,Nyarugenge,101,District Hospital,20161,3.32,False
+Kigali City,Nyarugenge,101,Health Center,3442,1.23,False
+Kigali City,Nyarugenge,101,Health Post,329,0.83,False
+Kigali City,Nyarugenge,101,Medical Clinic,3973,1.64,False
+Kigali City,Nyarugenge,101,Medicalized health Center,480,1.49,False
+Kigali City,Nyarugenge,101,Prison Clinic,63,0.0,False
+Kigali City,Nyarugenge,101,Private Hospital,2389,1.71,False
+Kigali City,Nyarugenge,101,Referral Hospital,57536,6.88,False
+South,Nyaruguru,203,District Hospital,6026,3.74,False
+South,Nyaruguru,203,Health Center,6552,1.98,False
+South,Nyaruguru,203,Health Post,149,0.8,False
+South,Nyaruguru,203,Health Post 2nd Generation,0,,True
+West,Rubavu,303,District Hospital,21127,4.25,False
+West,Rubavu,303,Health Center,11301,1.79,False
+West,Rubavu,303,Health Post,0,,True
+West,Rubavu,303,Health Post 2nd Generation,0,,True
+West,Rubavu,303,Medical Clinic,2092,1.75,False
+West,Rubavu,303,Prison Clinic,0,,True
+South,Ruhango,206,District Hospital,5499,3.45,False
+South,Ruhango,206,Health Center,8763,1.48,False
+South,Ruhango,206,Health Post,0,,True
+South,Ruhango,206,Medical Clinic,246,0.22,False
+South,Ruhango,206,Provincial Hospital,7652,5.55,False
+North,Rulindo,401,District Hospital,5349,4.36,False
+North,Rulindo,401,Health Center,6212,1.64,False
+North,Rulindo,401,Health Post,2,0.0,False
+North,Rulindo,401,Provincial Hospital,5202,4.01,False
+West,Rusizi,306,District Hospital,20015,4.48,False
+West,Rusizi,306,Health Center,12561,1.56,False
+West,Rusizi,306,Health Post,0,,True
+West,Rusizi,306,Health Post 2nd Generation,40,0.5,False
+West,Rusizi,306,Medical Clinic,208,0.07,False
+West,Rusizi,306,Medicalized health Center,1273,1.55,False
+West,Rusizi,306,Prison Clinic,109,0.29,False
+West,Rusizi,306,Private Hospital,0,,True
+West,Rutsiro,302,District Hospital,8372,3.34,False
+West,Rutsiro,302,Health Center,16201,1.92,False
+West,Rutsiro,302,Health Post,0,,True
+East,Rwamagana,501,Health Center,6238,1.89,False
+East,Rwamagana,501,Health Post,222,0.94,False
+East,Rwamagana,501,Medical Clinic,579,0.82,False
+East,Rwamagana,501,Prison Clinic,882,4.08,False
+East,Rwamagana,501,Provincial Hospital,13284,4.48,False

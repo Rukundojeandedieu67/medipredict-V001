@@ -1,0 +1,1311 @@
+id,name_clean,amenity,healthcare,tier,province,district,adm2_pcode,sector,lat,lon,data_source
+node/12950467571,Vpdd,hospital,,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.9737933,30.0859576,real
+node/12950467138,Don de Dieu Clinic,clinic,,clinic,Kigali City,Kicukiro,RW13,Kicukiro,-1.9748351,30.1046299,real
+node/12950467608,Alamanda Pharmacy Ltd Hqs,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9746891,30.0764303,real
+node/12950467459,Gadiel Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9746659,30.0540806,real
+node/12899437545,G&M PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9746465,30.1049209,real
+node/12950468005,Impress Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9746416,30.0537383,real
+node/10896608826,Josaphar,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9743693,30.1044086,real
+node/12950467253,Inkuru Nziza Orthopedic Specialized Hospital,hospital,,hospital,Kigali City,Kicukiro,RW13,Kigarama,-1.9743546,30.0794308,real
+node/12950467265,Concorde Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9743427,30.0765657,real
+node/10896608839,Semu,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9740808,30.1042277,real
+node/12950465377,Pharmacy Ubwuzu Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9739051,30.0546571,real
+node/12950467155,Memia'S Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9752155,30.1046513,real
+node/10896608831,Allimed,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9735165,30.1042566,real
+node/12950467153,Le Petit Prince,hospital,,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9732632,30.0548103,real
+node/10822299067,,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9683027,30.1210425,real
+node/12950467962,Rite Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9683036,30.121062,real
+node/10900303550,Shalom hospital,hospital,hospital,hospital,Kigali City,Kicukiro,RW13,Niboye,-1.9683476,30.1214785,real
+node/12950467151,Adrenaline Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9683499,30.12141,real
+node/12950467632,Meniphar Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.968677,30.1216121,real
+node/10822299068,,hospital,hospital,other,Kigali City,Kicukiro,RW13,Niboye,-1.9688014,30.1217423,real
+node/11012446520,Sugira pharmacist,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9711214,30.174952,real
+node/12857139937,,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9766379,30.0943326,real
+node/10896600903,Golf pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9784453,30.1049088,real
+node/10896608816,Elite pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9783901,30.1049083,real
+node/12950467874,Nyina. Wa. Jambo Health Post. Centre,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9783713,30.0655299,real
+node/12950467873,Polyclinique Saint Jean,hospital,,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9781801,30.0489906,real
+node/12950467344,,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9781373,30.0957175,real
+node/12950467244,Keystone Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9781002,30.0492729,real
+node/10896608818,Extreme,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9777909,30.1047077,real
+node/12950467712,Pharmacy Med Gate,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9774838,30.0851403,real
+node/10896608820,Ub Umuntu,hospital,hospital,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.9774072,30.1044734,real
+node/12865237225,Future Hope Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9767785,30.0947944,real
+node/12950467891,Mulindi-Sugira Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9713208,30.1755614,real
+node/10896608821,Empower Africa Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9765135,30.1044226,real
+node/12950467328,Mhub Rwanda,doctors,,other,Kigali City,Kicukiro,RW13,Niboye,-1.9761321,30.1093779,real
+node/12950467178,Nyampeta Ladislas,clinic,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9759956,30.0811867,real
+node/12950467200,Pharmacie Umurava,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9759174,30.05283,real
+node/12950467602,Hospital Systems Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9757968,30.1082559,real
+node/10896608824,Memia's pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9757366,30.1047682,real
+node/12950467670,Medical Stange Clinic,clinic,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9756883,30.0748931,real
+node/12950467819,Betsaida Clinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Kicukiro,-1.9756818,30.1018657,real
+node/8825950259,"Masaka Hospital, Rwanda",hospital,hospital,hospital,Kigali City,Gasabo,RW12,Rusororo,-1.9917437,30.2119493,real
+node/12950467935,Amigos Pharmacy Kigali Rwanda,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9800561,30.1335536,real
+node/12950467266,Kanombe Oncology,hospital,hospital,other,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9806643,30.1708701,real
+node/12950467485,Nanuri Medical Center,hospital,,other,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9826311,30.1745346,real
+node/10924395875,SHAMI WINNER'S Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9831454,30.1322223,real
+node/12950467424,Sainte Cecile Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Rusororo,-1.9836251,30.2253377,real
+node/12950467726,Kanombe Hospital,hospital,,hospital,Kigali City,Kicukiro,RW13,Kanombe,-1.983777,30.153808,real
+node/12950467443,Ndaru Apart Gikondo,hospital,,other,Kigali City,Kicukiro,RW13,Kanombe,-1.9842733,30.1506454,real
+node/12950467997,Nishimwe Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9850577,30.2246825,real
+node/10924395881,RAB RUBIRIZI Station,,laboratory,other,Kigali City,Kicukiro,RW13,Kanombe,-1.9860986,30.1313412,real
+node/12950467839,Igisubizo Medical Clinic,clinic,,clinic,Kigali City,Kicukiro,RW13,Kanombe,-1.9886204,30.1481031,real
+node/11658226928,,hospital,hospital,other,Kigali City,Kicukiro,RW13,Kanombe,-1.9800117,30.1494162,real
+node/12950467493,Masaka Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Rusororo,-1.9919478,30.2119896,real
+node/12950467514,Cyiza Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9923275,30.2131743,real
+node/12950467411,Hope Medical Center,hospital,,other,Kigali City,Kicukiro,RW13,Kanombe,-1.9935902,30.1470591,real
+node/12950467402,Masaka Health Centre,hospital,,health_center,Kigali City,Kicukiro,RW13,Masaka,-1.9956632,30.1914435,real
+node/12950467334,Kigali Mechatronics Villa,hospital,,other,Kigali City,Kicukiro,RW13,Kagarama,-1.9956733,30.1166829,real
+node/10938955655,Nick,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9964529,30.1460371,real
+node/12950467618,Masaka Pharmacie,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Masaka,-1.9967951,30.1920545,real
+node/10938976612,Prima,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9971076,30.1454763,real
+node/12950468065,Pharmacie Ideale,pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0839276,29.7512171,real
+node/12950467830,Goodlife Health & Beauty - Kanombe Branch,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.976586,30.1688623,real
+node/12950467887,Soeurs Des Anges,hospital,,other,Kigali City,Gasabo,RW12,Rusororo,-1.9716513,30.2249135,real
+node/12950467749,El Dorado Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9721433,30.158971,real
+node/12950468001,Nyarugunga Health Centre,hospital,,health_center,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9727626,30.160899,real
+node/12950465375,Health Plus Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9730891,30.1825644,real
+node/12950467771,Nnpth-Icyizere Psychotherapeutic Center,doctors,,other,Kigali City,Kicukiro,RW13,Niboye,-1.9732625,30.1163281,real
+node/12950467289,Pharmacie Du Phare Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9752598,30.1350298,real
+node/12950465341,Rite Pharmacy Kanombe Branch,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9756352,30.1702756,real
+node/12950467301,Medex Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9756439,30.1349086,real
+node/12950468101,Sabans Pharmacy Kanombe,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.976242,30.1676388,real
+node/12950467678,Pharmacie Muhire Kanombe Branch,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.976573,30.1691008,real
+node/10896608814,Urukundo pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9786578,30.1049091,real
+node/12950468026,Elite Medical,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9767546,30.1704668,real
+node/12950467491,Beatrice Polyclinic,hospital,,clinic,Kigali City,Gasabo,RW12,Rusororo,-1.9773949,30.1993428,real
+node/11012543198,Military Hospital Kanombe,hospital,hospital,hospital,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9781415,30.1685667,real
+node/12950467529,Saint Samuella Clinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Niboye,-1.9785875,30.112934,real
+node/12950467193,Rwanda Military Hospital,hospital,,hospital,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9785983,30.1679142,real
+node/12950465326,Apothecary Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9796051,30.2244054,real
+node/12950467348,Healthline Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9799414,30.2244142,real
+node/12950467332,Kabare Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9799472,30.2236087,real
+node/12950467536,Busanza Radar,hospital,,other,Kigali City,Kicukiro,RW13,Kanombe,-1.9799911,30.149565,real
+node/12950467226,Abirwa Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9585986,30.1157402,real
+node/12950467339,Kigali Ivf And Fertility Clinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9507855,30.1239597,real
+node/12889168965,Mirror Pharmacy Ltd,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9537165,30.1187459,real
+node/12950467732,Centre Médical Orkide,clinic,,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9541932,30.1255368,real
+node/12950467814,Ndera Neuropsychiatric Teaching Hospital.,doctors,,hospital,Kigali City,Gasabo,RW12,Ndera,-1.954244,30.169202,real
+node/12950467869,Ndera Hospital.,hospital,,hospital,Kigali City,Gasabo,RW12,Ndera,-1.95458,30.1687763,real
+node/12889207849,Max Cure Clinic,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Remera,-1.9561463,30.1169006,real
+node/12889207848,Dolce and Bella Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9563433,30.1168635,real
+node/12950467270,Remera Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Remera,-1.9572171,30.119082,real
+node/12950468020,Comptoir Pharmaceutique Umubano,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9578755,30.112735,real
+node/12950467633,Aegle Cancer Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Ndera,-1.9579171,30.1652819,real
+node/12864457264,Doctors' Plaza Clinic,clinic,clinic,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9503758,30.1239372,real
+node/12950467247,Glamerc Polyclinic,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9586214,30.1157271,real
+node/12950467562,Sabans Pharmacy Giporoso,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.95863,30.1483671,real
+node/12950467772,"Kipharma Pharmacy, Niboye (B5)",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9602871,30.1156946,real
+node/10937275641,NZIZA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9604993,30.1377665,real
+node/10937275643,NOBILIS PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9606074,30.1376682,real
+node/10937275642,,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9606074,30.1376682,real
+node/12950467396,"Kipharma Pharmacy, Giporoso (B3)",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.960794,30.1193019,real
+node/12950465383,Veterinary,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9611027,30.1198072,real
+node/10937275633,ZIA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9611709,30.1369802,real
+node/12950467524,Galien Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9487882,30.1256249,real
+node/12866470697,Pharmamed Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9481853,30.1270406,real
+node/12950467498,Unique Rehabilitation Clinic,,physiotherapist,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9482566,30.1227631,real
+node/12866366548,Kavez Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9484178,30.1274929,real
+node/12909387562,TONA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9484537,30.1265196,real
+node/10864896057,Dental Teaching Clinic/ UR Polyclinic,dentist,dentist,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9484851,30.1220326,real
+node/12909438374,GOODLIFE PHARMACEUTICALS,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.948529,30.1265639,real
+node/12909424015,CLINIC GALIEN,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.948529,30.1265639,real
+node/12909418076,DOCTORS ' PLAZA CLINIC,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.948529,30.1265639,real
+node/12909438375,AMOL HEALTH AFRICA,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.948529,30.1265639,real
+node/12887406563,Ravi Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9485866,30.1262184,real
+node/12950467547,Kwetu Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9612009,30.1177113,real
+node/12950465335,Ubuzima Polyclinic,hospital,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9490684,30.1236554,real
+node/12950467858,Ur-Center For Mental Health,doctors,,other,Kigali City,Gasabo,RW12,Kimironko,-1.9490932,30.1231101,real
+node/12950465348,Dass Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9494396,30.1270181,real
+node/12909332431,TETA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9495993,30.1248747,real
+node/12950467382,Inyamibwa Hp Health Services,hospital,,other,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9498332,30.1270954,real
+node/12950467779,Rapha Medical Clinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9498743,30.1247284,real
+node/12864457263,Citipjarma,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9499683,30.1243908,real
+node/12864457261,GoodLife kimironko,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9502876,30.1240439,real
+node/12950467446,Pharmacie Le Normal,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9805632,30.0768884,real
+node/10896608808,Progress PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9825765,30.1038026,real
+node/12950467291,Goodness Pharmacy (A Mutti Pharmacy),pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9822198,30.050228,real
+node/12950467952,Amizero Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9818944,30.1095028,real
+node/12950467374,Nyarugenge District Hospital,hospital,,hospital,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.981521,30.0433428,real
+node/10830578259,,hospital,hospital,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9814405,30.0429886,real
+node/12950467739,Medicentre Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9812685,30.1043496,real
+node/10896608809,Ivuriro Ubumwe,hospital,hospital,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.9810854,30.1045551,real
+node/10830578260,,hospital,hospital,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9810693,30.0438287,real
+node/10896608811,Medicentre,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9808439,30.1046259,real
+node/10896608812,Teva,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9806564,30.1046407,real
+node/10896608807,Juan pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9828724,30.1037449,real
+node/12950467352,Healthland Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9804682,30.0420566,real
+node/12950467861,Gatenga Health Centre,hospital,,health_center,Kigali City,Kicukiro,RW13,Kicukiro,-1.980338,30.0914382,real
+node/12950467828,Ira Rx Clinic Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9800261,30.1020343,real
+node/12950467667,Unika Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Kigali,-1.9799024,30.0371866,real
+node/12950467800,Izere Health Post,hospital,,health_post,Kigali City,Kicukiro,RW13,Kicukiro,-1.9796677,30.0995957,real
+node/12950467775,St Samuel Ihumure Pharmacy,pharmacy,,pharmacy,South,Kamonyi,RW28,Runda,-1.9793195,29.9566966,real
+node/12950468091,Medwise Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9789975,30.0962569,real
+node/12950467852,La Divine,hospital,,other,Kigali City,Kicukiro,RW13,Kigarama,-1.9789629,30.0850443,real
+node/12950467260,Impuhwe Dispensaire,hospital,,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.978715,30.0871301,real
+node/10882986156,Le Sauveur Dispensary,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Remera,-1.9645721,30.1197298,real
+node/10892016124,SABANS Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9614671,30.1211049,real
+node/12950465358,Kira Vuba Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9615047,30.1367114,real
+node/11862486778,LA Kevine pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9615348,30.1367659,real
+node/10865410928,Ijabo Clinic,clinic,clinic,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9616182,30.1340839,real
+node/10892016117,Ivuriro James,clinic,clinic,clinic,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9627327,30.1234243,real
+node/12950467517,Health Net Care Post,hospital,,other,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9627643,30.1400402,real
+node/12950467604,Best Care Specialists Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Remera,-1.9636133,30.1144185,real
+node/12950467877,Physiotherapy/Best Care S. Hospital,,laboratory,hospital,Kigali City,Gasabo,RW12,Remera,-1.9637619,30.1144774,real
+node/12950467892,Beula Health Post,hospital,,health_post,South,Muhanga,RW27,Shyogwe,-2.0872142,29.7507249,real
+node/12950468075,Bella Vitae Medical Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Ndera,-1.9653127,30.1473346,real
+node/12950467723,Top Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Niboye,-1.9656271,30.1199185,real
+node/12950467180,Pharmacie Royale,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.9667927,30.1623879,real
+node/6264042287,Pharmacy Divine,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.967317,30.1627884,real
+node/12950468009,Musanze Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Ndera,-1.9673965,30.1565551,real
+node/12950467403,Ibn-Sinai,hospital,,other,Kigali City,Gasabo,RW12,Ndera,-1.967708,30.1757608,real
+node/12950467976,Legacy Clinics,hospital,,clinic,Kigali City,Gasabo,RW12,Ndera,-1.967764,30.1628787,real
+node/11012436882,Legacy Hospital,hospital,hospital,hospital,Kigali City,Gasabo,RW12,Ndera,-1.9679378,30.1632721,real
+node/12950467880,Zenn Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.983016,30.1073829,real
+node/12950467841,Gatwaro Health Centre,hospital,,health_center,West,Karongi,RW31,Bwishyura,-2.0669168,29.3455593,real
+node/12950467994,Edson Gidion,hospital,,other,South,Huye,RW24,Tumba,-2.6228055,29.7390489,real
+node/12950467606,Musange Health Post,hospital,,health_post,South,Huye,RW24,Tumba,-2.6228237,29.7208436,real
+node/12950468030,Muyira Health Post,hospital,,health_post,South,Gisagara,RW22,Kibirizi,-2.6244886,29.7970958,real
+node/12950467855,Tumba Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Tumba,-2.6261095,29.741469,real
+node/12950467660,Daviphar Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Mukura,-2.6394324,29.746043,real
+node/12950467369,Kabilizi Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Rusenge,-2.6409488,29.6233631,real
+node/12950465370,Crete Congo Nil Health Centre,hospital,,health_center,West,Rutsiro,RW32,Gihango,-1.964284,29.3860478,real
+node/12950467647,Kibingo Health Centre,hospital,,health_center,West,Rutsiro,RW32,Gihango,-1.9962032,29.3570926,real
+node/12950467187,Mushubati Health Centre,hospital,,health_center,West,Rutsiro,RW32,Mushubati,-2.0128697,29.3997494,real
+node/12950467856,Muganga Eveliyana,hospital,,other,West,Rutsiro,RW32,Mushubati,-2.0243165,29.39285,real
+node/12950467324,Kirarambogo Health Centre,hospital,,health_center,South,Gisagara,RW22,Gishubi,-2.6207571,29.899979,real
+node/12950467141,Kibuye Referral Hospital,hospital,,hospital,West,Karongi,RW31,Bwishyura,-2.0671366,29.3463164,real
+node/12950467629,Karongi Hospital,hospital,,hospital,West,Karongi,RW31,Bwishyura,-2.0677916,29.3462098,real
+node/12950467203,Kindness Pharmacy,pharmacy,,pharmacy,West,Karongi,RW31,Bwishyura,-2.070265,29.3525706,real
+node/12950465352,Lilac Pharmacy,pharmacy,,pharmacy,West,Karongi,RW31,Bwishyura,-2.0704409,29.3526571,real
+node/12950467813,Bubazi Health Centre,hospital,,health_center,West,Karongi,RW31,Rubengera,-2.0728244,29.4321882,real
+node/12950465350,Karora Health Centre,hospital,,health_center,West,Karongi,RW31,Mubuga,-2.0875104,29.2907627,real
+node/12950467585,Karambo Health Centre,hospital,,health_center,West,Karongi,RW31,Gitesi,-2.1116924,29.4219954,real
+node/8223088224,Kirambo Health Centre,clinic,clinic,health_center,West,Karongi,RW31,Gitesi,-2.1117882,29.4218546,real
+node/12950467661,Huye District Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6090607,29.7360663,real
+node/12950465369,Ebenephar Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6045205,29.7390096,real
+node/12950467621,Cusp,hospital,,other,South,Huye,RW24,Ngoma,-2.604741,29.7415114,real
+node/12950467262,Victory,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6050754,29.7405647,real
+node/12950467600,Pharmacie Du Marche,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6054064,29.7387918,real
+node/12950465395,Sunrise Pharmacy Ltd,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6054239,29.7386925,real
+node/12950467583,Urumuli Pharmacy Ltd,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6055856,29.7385455,real
+node/12950467705,Mpore,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6064839,29.7377761,real
+node/12950467768,District Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6067026,29.7470458,real
+node/12950467219,Farumasi,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6069148,29.7371496,real
+node/12950467123,Kabutare District Hospital,hospital,,hospital,South,Huye,RW24,Ngoma,-2.6071358,29.7478021,real
+node/12950468045,Mpembe Health Centre,hospital,,health_center,West,Karongi,RW31,Gishyita,-2.1176166,29.264655,real
+node/12950467415,Ur Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6102656,29.7367223,real
+node/12950468004,National Centre For Blood Transfusion,hospital,,other,South,Huye,RW24,Ngoma,-2.610517,29.7349496,real
+node/12950467505,University Teaching Hospital of Butare,hospital,,hospital,South,Huye,RW24,Ngoma,-2.6110354,29.7355617,real
+node/12950467854,Butare Chu National Referral Hospital,hospital,,hospital,South,Huye,RW24,Ngoma,-2.6116764,29.7352214,real
+node/12950467605,Chub Laboratory,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6119921,29.7339488,real
+node/12950465366,Surgery Dept.,hospital,,other,South,Huye,RW24,Ngoma,-2.6122174,29.735055,real
+node/12950467449,Pediatrics Dept,hospital,,other,South,Huye,RW24,Ngoma,-2.6123792,29.7356592,real
+node/12950468089,Mukura Health Centre,hospital,,health_center,South,Huye,RW24,Tumba,-2.6135546,29.7231505,real
+node/12950467166,Laboratoire Universitaire,hospital,,other,South,Huye,RW24,Tumba,-2.614715,29.7380965,real
+node/12950467673,Kizibira Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Kagano,-2.3657509,29.130447,real
+node/12950467380,Ishema Veterinary Pharmacy,pharmacy,,pharmacy,West,Nyamasheke,RW37,Karambi,-2.3185753,29.2489319,real
+node/12950468066,Shara Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Kagano,-2.3212533,29.1134084,real
+node/12950467859,Kibogora Hospital,hospital,,hospital,West,Nyamasheke,RW37,Kanjongo,-2.3263881,29.1321172,real
+node/10572724209,Elvino Pharmacy,pharmacy,pharmacy,pharmacy,West,Nyamasheke,RW37,Kanjongo,-2.3320256,29.1361335,real
+node/12950467570,Muyange Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Nyabitekeri,-2.333593,29.0220462,real
+node/12950465373,Nyamasheke Health Post,hospital,,health_post,West,Nyamasheke,RW37,Kagano,-2.3413149,29.0899547,real
+node/12950467497,Ruheru Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Kanjongo,-2.3519928,29.1701133,real
+node/12950467864,Tubeho Pharmacy,pharmacy,,pharmacy,West,Nyamasheke,RW37,Kagano,-2.3607456,29.0906392,real
+node/12950468025,Mukoma Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Nyabitekeri,-2.3632679,29.0114667,real
+node/12950465400,Kazibira Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Kagano,-2.3642111,29.1288694,real
+node/12950467326,Karambi Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Karambi,-2.3137765,29.2478443,real
+node/12950467239,Rugege Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Gatare,-2.3682841,29.381213,real
+node/12950467477,Gatare Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Gatare,-2.3804965,29.436333,real
+node/12950467831,Mugera Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Shangi,-2.3901288,29.0349226,real
+node/12950467961,Ishywa Health Centre,hospital,hospital,health_center,West,Rusizi,RW36,Nkombo,-2.3902784,28.9292713,real
+node/12950467970,Comptoire Pharmaceutique Amizero,pharmacy,,pharmacy,West,Nyamasheke,RW37,Cyato,-2.3908966,29.1856824,real
+node/12950467642,Shangi Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Shangi,-2.3936023,29.0082,real
+node/12950467725,Mwito Health Post,hospital,,health_post,West,Nyamasheke,RW37,Bushenge,-2.4009533,28.9816099,real
+node/12950467285,Cyinyonza Health Post,hospital,,health_post,South,Nyamagabe,RW25,Gatare,-2.4018323,29.4077824,real
+node/12950467776,Yove Health Centre,clinic,,health_center,West,Nyamasheke,RW37,Cyato,-2.4063689,29.1993968,real
+node/12950467346,Mahembe Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Mahembe,-2.2331633,29.2815739,real
+node/12950467176,Buhoro Health Centre,hospital,,health_center,West,Karongi,RW31,Gishyita,-2.1182921,29.2656898,real
+node/12950467545,Mubuga Health Centre,hospital,,health_center,West,Karongi,RW31,Gishyita,-2.1342992,29.3164756,real
+node/12950467540,Musango Health Centre,hospital,,health_center,West,Karongi,RW31,Gitesi,-2.1742035,29.4361643,real
+node/12950467662,Bisesero Health Centre,hospital,,health_center,West,Karongi,RW31,Rwankuba,-2.1778244,29.3357909,real
+node/12950467156,Gatare Health Centre,hospital,,health_center,West,Karongi,RW31,Rwankuba,-2.1791418,29.371456,real
+node/12950467947,Mugonero Hospital,hospital,,hospital,West,Karongi,RW31,Gishyita,-2.1811817,29.2927245,real
+node/1403167994,,hospital,,other,West,Karongi,RW31,Gishyita,-2.1814081,29.2911129,real
+node/12950468029,Bigugu Health Centre,hospital,,health_center,West,Karongi,RW31,Rwankuba,-2.1817942,29.3723983,real
+node/12950467264,Kibingo Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Gihombo,-2.1995812,29.2612864,real
+node/12950465353,Kavumu Health Post,hospital,,health_post,West,Karongi,RW31,Twumba,-2.2228713,29.400137,real
+node/12950468010,Health Centre,hospital,,health_center,South,Huye,RW24,Ngoma,-2.6043056,29.7417096,real
+node/12950468086,Gisovu Health Centre,hospital,,health_center,West,Karongi,RW31,Twumba,-2.2345237,29.3596872,real
+node/12950467876,Jarama Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Kirimbi,-2.2346131,29.2256503,real
+node/12950467454,Mukungu Health Centre,hospital,,health_center,West,Karongi,RW31,Mutuntu,-2.2405676,29.4181136,real
+node/2201225062,Buganda - Adventiste,hospital,,other,West,Nyamasheke,RW37,Kirimbi,-2.24433,29.20032,real
+node/12950467769,Gisovu Health Post,hospital,,health_post,West,Karongi,RW31,Twumba,-2.2603256,29.3425241,real
+node/12950467372,Manji Health Post,hospital,,health_post,West,Karongi,RW31,Mutuntu,-2.280668,29.3870057,real
+node/12950467734,Nyarwungo Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Nkomane,-2.2961366,29.4087322,real
+node/12950467748,Gatare Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Macuba,-2.3015785,29.2154368,real
+node/12950467559,Murambi Health Post,hospital,,health_post,West,Nyamasheke,RW37,Nyabitekeri,-2.3076427,29.0301647,real
+node/12950465367,Mucubira Health Centre,hospital,,health_center,South,Nyanza,RW21,Cyabakamyi,-2.295597,29.642167,real
+node/12950467282,Ruhango Health Centre,hospital,,health_center,South,Ruhango,RW26,Ruhango,-2.2344143,29.7800495,real
+node/12950468074,Iwawe Pharmacie,pharmacy,,pharmacy,South,Ruhango,RW26,Ruhango,-2.236408,29.7871204,real
+node/12950468076,Gitwe Health Centre,hospital,,health_center,South,Ruhango,RW26,Bweramana,-2.2408612,29.6888937,real
+node/12950468035,Ihumure,hospital,,other,South,Ruhango,RW26,Ruhango,-2.2424109,29.7803945,real
+node/12950467425,Nyarurama Health Centre,hospital,,health_center,South,Ruhango,RW26,Ntongwe,-2.2444412,29.8738114,real
+node/12950467373,Gitwe Hospital,hospital,,hospital,South,Ruhango,RW26,Bweramana,-2.2473303,29.6892945,real
+node/12950468100,Kigoma Health Centre,hospital,,health_center,South,Ruhango,RW26,Ruhango,-2.2617568,29.7926915,real
+node/12950467394,Gatagara Health Centre,hospital,,health_center,South,Nyanza,RW21,Mukingo,-2.2728387,29.7400976,real
+node/12950467205,Busoro Health Centre,hospital,,health_center,South,Nyanza,RW21,Busoro,-2.2893504,29.9304473,real
+node/12950467576,Gashikiri Health Centre,hospital,,health_center,South,Nyanza,RW21,Kigoma,-2.2929689,29.8225397,real
+node/12950468037,Ingenzi Medical Clinic,pharmacy,,pharmacy,South,Ruhango,RW26,Ruhango,-2.2338996,29.7857274,real
+node/12950467294,Girubuzima Health Post Gatagara,hospital,,health_post,South,Nyanza,RW21,Mukingo,-2.303302,29.7617621,real
+node/12950467526,Nyabinyenga Hc,hospital,,health_center,South,Nyanza,RW21,Cyabakamyi,-2.3272393,29.6797934,real
+node/12950467470,Mweya Health Centre,hospital,,health_center,South,Nyanza,RW21,Nyagisozi,-2.3316169,29.6427177,real
+node/12950467313,Mututu Health Centre,hospital,,health_center,South,Nyanza,RW21,Kibilizi,-2.3392125,29.9291619,real
+node/12950467303,Nyamiyaga Health Centre,hospital,,health_center,South,Nyanza,RW21,Muyira,-2.3451876,29.8725147,real
+node/12950467300,Igihozo Medical Clinic Ltd,hospital,,clinic,South,Nyanza,RW21,Busasamana,-2.3480149,29.762215,real
+node/12950467710,Rurangazi Health Post,hospital,,health_post,South,Nyanza,RW21,Rwabicuma,-2.3489897,29.6632795,real
+node/12950468083,Nyamure Health Centre,hospital,,health_center,South,Nyanza,RW21,Muyira,-2.3491648,29.8419527,real
+node/12950467777,Gishike Health Centre,hospital,,health_center,South,Nyanza,RW21,Rwabicuma,-2.3493209,29.6894369,real
+node/12950467653,Mwendo Health Post,clinic,,health_post,South,Ruhango,RW26,Mwendo,-2.1632835,29.6935533,real
+node/12950467907,Blessing Pharmacy (A Mutti Pharmacy),pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0875589,29.7547258,real
+node/12950468016,Umurage Medical Clinic,clinic,,clinic,South,Muhanga,RW27,Shyogwe,-2.0882765,29.7549616,real
+node/12950467208,Pharmacie La Providence,pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0885134,29.7541017,real
+node/12950467426,Muhanga,clinic,,clinic,South,Muhanga,RW27,Shyogwe,-2.0887712,29.7539167,real
+node/12950467512,Kabgayi Hospital,hospital,,hospital,South,Muhanga,RW27,Nyamabuye,-2.103581,29.750775,real
+node/12950467954,Kavumu Health Post,hospital,,health_post,South,Muhanga,RW27,Nyamabuye,-2.107808,29.7511145,real
+node/12950467996,Shyogwe Health Centre,hospital,,health_center,South,Muhanga,RW27,Shyogwe,-2.1258579,29.7774743,real
+node/12950467908,Mbuye Health Centre,hospital,,health_center,South,Ruhango,RW26,Mbuye,-2.131355,29.8478313,real
+node/12950467129,Cyanza Health Centre,hospital,,health_center,South,Ruhango,RW26,Mbuye,-2.1427348,29.8116774,real
+node/12950468058,Muremure Health Centre,hospital,,health_center,South,Ruhango,RW26,Kinihira,-2.1545669,29.619901,real
+node/12950467801,Nura Pharmacy Ltd,pharmacy,,pharmacy,South,Nyanza,RW21,Busasamana,-2.3522464,29.751499,real
+node/12950465389,Nyarusange Health Centre,hospital,,health_center,South,Ruhango,RW26,Mwendo,-2.1635288,29.6890427,real
+node/12950467319,Muyunzwe Health Centre,hospital,,health_center,South,Ruhango,RW26,Mwendo,-2.1677751,29.6613095,real
+node/12950467722,Kizibere Health Centre,hospital,,health_center,South,Ruhango,RW26,Mbuye,-2.1726091,29.8184162,real
+node/12950467894,Kinazi Health-Post,hospital,,other,South,Ruhango,RW26,Kinazi,-2.1780425,29.9249614,real
+node/12950467147,Kinazi Health Centre,hospital,,health_center,South,Ruhango,RW26,Kinazi,-2.1924279,29.9046893,real
+node/12950467419,Ruhango Provincial Hospital,hospital,,hospital,South,Ruhango,RW26,Kinazi,-2.1951081,29.9061474,real
+node/12950467978,Kinazi Sector Office,hospital,,other,South,Ruhango,RW26,Kinazi,-2.1988942,29.9064574,real
+node/12950467167,Kabuga Health Post,clinic,,health_post,South,Ruhango,RW26,Kinazi,-2.212654,29.927369,real
+node/12950467337,Umufasha,hospital,,other,South,Ruhango,RW26,Ruhango,-2.2330799,29.8378855,real
+node/12950468040,Growth Monitoring 6-59 Age Group,hospital,,other,South,Gisagara,RW22,Ndora,-2.585822,29.8441631,real
+node/12950467104,Agrovet Pharmacy,pharmacy,,pharmacy,South,Gisagara,RW22,Gikonko,-2.4951663,29.8800659,real
+node/12950467808,Simbi Health Centre,hospital,,health_center,South,Huye,RW24,Simbi,-2.5137155,29.6674698,real
+node/12950467546,Kimana Health Post,hospital,,health_post,South,Gisagara,RW22,Gikonko,-2.513742,29.8157891,real
+node/12950468061,Maraba Health Centre,hospital,,health_center,South,Huye,RW24,Simbi,-2.5209845,29.6782439,real
+node/12950467838,Ruhashya Health Post,hospital,,health_post,South,Huye,RW24,Ruhashya,-2.5235171,29.7664704,real
+node/12950467500,Girubuzima Health Post Shyanda,hospital,,health_post,South,Gisagara,RW22,Save,-2.5305465,29.7910629,real
+node/12950467598,Musha Health Centre,hospital,,health_center,South,Gisagara,RW22,Musha,-2.5352881,29.859221,real
+node/12950467414,Save Health Centre,hospital,,health_center,South,Gisagara,RW22,Save,-2.545749,29.7714819,real
+node/12950467292,Rukira Health Centre,hospital,,health_center,South,Huye,RW24,Huye,-2.585065,29.7134177,real
+node/12950465361,Gishubi Health Centre,hospital,,health_center,South,Gisagara,RW22,Gishubi,-2.5856829,29.8730719,real
+node/12950467718,Gikonko Health Centre,hospital,,health_center,South,Gisagara,RW22,Gikonko,-2.4842598,29.8552099,real
+node/12950467112,Isonga Pharmacy Ltd,pharmacy,,pharmacy,South,Huye,RW24,Huye,-2.5861659,29.6890263,real
+node/12950465368,Wema Retail Pharmacy Ltd,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.5969062,29.720261,real
+node/12950468068,Viva Branch Pharmancy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.5976791,29.7398133,real
+node/12950467105,Salus Polyclinic,clinic,,clinic,South,Huye,RW24,Ngoma,-2.5977468,29.7395953,real
+node/12950467883,Matyazo Health Centre,hospital,,health_center,South,Huye,RW24,Ngoma,-2.5978968,29.7202535,real
+node/12950467488,La Medicale Clinic,clinic,,clinic,South,Huye,RW24,Ngoma,-2.598345,29.7454579,real
+node/12950467511,Police Clinic,hospital,,clinic,South,Huye,RW24,Ngoma,-2.5993057,29.7302753,real
+node/12950467381,Gisagara Health Centre,hospital,,health_center,South,Gisagara,RW22,Ndora,-2.5993496,29.8379103,real
+node/12950467479,Hoho Pharmacy,pharmacy,,pharmacy,South,Huye,RW24,Ngoma,-2.6033112,29.7397523,real
+node/12950467106,Cyaratsi Health Centre,hospital,,health_center,South,Nyanza,RW21,Rwabicuma,-2.3859696,29.7142557,real
+node/12950468017,Nyanza Health Centre,hospital,,health_center,South,Nyanza,RW21,Busasamana,-2.3525265,29.7491001,real
+node/12950467311,Mediserv Pharmacy,pharmacy,,pharmacy,South,Nyanza,RW21,Busasamana,-2.3528138,29.7517695,real
+node/9024499519,Clinic des grands lacs,clinic,,clinic,South,Nyanza,RW21,Busasamana,-2.3531708,29.7483403,real
+node/12950467407,Nyanza District Hospital,hospital,,hospital,South,Nyanza,RW21,Busasamana,-2.3532213,29.7497339,real
+node/12950467579,Initiative Pharmacy,hospital,,pharmacy,South,Nyanza,RW21,Busasamana,-2.3535493,29.751973,real
+node/12950467255,"Health Post Gahondo,Kiberinka",hospital,,health_post,South,Nyanza,RW21,Busasamana,-2.3698178,29.7687619,real
+node/12950467601,Cyahafi Health Centre,hospital,,health_center,South,Nyanza,RW21,Rwabicuma,-2.3815972,29.6760217,real
+node/12950468096,Kibilizi (Nyanza) Health Centre,hospital,,health_center,South,Nyanza,RW21,Kibilizi,-2.3855712,29.8948409,real
+node/12909349679,CARE FIRST PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.948168,30.1272578,real
+node/12950467567,Gakoma South Gisagara,hospital,,other,South,Nyanza,RW21,Kibilizi,-2.387634,29.8680379,real
+node/12950467420,Ruyenzi Health Centre,hospital,,health_center,South,Nyanza,RW21,Ntyazo,-2.4249385,29.8298499,real
+node/12950467451,Ntyazo Health Centre,hospital,,health_center,South,Nyanza,RW21,Ntyazo,-2.4283597,29.8854091,real
+node/12950467236,Rwaniro Health Centre,hospital,,health_center,South,Huye,RW24,Rwaniro,-2.4351317,29.7049238,real
+node/12950467802,Kinyamakara Health Centre,hospital,,health_center,South,Huye,RW24,Kigoma,-2.4730758,29.6485963,real
+node/12950467934,Rubona Health Centre,hospital,,health_center,South,Huye,RW24,Rusatira,-2.4771536,29.7680676,real
+node/12950467304,Nyangazi Health Post,hospital,,health_post,South,Huye,RW24,Simbi,-2.4817074,29.6746637,real
+node/12950467614,Gakoma Hospital,hospital,,hospital,South,Gisagara,RW22,Mamba,-2.4830354,29.9178543,real
+node/10188293458,Health Center Gikonko,,yes,health_center,South,Gisagara,RW22,Gikonko,-2.4842134,29.8556369,real
+node/12950467306,Pharmacie Bora,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9280478,30.0464111,real
+node/12896410333,PHARM CARE,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9335164,30.0619568,real
+node/12950467139,Kacyiru District Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Kacyiru,-1.9332052,30.0747648,real
+node/12950467298,Gilmed,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9314602,30.0719596,real
+node/12896410336,YVANNA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9309935,30.0581071,real
+node/12950468051,Frontier Diagnostic Center,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9302405,30.0978766,real
+node/12896410334,ELON PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9300188,30.0644586,real
+node/12950467121,Bion Pharma Group,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9296728,30.0707984,real
+node/12896410337,GAMILLA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9289113,30.0574077,real
+node/12950467623,Ql Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9282436,30.0647175,real
+node/12903299437,DISPANSAIRE URUGWIRO,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9280682,30.0591436,real
+node/12950468099,Rbc Kacyiru,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9336267,30.0769469,real
+node/12903299438,AMAGARAMAZIMA NIBWO BUTUNZI,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9280144,30.0584226,real
+node/12896410335,NARADA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9276933,30.0643716,real
+node/12903280261,Ineza Health Post,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9274822,30.0599645,real
+node/12950465347,Medplus Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9274114,30.0563633,real
+node/12950467297,Ibimera Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Gisozi,-1.9272711,30.059102,real
+node/12950467893,Goodlife Health & Beauty - Medplus Gisozi,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9272658,30.0562977,real
+node/12886678399,Medplus Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9271933,30.0564252,real
+node/12950467336,International Dispensary Kigali,hospital,,other,South,Kamonyi,RW28,Runda,-1.9266552,29.9914383,real
+node/12950468002,Confidence Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9263996,30.0558176,real
+node/12950467222,Ineza Physiotherapy Clinic,doctors,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9360795,30.1001945,real
+node/8075544216,Ezos Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9387313,30.0775191,real
+node/12894594535,MIZERIWACU,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9381887,30.0497372,real
+node/12950467613,Gakamba Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Kacyiru,-1.9381217,30.0782301,real
+node/8715010681,Baho International Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Remera,-1.9375995,30.1015856,real
+node/12950467113,Bwiza Medical Clinic And Diagnostic Center Ltd.,,laboratory,clinic,Kigali City,Gasabo,RW12,Kacyiru,-1.9374301,30.0643444,real
+node/12950467740,Maxphar Pharnacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9370865,30.062424,real
+node/12950467805,Muhima Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Gisozi,-1.9368669,30.0577869,real
+node/12950467154,Pharmacie Conseil,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9366119,30.0993425,real
+node/12950467912,Polyclinique Saint Robert,hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9364208,30.0582937,real
+node/12950467617,Pharmacie Auberge,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9361105,30.0807116,real
+node/12950467754,Ivuriro Sagamba,hospital,,other,Kigali City,Gasabo,RW12,Kacyiru,-1.9263122,30.067469,real
+node/12950467365,Polyclinique La Medicale,hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9359009,30.0543286,real
+node/5463302021,pharmacie a gaz,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.935812,30.0598657,real
+node/12894594536,JOHN'S PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9357686,30.0541786,real
+node/12950467676,Sunshine Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.93573,30.0993972,real
+node/12896410330,GET WELL PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9351654,30.0634079,real
+node/12950467783,Getwell Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9351492,30.0634254,real
+node/12896410331,MARANATHA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9341259,30.0619097,real
+node/12950467217,Inephar Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9340697,30.0618248,real
+node/12950467342,Amina Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.916128,30.0754059,real
+node/12950467577,Goodlife Health & Beauty - Gacuriro Branch,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9233512,30.0948365,real
+node/12950465393,Bella Care Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9233182,30.0709519,real
+node/12886678398,Meva Pharmacy Ltd,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9217299,30.0541765,real
+node/12909377897,PRECIOUS PHARMACY LTD,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gatsata,-1.9211205,30.0482063,real
+node/12950467412,Gisozi,hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9204266,30.0609044,real
+node/12950465330,Life Line Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9198072,30.0664532,real
+node/12950467812,Kigali Mental Health Referral Centre,doctors,,other,Kigali City,Gasabo,RW12,Kinyinya,-1.9193739,30.1117982,real
+node/12886678400,2050 Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9191648,30.056246,real
+node/12950467519,2050 Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9185396,30.0564205,real
+node/2655649500,Nobilis Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9175408,30.0720782,real
+node/12950467533,"Vine Pharmacy, Kanombe",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.92373,30.0577822,real
+node/12950467422,Agro-Vet Pharmacy Services,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9155585,30.0782101,real
+node/12950467684,Advanced Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9152687,30.0669518,real
+node/12950467958,Amaya Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9152274,30.0670699,real
+node/12950467233,Karuruma Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Gatsata,-1.9150189,30.045045,real
+node/12950467506,Salem Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Kinyinya,-1.9149773,30.0886764,real
+node/12950467198,Dakota Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9144772,30.0648732,real
+node/12950467288,Neza Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Kinyinya,-1.9143735,30.1089328,real
+node/12950467350,Silowamu Medical Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Gisozi,-1.9141712,30.075426,real
+node/12950467580,The Standards Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9137041,30.0757263,real
+node/12950467596,Riio Ihospital - Kigali Eye Specialists & Optical Services,hospital,,hospital,Kigali City,Gasabo,RW12,Remera,-1.9261936,30.096696,real
+node/12950468041,"Kipharma Pharmacy, Nyarutarama (B4)",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9261371,30.0972514,real
+node/12950467185,Ruhango Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Gisozi,-1.9259777,30.0605443,real
+node/12950467463,Rwanda International Institute Of Ophthalmology (Riio) And Riio Ihospital,hospital,,hospital,Kigali City,Gasabo,RW12,Remera,-1.9259043,30.0968341,real
+node/12896410340,MEDVIBE PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9257925,30.0554625,real
+node/12896410342,250PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9257925,30.0554625,real
+node/12896410339,AERIS PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9257925,30.0554625,real
+node/12896410344,OMICA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9257925,30.0554625,real
+node/12950467641,Destophar Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9391856,30.077243,real
+node/12896410341,MEVA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9257925,30.0554625,real
+node/12950467555,"Vine Pharmacy, Gacuriro",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9254177,30.0971616,real
+node/12950467235,Pulse Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9249641,30.0956454,real
+node/12950467353,Lifecare (Multi-Speciality Clinic),clinic,,clinic,Kigali City,Gasabo,RW12,Kinyinya,-1.9249052,30.095608,real
+node/12896410347,ISHEMA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9244027,30.0546622,real
+node/9016139717,Life Line,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9243193,30.0699447,real
+node/12950468046,Minas Medical Center,hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9242668,30.0691706,real
+node/12950467453,Sharon Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9242278,30.0705309,real
+node/6263839986,,pharmacy,,pharmacy,East,Kayonza,RW54,Mukarange,-1.9018781,30.506896,real
+node/12950467752,Nyarutarama Medical Center,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.950568,30.0993109,real
+node/3808790336,Solamer Kimihurura Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Kimihurura,-1.9498275,30.0794748,real
+node/12950468095,Go Healthy Ltd,hospital,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9495407,30.0597308,real
+node/6273979692,,clinic,,clinic,Kigali City,Gasabo,RW12,Kimihurura,-1.9494581,30.0808745,real
+node/12950465397,Sainte Elisa Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Kimihurura,-1.9493048,30.0808209,real
+node/12950467175,Pharmacy Best Care,pharmacy,,pharmacy,East,Kayonza,RW54,Mukarange,-1.8994659,30.5074394,real
+node/12950467888,Mg Health Relief,hospital,,other,East,Kayonza,RW54,Mukarange,-1.900072,30.5090366,real
+node/12950465398,Lifeplus Pharmacy [Kayonza Town/Rwanda],pharmacy,,pharmacy,East,Kayonza,RW54,Mukarange,-1.9002803,30.5073566,real
+node/12950465349,Ruhunda Health Centre,hospital,,health_center,East,Rwamagana,RW51,Gishali,-1.9003817,30.4125178,real
+node/1841517448,Conseille Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimihurura,-1.95096,30.0929105,real
+node/12950467388,Pharmacie Lelapharma,pharmacy,,pharmacy,East,Kayonza,RW54,Mukarange,-1.9030972,30.5069277,real
+node/12950467821,Gishari Health Post,hospital,,health_post,East,Rwamagana,RW51,Gishali,-1.9144077,30.4252678,real
+node/12950467172,City Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.947453,30.0570472,real
+node/12950467648,Isangano Health Post,hospital,,health_post,East,Kayonza,RW54,Rwinkwavu,-1.9272823,30.5942228,real
+node/12950465385,Gishanda Health Post,hospital,,health_post,East,Kayonza,RW54,Kabare,-1.9452685,30.668904,real
+node/11651402134,EOBC Church Building,doctors,doctor,other,East,Nyagatare,RW52,Musheri,-1.1254176,30.4205099,real
+node/12950467206,Matimba Health Centre,hospital,,health_center,East,Nyagatare,RW52,Matimba,-1.1261645,30.4261877,real
+node/12950468011,Gakagati Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rwimiyaga,-1.2027034,30.4836801,real
+node/12950467622,Nyendo Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rwimiyaga,-1.2043606,30.4038517,real
+node/12877400810,Unipharma,pharmacy,pharmacy,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9464415,30.0568895,real
+node/12950467823,Health Post Kimisagara Katabaro,hospital,,health_post,Kigali City,Nyarugenge,RW11,Kimisagara,-1.9472666,30.0485867,real
+node/12950467207,Pharmacie Unique Kimihurura,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9469681,30.0775105,real
+node/4169751789,Pineda,dentist,dentist,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9469072,30.0672589,real
+node/12950467409,Le Medical Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9468514,30.0569907,real
+node/12950467809,Score Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9468174,30.069961,real
+node/12950467989,Iranzi Clinic- Birth Centre,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9467133,30.106896,real
+node/12950467995,Agrotech.Ltd.,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9466837,30.0585853,real
+node/12950467321,Dynamic Healthcare,hospital,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9466218,30.0705018,real
+node/12877400809,Health Link Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.946477,30.0570273,real
+node/12950467953,Goodlife Health & Beauty - Town Branch,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9464587,30.0596129,real
+node/12950467115,Donath Agro-Vet Pharmacy,pharmacy,,pharmacy,East,Nyagatare,RW52,Rwimiyaga,-1.2303296,30.4107165,real
+node/12950467991,Iom Migration Health Assessment Center,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9464349,30.0942806,real
+node/12950467111,Rasano Health Centre,hospital,,health_center,West,Rusizi,RW36,Bweyeye,-2.5914609,29.1735576,real
+node/10989126893,MILLO CLINIC,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Gisozi,-1.9426149,30.0446351,real
+node/12950467466,Rutare Health Centre,hospital,,health_center,East,Kayonza,RW54,Mukarange,-1.9254744,30.5554268,real
+node/12950467133,Hope Vision Life,hospital,,other,East,Kayonza,RW54,Mukarange,-1.8985316,30.5080903,real
+node/12950467398,Pharmacie Fidele,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.945582,30.0600538,real
+node/12950467885,Bwiza Health Post,hospital,,health_post,East,Kayonza,RW54,Mukarange,-1.8828994,30.494846,real
+node/12950467930,,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9514976,30.1097976,real
+node/12950467971,Tetero Health Post,clinic,,health_post,Kigali City,Gasabo,RW12,Gisozi,-1.9404351,30.05084,real
+node/6267340688,Pharma Plus,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9416145,30.0456848,real
+node/12950468092,Lotus Medical Group,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9415978,30.0592434,real
+node/12950467144,Pharma Plus Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9415781,30.0456391,real
+node/12950467284,Africa Medical Supplier,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.941265,30.059497,real
+node/12950467753,Bio Medical Center Rwanda,,laboratory,other,Kigali City,Gasabo,RW12,Gisozi,-1.9412196,30.0594692,real
+node/12950467428,Nzove Health Post,hospital,,health_post,Kigali City,Nyarugenge,RW11,Kanyinya,-1.9411978,30.0015794,real
+node/4693428652,Clinique Bien Naitre,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Gisozi,-1.9411134,30.0616204,real
+node/12950467794,Harmony Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Gisozi,-1.941104,30.0589174,real
+node/12950467900,Nyarurenzi Health Centre,clinic,,health_center,Kigali City,Gasabo,RW12,Gisozi,-1.9410615,30.0509257,real
+node/12950467252,Sanophar Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9408725,30.0474995,real
+node/12950467516,Sunivas Healthcare,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9417765,30.0584235,real
+node/12950467467,Bovan Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9403953,30.047009,real
+node/12894529737,OMEGA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9403749,30.0469218,real
+node/12950467150,"Dr. Jhon Cloths,",hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9403088,30.0617941,real
+node/12950467702,Atlas Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.940119,30.0470438,real
+node/12950467128,Farmer'S Choice,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.94005,30.0478596,real
+node/12894594534,ATLAS PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9399512,30.0472485,real
+node/12950467955,Mental Health,hospital,,other,Kigali City,Gasabo,RW12,Kacyiru,-1.9397054,30.0792798,real
+node/12950467914,Hamphar Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kacyiru,-1.9395278,30.0770614,real
+node/12950467299,Kageyo I Health Centre,hospital,,health_center,East,Kayonza,RW54,Mwiri,-1.8394241,30.6537018,real
+node/12950467315,Bugaragara Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rwimiyaga,-1.290323,30.4122216,real
+node/12950467538,Ndama Health Centre,hospital,,health_center,East,Nyagatare,RW52,Karangazi,-1.4125053,30.4700453,real
+node/12950465394,Musenyi Health Post,hospital,,health_post,East,Nyagatare,RW52,Karangazi,-1.5000902,30.4049987,real
+node/12950467582,Rwimbogo Health Centre,hospital,,health_center,East,Gatsibo,RW53,Rwimbogo,-1.607175,30.5023087,real
+node/12950467404,Nyamatete Health Centre,hospital,,health_center,East,Gatsibo,RW53,Rwimbogo,-1.6243035,30.4410516,real
+node/12950467675,Urukundo Health Post,hospital,,health_post,East,Gatsibo,RW53,Rwimbogo,-1.6388027,30.4467546,real
+node/2444227441,,pharmacy,,pharmacy,East,Kayonza,RW54,Murundi,-1.8019875,30.5010362,real
+node/12950467199,Rukara Health Post,hospital,,health_post,East,Kayonza,RW54,Rukara,-1.8179362,30.4790163,real
+node/12950467898,Nyakabungo Health Centre,hospital,,health_center,East,Kayonza,RW54,Gahini,-1.8390293,30.5810372,real
+node/12905853300,JUST PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9135233,30.0871058,real
+node/12950467401,Kahi Health Post,hospital,,health_post,East,Kayonza,RW54,Rukara,-1.8398544,30.4924375,real
+node/12950467204,Gahini District Hospital,hospital,,hospital,East,Kayonza,RW54,Rukara,-1.8414101,30.4834746,real
+node/12950468060,Isange One Stop Center Gahini Hospital,hospital,,hospital,East,Kayonza,RW54,Rukara,-1.8419477,30.4819027,real
+node/12950467417,La Life Polyclinic Ent(Orl),clinic,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9488269,30.0681785,real
+node/12950468082,Ivuriro Emmergency Care,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9424583,30.0620457,real
+node/12950468055,Goal Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9422882,30.0446357,real
+node/12950467330,Deva Medical Center,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9421035,30.1018091,real
+node/12950467359,Pharmacie Iriho Limited,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9419476,30.0490328,real
+node/12950465384,Atone Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9418697,30.0439804,real
+node/12950467917,Pharmacie Unique Remera,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9579387,30.1064607,real
+node/12899334077,SALAMA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9584842,30.1106206,real
+node/12889164766,Horebu Medical Clinic,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Remera,-1.958474,30.1073711,real
+node/12950467371,Eza Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9584164,30.1104959,real
+node/12950467173,Dorrie Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9583123,30.0540579,real
+node/12950467522,La Croix du Sud Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Remera,-1.9582816,30.1061156,real
+node/12889164764,Rite pharmacy (Gisiment Branch),pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9582517,30.106718,real
+node/12889164768,Unipharma B1,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9582155,30.1116037,real
+node/12889164763,Unique Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9581829,30.1066491,real
+node/12950468014,"Kipharma Pharmacy, Remera (B1)",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9581439,30.1115895,real
+node/12950468088,Ent (Orl) Clinic Mental Health Services,doctors,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9585846,30.1071462,real
+node/12950465334,CHUK Clinic,clinic,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9578564,30.0604553,real
+node/12950467566,Polyclinique La Croix Du Sud,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9570839,30.1049374,real
+node/12950465337,Vf Lucis Pharmcy Ltd,pharmacy,,pharmacy,South,Kamonyi,RW28,Runda,-1.9570009,29.9451481,real
+node/12950467557,Pharmacie Marebe,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9567157,30.0636349,real
+node/12950467646,University Teaching Hospital Of Kigali (CHUK),hospital,,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9559588,30.0604352,real
+node/12950465331,Peace Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9558171,30.0535629,real
+node/12950467637,Baho Medical Center,hospital,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9548829,30.0602042,real
+node/12950465379,Ur - Polyclinic,clinic,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9545563,30.063446,real
+node/12950467159,Le Medical Ltd,pharmacy,,pharmacy,South,Kamonyi,RW28,Runda,-1.9544927,29.9808264,real
+node/12950467640,St Peter Biomedical Laboratories Clinic,hospital,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9590148,30.0599413,real
+node/12950468087,"Ejo Heza Surgical Centre, Specialized Hospital",hospital,hospital,hospital,Kigali City,Gasabo,RW12,Remera,-1.9606015,30.1029153,real
+node/12950467523,Le Bon Samaritain,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.960586,30.1032881,real
+node/12899381382,GIPHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9605599,30.1070481,real
+node/12950467620,"Vine Pharmacy, Kisimenti",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9604231,30.1091065,real
+node/12950467584,Polyclinique Du Plateau,clinic,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9603523,30.1116408,real
+node/12950467390,Lancet Laboratories Rwanda,,laboratory,other,Kigali City,Gasabo,RW12,Remera,-1.9602531,30.109843,real
+node/12950467423,Ngabo Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9591741,30.1091981,real
+node/12950467361,Teta Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9591311,30.1094991,real
+node/12950467164,Emerald Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Remera,-1.9591267,30.1070338,real
+node/12950467530,Pharma Best Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9590856,30.1101536,real
+node/12950467658,Rite Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9541835,30.0608744,real
+node/12950467368,Centre Medical Orkide,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9589435,30.1085698,real
+node/12899382515,GOODLIFE HEALTH AND BEAUTY PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9589039,30.1102953,real
+node/12899366392,VINE PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9589039,30.1102953,real
+node/12899382516,ACCURX PHARMACY,,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9589039,30.1102953,real
+node/12899341027,NEW HOPE PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9589039,30.1102953,real
+node/12899350719,PHARMACIE TETA,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9589039,30.1102953,real
+node/12889164767,Mediasol Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9586884,30.1106216,real
+node/12889164765,Avega Clinic,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Remera,-1.9586802,30.1070649,real
+node/12950467666,Mediasol Pharmacy Ltd Remera,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9585982,30.1106118,real
+node/12950467844,Inshuti Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9471311,30.1126604,real
+node/12950467747,Ethia Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9443857,30.1298752,real
+node/12950468077,Gasogi Health Post,clinic,,health_post,Kigali City,Gasabo,RW12,Ndera,-1.9455631,30.1900848,real
+node/12950467508,Rubungo Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Ndera,-1.946089,30.1739203,real
+node/12950467631,La Cura Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9463614,30.1281306,real
+node/12909365773,WAKANDA HEALTH STORE,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9464987,30.1282561,real
+node/12950467510,Pharmacie Continental,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9465603,30.1283005,real
+node/12909365772,WELLNESS PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9466717,30.1281177,real
+node/12909407555,Precious Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9468138,30.1279798,real
+node/12950468047,Association Irabem Makera,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Nyarugunga,-1.9468266,30.1329474,real
+node/12950467432,Dena Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.942261,30.129087,real
+node/12909395880,Ireme Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9471318,30.128027,real
+node/12950467628,Omega Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Kimironko,-1.947167,30.1277626,real
+node/12909349246,FAVOUR RELAX MASSAGE CENTER,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9472115,30.1285069,real
+node/12950467539,Ishema Pharmacare,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9473756,30.127476,real
+node/12950468052,Kigali Women And Fertility Center,hospital,,other,Kigali City,Gasabo,RW12,Ndera,-1.9474341,30.1472122,real
+node/12909353949,DENTAL EXPERTS CLINIC,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9474475,30.1279552,real
+node/12950467400,National Mental Hospital,clinic,,hospital,Kigali City,Gasabo,RW12,Ndera,-1.9474856,30.1931774,real
+node/12909353948,Sanitatem Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9475051,30.1278977,real
+node/12950467140,Medicus Humanus Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9398405,30.1293286,real
+node/12950467496,"Advanced Medical Diagnostics Clinic, Kigali",clinic,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9536006,30.060873,real
+node/12950467131,"Vine Pharmacy, Kigali Heights",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimihurura,-1.9531973,30.0929992,real
+node/12950467202,Ahn - Kigali Dialysis Center,clinic,,clinic,Kigali City,Gasabo,RW12,Kimihurura,-1.953112,30.0833861,real
+node/12950467980,Asha Medical Services (Manipal Group Of Hospitals),hospital,,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.952978,30.061099,real
+node/1841447194,,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9528334,30.1028383,real
+node/5778887311,,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimihurura,-1.9526982,30.0927911,real
+node/12950467232,Telemedx,hospital,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9526505,30.0595657,real
+node/12950467492,Tercera Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimihurura,-1.952476,30.0924993,real
+node/8153879532,Maisha Optical Centre,hospital,hospital,other,Kigali City,Gasabo,RW12,Kimihurura,-1.9521936,30.0920417,real
+node/6480907988,Harmony,clinic,clinic,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9519193,30.0629578,real
+node/12899387620,MEDIMARK PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9607456,30.1073293,real
+node/12950467314,Dymic Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9399845,30.1267005,real
+node/12950467945,Kigali Medical Center (KMC),clinic,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9407869,30.1298485,real
+node/12950467534,Kigali Medical Center,hospital,,other,Kigali City,Gasabo,RW12,Kimironko,-1.941189,30.128998,real
+node/12950467733,Beri Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9413562,30.1308735,real
+node/12909382619,KIGALI MEDICAL CENTER POLYCLINIC,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.941768,30.130363,real
+node/12909382620,DYNAMIC PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9417843,30.1304932,real
+node/12909398796,THE SPECIALIST PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9417843,30.1304932,real
+node/12909382621,PARAVINA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9417843,30.1304932,real
+node/12950467191,Shoppers (A Mutti Pharmacy),pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9705124,30.0775225,real
+node/12950467531,Rutonde Secondary Health Post,clinic,,health_post,Kigali City,Nyarugenge,RW11,Kanyinya,-1.895001,29.9715497,real
+node/12950467231,Kami Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Kinyinya,-1.8914261,30.1009911,real
+node/12950465392,Bweramvura Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Jabana,-1.8663164,30.0444744,real
+node/12950467387,Neige Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Nduba,-1.866297,30.0862246,real
+node/12950467499,Shyorongi Health Centre,hospital,,health_center,North,Rulindo,RW41,Shyrongi,-1.8655543,29.980003,real
+node/12950467790,Pulse Pharmacy,pharmacy,,pharmacy,North,Rulindo,RW41,Shyrongi,-1.8602542,29.9783777,real
+node/12950467152,Projet San Francisco,hospital,,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.9720712,30.1077941,real
+node/10968164566,Safina Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9717422,30.0995786,real
+node/12950467845,Herit Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9717011,30.0768646,real
+node/12950467146,Pharmacie Nova,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9713871,30.1031573,real
+node/10983704512,Romeo karuruma,,alternative,other,Kigali City,Gasabo,RW12,Jabana,-1.8999675,30.0536959,real
+node/12950467241,Yashoda Hospitals Medical Information Centre,hospital,,hospital,Kigali City,Kicukiro,RW13,Kicukiro,-1.9704607,30.1045388,real
+node/12950467657,Gikondo Health Centre,hospital,,health_center,Kigali City,Kicukiro,RW13,Kigarama,-1.9704013,30.0786073,real
+node/12950467920,The Health Hub,clinic,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9702036,30.0776682,real
+node/10787303725,Bon Berger,clinic,clinic,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9700884,30.0768037,real
+node/12950465346,Polyclinic Du Bon Berger,hospital,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9700378,30.0769517,real
+node/12950467410,Ingabirano Health Post,hospital,,health_post,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9700229,30.0526058,real
+node/10946648763,Eye Centre Pylamids,hospital,hospital,other,Kigali City,Kicukiro,RW13,Kicukiro,-1.9692842,30.0992206,real
+node/12950468067,Afia Pharma,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9691775,30.0772754,real
+node/12950467537,Pharmacie Veternaire,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9688895,30.0925916,real
+node/12905904717,DORAH PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.912656,30.08538,real
+node/12950467405,El Shadai Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9133396,30.0761117,real
+node/12950467727,Narine Care Medical Center,hospital,,other,Kigali City,Gasabo,RW12,Gisozi,-1.9132845,30.0750155,real
+node/12950465339,Bonitas Dei Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9131856,30.086818,real
+node/12950467827,Uwabena Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9131699,30.0762953,real
+node/12950467910,Kagugu Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Kinyinya,-1.912856,30.0863041,real
+node/12950467573,El-Shadai Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9127888,30.0853094,real
+node/12950467119,Baza Muganga,hospital,,other,Kigali City,Gasabo,RW12,Kinyinya,-1.9127703,30.0845444,real
+node/12950467287,Primo Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Kinyinya,-1.9127238,30.1078971,real
+node/12905910794,DISPANSAIRE LA PATIENCE,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9126745,30.0838502,real
+node/12950467118,Umutozo Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9688441,30.0964894,real
+node/12905899124,DECLAUPHAR PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9126437,30.0845718,real
+node/12950467720,"Kipharma Pharmacy, Kagugu (B2)",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9125668,30.0763905,real
+node/12950467349,"Pharmacy Aurore,Batsinda",pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9070835,30.0781935,real
+node/12950467977,Stream Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.905592,30.0800006,real
+node/12950467280,The Standards Pharmacy Ltd Kigali - Gasabo,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.904831,30.0793134,real
+node/12950468059,Isogi Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9041543,30.0794352,real
+node/12950467367,Nsanga Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Jabana,-1.9029009,30.049,real
+node/12950467714,Holi Pharmacy Rtd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Jabana,-1.9004096,30.0545222,real
+node/12950467560,Rugando Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Kimihurura,-1.9623734,30.0951948,real
+node/12950467688,Biryogo Health Centre,clinic,,health_center,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9667616,30.0600648,real
+node/12950467627,Deus Est Neuro-Rehabilitation Center And Clinics,clinic,,clinic,Kigali City,Kicukiro,RW13,Kicukiro,-1.965802,30.1020762,real
+node/12950467730,Tramed Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9644204,30.0612486,real
+node/12950467742,Kigali Adventist Medical Clinic,doctors,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9644035,30.1048338,real
+node/12950467626,Mbc Hospital,hospital,,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9642983,30.0617608,real
+node/12950467308,Nathanya Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9640235,30.0601742,real
+node/12950467798,Rehoboth Dispensary,hospital,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9634221,30.0558688,real
+node/12950468006,Viva Clinic Ritco,clinic,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9631158,30.059998,real
+node/10967819950,,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Remera,-1.9630813,30.1029123,real
+node/8964662090,Girubuzima Health Post,clinic,,health_post,Kigali City,Gasabo,RW12,Kimihurura,-1.9624898,30.0952731,real
+node/12950467709,Openclinic Ga,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9668447,30.1029478,real
+node/12950467703,Charite Digestive Charity Clinic,hospital,,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9623119,30.0602291,real
+node/12950467796,Siloam Pharmacy Ltd (Kigali),pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Kigali,-1.9622577,30.0171546,real
+node/12950467565,Deliza Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9618598,30.0528156,real
+node/12950467706,Kigali Psycho-Medical Center,doctors,,other,Kigali City,Gasabo,RW12,Remera,-1.9616214,30.1050836,real
+node/12950467683,Kigali Trust Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9614954,30.1044506,real
+node/12950467460,Ivuriro Polyfam,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9608064,30.1115184,real
+node/12950467478,Pharmacie Continentale,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9607976,30.1074967,real
+node/12899382517,PHARMACY CONTINENTALE,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9607612,30.1075345,real
+node/12950467625,Bora Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9607582,30.0548778,real
+node/12950465328,Top Health Clinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Kicukiro,-1.9678945,30.102545,real
+node/12950467521,Exemplary Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9684952,30.0576744,real
+node/12950468050,Iramiro Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9683551,30.0580642,real
+node/10896598289,Vita Gratia pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9683333,30.1031931,real
+node/12950467137,Pillarcare Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9682095,30.057795,real
+node/12950467857,Rite Pharmacy Kicukiro Branch,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9682033,30.103057,real
+node/8441496294,Eye Clinic,hospital,hospital,clinic,South,Kamonyi,RW28,Runda,-1.9680822,29.9699037,real
+node/12950467943,Hirwa Pharmacy,pharmacy,,pharmacy,South,Kamonyi,RW28,Runda,-1.9680723,29.9863444,real
+node/12950467715,Rwanda Charity Eye Hospital,hospital,,hospital,South,Kamonyi,RW28,Runda,-1.968034,29.970281,real
+node/12950467312,Gatunda Hospital,hospital,,hospital,East,Nyagatare,RW52,Gatunda,-1.3956423,30.2080843,real
+node/12950467110,Goodlife Health And Beauty Ltd,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9678529,30.1024125,real
+node/12950468043,Muslims New Hospital,hospital,,hospital,Kigali City,Kicukiro,RW13,Kigarama,-1.9678528,30.0671366,real
+node/12899442032,GOODLIFE HEALTH AND BEAUTY PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9678517,30.102128,real
+node/10967816465,Inema,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9678495,30.1019123,real
+node/12899400230,INEMA PHARMACY,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9678086,30.1018733,real
+node/12950467897,Fadhil Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9671956,30.058307,real
+node/12950467744,Hvp/Gatenga-Gikondo,hospital,,other,Kigali City,Kicukiro,RW13,Kigarama,-1.9671626,30.078369,real
+node/12950467890,Nyiranuma Health Centre,hospital,,health_center,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.96689,30.0601513,real
+node/12950467507,Kabuga Health Post,hospital,,health_post,North,Gicumbi,RW45,Rukomo,-1.6197278,30.1094979,real
+node/12950467541,Initiative Pharmacy,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9549604,30.4367022,real
+node/12950467225,Tumba Health Centre,hospital,,health_center,North,Rulindo,RW41,Tumba,-1.7021641,29.9443589,real
+node/12950467882,Kinihira Provincial Hospital,hospital,,hospital,North,Rulindo,RW41,Kinihira,-1.668169,29.9593816,real
+node/12950467610,La Vanille Pharmacy,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9542478,30.4380187,real
+node/12950467664,Rutongo Ditsrict Hospital,hospital,,hospital,North,Rulindo,RW41,Kinihira,-1.6672417,29.9600371,real
+node/12950467729,Kinihira District Hospital,hospital,,hospital,North,Rulindo,RW41,Kinihira,-1.6670455,29.9603834,real
+node/12950467125,Kinihira Health Centre,hospital,,health_center,North,Rulindo,RW41,Kinihira,-1.6618987,29.9884768,real
+node/12950467884,St Therese Clinic,clinic,,clinic,East,Rwamagana,RW51,Kigabiro,-1.9539237,30.4380231,real
+node/12950467169,Muhondo Health Centre,hospital,,health_center,North,Gicumbi,RW45,Kageyo,-1.6286348,30.0856476,real
+node/12950467355,Musenyi Health Centre,hospital,,health_center,North,Gicumbi,RW45,Mutete,-1.7056102,30.0986474,real
+node/12950465351,Agrophefar,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9531943,30.438287,real
+node/12950467143,Kigogo Health Centre,hospital,,health_center,North,Gicumbi,RW45,Nyankenke,-1.5932167,30.0098417,real
+node/12950467465,Gicumbi Health Centre,hospital,,health_center,North,Gicumbi,RW45,Byumba,-1.588613,30.0568848,real
+node/12950467474,Veritas Pharmacy Ltd,pharmacy,,pharmacy,North,Gicumbi,RW45,Byumba,-1.578767,30.0679094,real
+node/12950468063,Caritate Pharmacy Ltd,pharmacy,,pharmacy,North,Gicumbi,RW45,Byumba,-1.578518,30.0674827,real
+node/12950467988,Saint Therese Pharmacy Ltd,pharmacy,,pharmacy,North,Gicumbi,RW45,Byumba,-1.5760677,30.0674246,real
+node/12950467181,Ruhunde Health Centre,hospital,,health_center,North,Burera,RW44,Ruhunde,-1.573468,29.9416238,real
+node/12950467986,Mukono Health Centre,hospital,,health_center,North,Gicumbi,RW45,Shangasha,-1.5634423,30.1083386,real
+node/1396364150,,hospital,,other,East,Kayonza,RW54,Rwinkwavu,-1.9629908,30.6176061,real
+node/12950465359,Nyange I Health Centre,hospital,,health_center,West,Ngororero,RW35,Ngororero,-1.835836,29.6464036,real
+node/12950465340,Kabarondo Health Centre,hospital,,health_center,East,Kayonza,RW54,Kabarondo,-2.0102941,30.5576923,real
+node/12950467659,Bweyeye Health Centre,hospital,,health_center,West,Rusizi,RW36,Bweyeye,-2.6178435,29.2138497,real
+node/12950467906,Ruramira Health Centre,hospital,,health_center,East,Kayonza,RW54,Ruramira,-1.9814252,30.5041349,real
+node/12950467158,Amizero Health Post,hospital,,health_post,West,Rusizi,RW36,Gashonga,-2.6260799,28.9232064,real
+node/12950468007,Mushaka Health Centre,hospital,,health_center,West,Rusizi,RW36,Nzahaha,-2.6375844,28.9530843,real
+node/12950467811,Bugarama Health Centre,hospital,,health_center,West,Rusizi,RW36,Muganza,-2.642942,29.0110932,real
+node/12950467354,Nzahaha Health Post,hospital,,health_post,West,Rusizi,RW36,Nzahaha,-2.6578079,28.9741119,real
+node/12950467826,Musenda Health Post,hospital,,health_post,North,Burera,RW44,Gatebe,-1.558198,29.9769702,real
+node/12950467274,Pharmacy Bethel,pharmacy,,pharmacy,West,Rusizi,RW36,Bugarama,-2.698208,29.0089035,real
+node/12950467975,Ngiryi Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Jabana,-1.8363151,30.0721101,real
+node/12950467473,Nyabuko Health Post,hospital,,health_post,North,Rulindo,RW41,Ngoma,-1.8248746,29.9841973,real
+node/1415857423,,hospital,,other,North,Rulindo,RW41,Masoro,-1.81484,30.0614214,real
+node/12950465357,Murambi Health Centre,hospital,,health_center,North,Rulindo,RW41,Masoro,-1.7927554,30.0402434,real
+node/12950467936,Muyoboke Humura Pharmacy,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9574026,30.4366902,real
+node/12950467770,Cyinzuzi Health Centre,hospital,,health_center,North,Rulindo,RW41,Masoro,-1.7683571,30.0571625,real
+node/12950467509,Kiyanza Health Centre,hospital,,health_center,North,Rulindo,RW41,Ntarabana,-1.7603545,30.0659306,real
+node/12950467711,Muhambo Health Centre,hospital,,health_center,East,Nyagatare,RW52,Kiyombe,-1.4430091,30.1643067,real
+node/12950467643,Pharmacie Espoir,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9502262,30.4356654,real
+node/12950467286,Jomba Health Centre,hospital,,health_center,West,Nyabihu,RW34,Shyira,-1.7094413,29.5948372,real
+node/12950467455,Ayirwanda M Claire,pharmacy,,pharmacy,West,Nyabihu,RW34,Rambura,-1.6915448,29.5573125,real
+node/12950468069,Nyiragikokora Health Post,hospital,,health_post,West,Nyabihu,RW34,Rambura,-1.6810379,29.4695532,real
+node/12950467551,Mutaho Health Post,clinic,,health_post,West,Nyabihu,RW34,Rambura,-1.6809634,29.4695,real
+node/12950468085,Shyira Health Centre,clinic,,health_center,West,Nyabihu,RW34,Rambura,-1.6791035,29.5205625,real
+node/12950468024,Rwamagana District Pharmacy,pharmacy,,pharmacy,East,Rwamagana,RW51,Kigabiro,-1.9495512,30.4325493,real
+node/12950468090,Cyondo Health Centre,hospital,,health_center,East,Nyagatare,RW52,Kiyombe,-1.4406602,30.1204601,real
+node/12950467430,Kabaya Health Centre,hospital,,health_center,West,Ngororero,RW35,Kabaya,-1.7473849,29.5379347,real
+node/12950467135,Hunga Health Post,hospital,,health_post,East,Nyagatare,RW52,Mukama,-1.4847,30.1629052,real
+node/12950467179,Nyagihita Health Centre,hospital,,health_center,East,Nyagatare,RW52,Mimuri,-1.4860331,30.2029526,real
+node/12950467269,Kabo Second Generation Health Post,hospital,,health_post,North,Gicumbi,RW45,Rushaki,-1.5162461,30.1220272,real
+node/12950467665,Nyagihanga Health Centre,hospital,,health_center,East,Gatsibo,RW53,Nyagihanga,-1.5353268,30.1790072,real
+node/12950467490,Avega Health Centre,hospital,,health_center,East,Rwamagana,RW51,Kigabiro,-1.948206,30.441454,real
+node/12950468098,Mayange Health Post,hospital,,health_post,East,Gatsibo,RW53,Nyagihanga,-1.5428897,30.221781,real
+node/12950467607,Gisiza Health Centre,hospital,,health_center,North,Gicumbi,RW45,Rukomo,-1.6089061,30.1244345,real
+node/12950467886,Nyagahanga Health Centre,hospital,,health_center,East,Gatsibo,RW53,Gatsibo,-1.6098227,30.2205531,real
+node/12950467201,Kitabi Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Kitabi,-2.5211146,29.4272859,real
+node/12950467501,Bushara Health Centre,hospital,,health_center,North,Gicumbi,RW45,Shangasha,-1.527642,30.0762061,real
+node/12950468033,Gatebe Health Centre,hospital,,health_center,North,Burera,RW44,Gatebe,-1.5246604,29.9515118,real
+node/12950467624,Bungwe Health Centre,hospital,,health_center,North,Burera,RW44,Bungwe,-1.5028796,29.9730822,real
+node/12950467879,Rushaki Health Centre,hospital,,health_center,North,Gicumbi,RW45,Rushaki,-1.455121,30.0922913,real
+node/12950467418,Gatuna Health Post,hospital,,health_post,North,Gicumbi,RW45,Cyumba,-1.4271691,30.0120708,real
+node/12950467815,Nyamirama Health Centre,hospital,,health_center,East,Kayonza,RW54,Nyamirama,-1.9515043,30.5191367,real
+node/12950467795,Mwenzi Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Karengera,-2.5206839,29.0304668,real
+node/12950467447,Rwamagana Hospital,hospital,,hospital,East,Rwamagana,RW51,Kigabiro,-1.9507238,30.4333211,real
+node/12950465365,"Kipharma Pharmacy, Nyarugenge",pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9462984,30.0571836,real
+node/12950467741,Tara Health Centre,hospital,,health_center,West,Rusizi,RW36,Mururu,-2.5261999,28.874371,real
+node/12950467174,Nyakarenzo Health Centre,hospital,,health_center,West,Rusizi,RW36,Nyakarenzo,-2.5403496,28.9154045,real
+node/12950467218,Nkungu Health Centre,hospital,,health_center,West,Rusizi,RW36,Nyakabuye,-2.5423516,29.0065488,real
+node/12950467671,Kajinge Health Post,hospital,,health_post,West,Ngororero,RW35,Hindiro,-1.8109921,29.570742,real
+node/12950467974,Ahn - Rwamagana Hospital Dialysis Center,hospital,,hospital,East,Rwamagana,RW51,Kigabiro,-1.950694,30.4366458,real
+node/12950467290,Muramba Health Centre,hospital,,health_center,West,Ngororero,RW35,Hindiro,-1.7706734,29.6124861,real
+node/12950467993,Iwacu Health Centre,hospital,,health_center,West,Ngororero,RW35,Kabaya,-1.7692267,29.560631,real
+node/12950467316,Gashanda Health Post,hospital,,health_post,East,Ngoma,RW56,Karembo,-2.1787973,30.4647308,real
+node/12950467656,Ntaruka Health Centre,hospital,,health_center,East,Kirehe,RW55,Nasho,-2.1443226,30.690567,real
+node/12950467468,Zaza Health Centre,hospital,,health_center,East,Ngoma,RW56,Karembo,-2.1554942,30.4337585,real
+node/12950468032,Pharmacie Ingenzi Kibungo Branch,pharmacy,,pharmacy,East,Ngoma,RW56,Kibungo,-2.1605723,30.5445986,real
+node/12950467456,Kibungo Health Facilities Kanimba,hospital,,other,East,Ngoma,RW56,Kibungo,-2.1618423,30.5439205,real
+node/12950467865,Kibungo Hospital,hospital,,hospital,East,Ngoma,RW56,Kibungo,-2.1655768,30.5394659,real
+node/12950467268,Nursery And Midwives School Of Kibungo,hospital,,other,East,Ngoma,RW56,Kibungo,-2.1668001,30.5391072,real
+node/1396163507,,hospital,,other,East,Ngoma,RW56,Murama,-2.1685079,30.5467055,real
+node/12950467931,Nyarubuye Health Centre,hospital,,health_center,East,Kirehe,RW55,Nyarubuye,-2.1737347,30.7580905,real
+node/12950467818,La Palma Pharmacy,pharmacy,,pharmacy,East,Ngoma,RW56,Kibungo,-2.1380686,30.5585721,real
+node/12950465386,Buriba Health Post,hospital,,health_post,East,Ngoma,RW56,Rukira,-2.1863542,30.591915,real
+node/12950467904,Bukira Health Centre,hospital,,health_center,East,Kirehe,RW55,Mushikiri,-2.1906699,30.6739526,real
+node/12950467458,Yao Ju,pharmacy,,pharmacy,East,Ngoma,RW56,Murama,-2.195063,30.589875,real
+node/12950467209,Rukira Health Centre,hospital,,health_center,East,Ngoma,RW56,Murama,-2.1998947,30.5880851,real
+node/12950465329,Nyabitare Health Centre,hospital,,health_center,East,Kirehe,RW55,Nyarubuye,-2.213572,30.7948067,real
+node/12950467223,Nkanga Health Center,pharmacy,,pharmacy,East,Ngoma,RW56,Sake,-2.2181678,30.4203089,real
+node/12950467124,Kirehe Health Post,hospital,,health_post,East,Kirehe,RW55,Kirehe,-2.251123,30.641509,real
+node/12950467558,Kirehe District Pharmacy,pharmacy,,pharmacy,East,Kirehe,RW55,Kirehe,-2.2658545,30.6538727,real
+node/12950467925,Karama Health Centre,hospital,,health_center,East,Kayonza,RW54,Murama,-2.0516988,30.6019098,real
+node/12950467210,Jenda Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Musange,-2.2858698,29.5733709,real
+node/12950467433,Mugano Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Mugano,-2.2646534,29.5085067,real
+node/12950467356,Biguhu Health Centre,hospital,,health_center,West,Karongi,RW31,Ruganda,-2.222813,29.4889804,real
+node/12950467677,Munini Health Centre,hospital,,health_center,East,Rwamagana,RW51,Nyakaliro,-2.0360499,30.2539622,real
+node/13229859750,Nzige Health Center,,health_post,health_center,East,Rwamagana,RW51,Nzige,-2.0262029,30.337043,real
+node/12950468039,Ndego Health Centre,hospital,,health_center,East,Kayonza,RW54,Ndego,-2.0140639,30.7024262,real
+node/12950467331,Health Post Nawe,hospital,,health_post,East,Rwamagana,RW51,Rubona,-2.014171,30.399045,real
+node/12950467757,Rundu Health Post,hospital,,health_post,East,Kayonza,RW54,Kabarondo,-2.0363836,30.5266076,real
+node/12950467275,Kirehe Hospital,hospital,,hospital,East,Kirehe,RW55,Kirehe,-2.2677076,30.6532817,real
+node/12950467360,Gasetsa Health Centre,hospital,,health_center,East,Ngoma,RW56,Remera,-2.0703428,30.5081746,real
+node/12950467192,Kirwa Health Centre,hospital,,health_center,East,Ngoma,RW56,Rurenge,-2.0778532,30.4670732,real
+node/12950467616,Bara Health Post,hospital,,health_post,East,Kayonza,RW54,Kabare,-2.0846976,30.6512644,real
+node/12950467145,Muhire Health Post,hospital,,health_post,East,Ngoma,RW56,Remera,-2.0933875,30.5461885,real
+node/12950467377,Kabigembe Health Centre,hospital,,health_center,East,Kirehe,RW55,Nasho,-2.1032894,30.6923106,real
+node/12950467663,Kabakanda,clinic,,clinic,East,Ngoma,RW56,Rurenge,-2.1091971,30.4663708,real
+node/12950467591,Rubona Health Centre,hospital,,health_center,East,Ngoma,RW56,Kibungo,-2.1119687,30.5908221,real
+node/12950467452,Ikaze Pharmacy Ltd,pharmacy,,pharmacy,East,Ngoma,RW56,Remera,-2.1265426,30.5464233,real
+node/12950467363,Ligero Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9459359,30.0608037,real
+node/12950467548,Gashonyi Health Center,hospital,,health_center,West,Ngororero,RW35,Matyazo,-1.7627293,29.6477641,real
+node/8078871170,Kigali Dermatology Centre,clinic,clinic,clinic,Kigali City,Gasabo,RW12,Kimihurura,-1.9457688,30.0882663,real
+node/12950467385,Birehe Health Centre,hospital,,health_center,South,Muhanga,RW27,Rongi,-1.7669744,29.7443381,real
+node/12950467597,Bumba Health Post,hospital,,health_post,North,Gakenke,RW42,Muyongwe,-1.7712274,29.8932128,real
+node/12950467122,Kigali Dermatology Center,hospital,,other,Kigali City,Gasabo,RW12,Kimihurura,-1.9458414,30.0881725,real
+node/12950467765,Health Care Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9458958,30.0564308,real
+node/12950468031,Kiziguro Health Centre,hospital,,health_center,West,Ngororero,RW35,Ngororero,-1.7939977,29.6530701,real
+node/12950465372,Ntarabana Consolatio Health Post,hospital,,health_post,South,Muhanga,RW27,Rongi,-1.7953649,29.7461898,real
+node/12950467323,Hospital Rutongo,hospital,,hospital,North,Rulindo,RW41,Rusiga,-1.7968816,29.9296345,real
+node/12950467701,Minazi Health Post,hospital,,health_post,North,Gakenke,RW42,Minazi,-1.7605599,29.7700763,real
+node/12950467256,Afri Health Care Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.946101,30.0568888,real
+node/12950467250,Gashorera Health Centre,hospital,,health_center,West,Ngororero,RW35,Ngororero,-1.8108799,29.6757906,real
+node/12950467188,Hindiro Health Centre,hospital,,health_center,West,Ngororero,RW35,Hindiro,-1.8120053,29.6197075,real
+node/12950467197,Ruhango Health Post,hospital,,health_post,South,Muhanga,RW27,Rongi,-1.8131639,29.7144408,real
+node/12950465327,Musasa Pharmacy,pharmacy,,pharmacy,North,Gakenke,RW42,Ruli,-1.8190845,29.8492112,real
+node/12950467212,Ruli Sector,hospital,,other,North,Gakenke,RW42,Ruli,-1.8287528,29.8482894,real
+node/12950467448,Gasagara Health Centre,hospital,,health_center,South,Muhanga,RW27,Rongi,-1.8335526,29.7794238,real
+node/12950467764,Kiyanzi Health Post,hospital,,health_post,East,Kirehe,RW55,Kigarama,-2.3592653,30.7659554,real
+node/12950467281,Mutenderi Health Centre,hospital,,health_center,East,Ngoma,RW56,Mutenderi,-2.273002,30.4889878,real
+node/6263703404,Umuhuza Clinic,clinic,,clinic,East,Kirehe,RW55,Kirehe,-2.2738871,30.6739319,real
+node/12950467654,Cyunuzi Modern Health Post,hospital,,health_post,East,Kirehe,RW55,Gatore,-2.2818478,30.5604394,real
+node/6263703507,,pharmacy,,pharmacy,East,Kirehe,RW55,Gatore,-2.2824075,30.5606653,real
+node/12950467421,Munini Health Centre,hospital,,health_center,East,Kirehe,RW55,Mahama,-2.3068392,30.8255863,real
+node/12950467528,Bukora Health Centre,hospital,,health_center,East,Kirehe,RW55,Nyamugari,-2.308647,30.7865202,real
+node/12950467340,Musaza Centre De Cente,hospital,,other,East,Kirehe,RW55,Musaza,-2.3312308,30.6287317,real
+node/12950467922,Muhamba Health Post,hospital,,health_post,East,Kirehe,RW55,Gahara,-2.3514733,30.4851153,real
+node/12950467445,Pharmacie Agrovete,pharmacy,,pharmacy,North,Gicumbi,RW45,Rukomo,-1.6459458,30.1353411,real
+node/12950467261,Ctaga Bana Based Wine Factory,pharmacy,,pharmacy,East,Kirehe,RW55,Gahara,-2.3594372,30.5200969,real
+node/12950468013,Nzangwa Health Centre,hospital,,health_center,East,Bugesera,RW57,Rweru,-2.3395288,30.2650887,real
+node/12950467574,Mazane Health Centre,hospital,,health_center,East,Bugesera,RW57,Rweru,-2.3080442,30.339021,real
+node/12950467938,Jarama Health Centre,hospital,,health_center,East,Ngoma,RW56,Jarama,-2.2798617,30.3816563,real
+node/12950467951,Giraneza Health Centre,hospital,,health_center,East,Ngoma,RW56,Sake,-2.2292308,30.3961709,real
+node/12950467694,Nyange Health Centre,hospital,,health_center,East,Ngoma,RW56,Mugesera,-2.1106589,30.3727714,real
+node/12950465376,Ngaru Health Post,hospital,,health_post,South,Muhanga,RW27,Nyabinoni,-1.7356281,29.6685488,real
+node/12950467822,Nyaruguru,hospital,,other,Kigali City,Gasabo,RW12,Remera,-1.9489973,30.1044163,real
+node/12950467240,Inganji Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9529146,30.2427234,real
+node/12950467867,Nyarubuye Health Post,clinic,,health_post,North,Musanze,RW43,Musanze,-1.4852527,29.5654559,real
+node/12950467950,Shingiro Hospital,hospital,,hospital,North,Musanze,RW43,Shingiro,-1.482302,29.5508697,real
+node/12950468056,Gaga Pharmacy Ltd,pharmacy,,pharmacy,East,Rwamagana,RW51,Muyumbu,-1.9710018,30.2448579,real
+node/12950467379,Gahengeri Health Centre,hospital,,health_center,East,Rwamagana,RW51,Gahengeri,-1.9705155,30.3223011,real
+node/12950467853,Agashingurabased Banana Factory,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9676008,30.2383864,real
+node/12950467586,Pharmacie Elayo,pharmacy,,pharmacy,East,Rwamagana,RW51,Mwulire,-1.963089,30.3514528,real
+node/12950467985,Muna Pharmacy,pharmacy,,pharmacy,East,Rwamagana,RW51,Muyumbu,-1.9585647,30.2453316,real
+node/12950467103,Muyumbu Medical Center,hospital,,other,East,Rwamagana,RW51,Muyumbu,-1.9584611,30.2458568,real
+node/12950467469,Pharmacie Ma Colline,pharmacy,,pharmacy,East,Rwamagana,RW51,Muyumbu,-1.9583957,30.2462467,real
+node/12950467338,Highlands' Pharmacy Ltd,pharmacy,,pharmacy,North,Musanze,RW43,Musanze,-1.4925159,29.5585464,real
+node/12950467833,Cfrdta,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Rusororo,-1.9518002,30.2415094,real
+node/12950467295,Alliance Arena Clinic,hospital,,clinic,Kigali City,Gasabo,RW12,Rusororo,-1.9348929,30.2391328,real
+node/12950467682,Kinyana Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Rusororo,-1.9250591,30.2627813,real
+node/12950467803,Nyarubuye Health Post,clinic,,health_post,East,Rwamagana,RW51,Munyiginya,-1.8908966,30.3741782,real
+node/12950467792,Fumbwe Health Post,hospital,,health_post,East,Rwamagana,RW51,Fumbwe,-1.8721703,30.2946207,real
+node/12950468064,Nyabisindu Health Post,hospital,,health_post,East,Gatsibo,RW53,Kiramuruzi,-1.8296197,30.3876677,real
+node/12950467686,Rwimiteri Health Centre,hospital,,health_center,East,Gatsibo,RW53,Murambi,-1.8162292,30.3456743,real
+node/12950468062,Rwankeri Hospital,hospital,,hospital,West,Nyabihu,RW34,Mukamira,-1.5861814,29.5342334,real
+node/12950467692,Rurenge Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rukomo,-1.3324654,30.2772093,real
+node/12950465338,Byakiriba Health Centre,hospital,,health_center,West,Nyabihu,RW34,Rugera,-1.6313297,29.6088352,real
+node/6267690006,Jenda Health Post,clinic,,health_post,West,Nyabihu,RW34,Jenda,-1.6275371,29.4739711,real
+node/12950467148,Ryinyo Health Post,clinic,,health_post,West,Nyabihu,RW34,Kintobo,-1.6263777,29.5446045,real
+node/12950467926,Good Life Pharmacy,pharmacy,,pharmacy,West,Nyabihu,RW34,Bigogwe,-1.612001,29.4467818,real
+node/12950467832,Kintobo Health Centre,hospital,,health_center,West,Nyabihu,RW34,Kintobo,-1.6067501,29.553574,real
+node/12950467587,Kintobo Health Post,hospital,,health_post,West,Nyabihu,RW34,Kintobo,-1.6058757,29.5522368,real
+node/12950467984,Mataba Health Post,hospital,,health_post,Kigali City,Kicukiro,RW13,Gahanga,-2.0422828,30.0743478,real
+node/12950467132,Basumba Health Post,hospital,,health_post,West,Nyabihu,RW34,Jenda,-1.5858795,29.4462128,real
+node/6267679787,,pharmacy,,pharmacy,North,Musanze,RW43,Busogo,-1.5607066,29.5526916,real
+node/12950467721,Gituza Health Centre,hospital,,health_center,East,Gatsibo,RW53,Kageyo,-1.6193405,30.2918307,real
+node/12950465356,Nyagasozi Health Post,hospital,,health_post,East,Gatsibo,RW53,Remera,-1.7049168,30.3282301,real
+node/13755294445,Hospital,hospital,hospital,hospital,East,Gatsibo,RW53,Kiziguro,-1.7238771,30.3954449,real
+node/12950467979,Modern Family Pharmacy Ltd,pharmacy,,pharmacy,East,Gatsibo,RW53,Kiziguro,-1.7564172,30.3884596,real
+node/12950467680,Ange Pharmacy Ltd,pharmacy,,pharmacy,North,Musanze,RW43,Kimonyi,-1.5045324,29.6103421,real
+node/12950467863,Cetraf Musanze,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5026428,29.6149068,real
+node/12950467937,Birambo Health Centre,hospital,,health_center,West,Karongi,RW31,Gashari,-2.1447265,29.5219399,real
+node/12950467767,Pharmacie Du Progres,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9871876,30.0707702,real
+node/12950467184,Clinique Du Carrefour Gikondo,clinic,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9868852,30.0725959,real
+node/12950467966,Ruhuka Health Post,hospital,,health_post,Kigali City,Kicukiro,RW13,Gatenga,-1.9865424,30.0879828,real
+node/12950467254,Bipa Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9856041,30.1030104,real
+node/10896608806,Lite pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kicukiro,-1.9855824,30.1028987,real
+node/12950467697,Muremera Health Post,clinic,,health_post,South,Ruhango,RW26,Kabagali,-2.2110501,29.6105401,real
+node/12950467619,Kirinda District Hospital,hospital,,hospital,West,Karongi,RW31,Murambi,-2.1854614,29.5775552,real
+node/12950468027,Mwendo Health Centre,hospital,,health_center,West,Karongi,RW31,Gashari,-2.1850239,29.5102334,real
+node/12950467992,Kabona Health Centre,hospital,,health_center,West,Rutsiro,RW32,Rusebeya,-1.9435858,29.4874971,real
+node/12950467685,Benady Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9872043,30.0489765,real
+node/12950467786,Munzanga Health Centre,hospital,,health_center,West,Karongi,RW31,Murundi,-2.1140738,29.5835413,real
+node/12950468053,Rugabano Health Centre,hospital,,health_center,West,Karongi,RW31,Rugabano,-2.1020516,29.485125,real
+node/12950467696,Rufungo Health Centre,hospital,,health_center,West,Karongi,RW31,Rugabano,-2.0678217,29.5375877,real
+node/12950467899,Police Clinic,hospital,,clinic,West,Karongi,RW31,Rugabano,-2.0559808,29.4803222,real
+node/12950467543,Murambi Health Centre,hospital,,health_center,West,Rutsiro,RW32,Mukura,-2.0419739,29.5199883,real
+node/12950467114,Mukura Health Centre,hospital,,health_center,West,Rutsiro,RW32,Mukura,-2.0085566,29.4869581,real
+node/12950467847,Bitabage Health Post,hospital,,health_post,West,Ngororero,RW35,Ndaro,-2.0072345,29.5927906,real
+node/12950467860,Mukore Health Post,hospital,,health_post,West,Rutsiro,RW32,Rusebeya,-1.9644206,29.4650229,real
+node/12958805656,Shekina Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9947263,30.050016,real
+node/10896482411,Pharmacy Experience,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Gahanga,-2.0295413,30.1029892,real
+node/10931602986,Karembure Health Post,hospital,hospital,health_post,Kigali City,Kicukiro,RW13,Gahanga,-2.0154887,30.0887325,real
+node/12950467650,Vista Pharmacy- Karembure,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Gahanga,-2.0081875,30.0902898,real
+node/12958807750,Heritage Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9967029,30.0496182,real
+node/12958807532,Horizon Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9962455,30.0500741,real
+node/12950467182,Chalom Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9957235,30.0683376,real
+node/12958825591,Amiphar Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9951453,30.050201,real
+node/12958827069,Saint Jacque Health Post,hospital,hospital,health_post,Kigali City,Kicukiro,RW13,Kigarama,-1.9949655,30.0501239,real
+node/12950467862,Rukomo Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rukomo,-1.378846,30.2507194,real
+node/11708239298,CHUK,hospital,hospital,other,Kigali City,Kicukiro,RW13,Kigarama,-1.9946535,30.0526033,real
+node/12950467283,Pharmacie Karo,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyamirambo,-1.9910175,30.046505,real
+node/12950467130,Mirra Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Gatenga,-1.9904768,30.0960088,real
+node/12950467502,Rite Pharmacy Gatenga Branch,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Gatenga,-1.9903262,30.0958028,real
+node/12950467837,Technipharma Pharmacy,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Kigarama,-1.9901965,30.0614903,real
+node/12950467871,Dream Medical Center Hospital,hospital,,hospital,Kigali City,Kicukiro,RW13,Gatenga,-1.9901018,30.0959092,real
+node/12950467944,Rebero Adventist Polyclinic,hospital,,clinic,Kigali City,Kicukiro,RW13,Kigarama,-1.9900556,30.0616547,real
+node/12950467638,Sainte Marie De Rilima Pediatric Orthopedic Surgery and Rehabilitation Center,hospital,,other,East,Bugesera,RW57,Rilima,-2.1608277,30.2292627,real
+node/12950467868,Cyanzarwe Health Post,hospital,,health_post,West,Rubavu,RW33,Cyanzarwe,-1.6223503,29.3200474,real
+node/12950468078,Kinyanzove Health Post,hospital,,health_post,West,Rubavu,RW33,Cyanzarwe,-1.6406775,29.3050519,real
+node/12950467820,El Jee Pharmacy Mahoko,pharmacy,,pharmacy,West,Rubavu,RW33,Cyanzarwe,-1.6482222,29.3480992,real
+node/12950467383,Ndengera Health Post,hospital,,health_post,West,Rubavu,RW33,Rubavu,-1.657495,29.270279,real
+node/12950468034,Mission Pharmacy,pharmacy,,pharmacy,West,Rubavu,RW33,Rubavu,-1.6606025,29.2705386,real
+node/12950467482,Byahi Health Centre,hospital,,health_center,West,Rubavu,RW33,Rubavu,-1.6631258,29.2645206,real
+node/10939022475,Adonis,pharmacy,pharmacy,pharmacy,Kigali City,Kicukiro,RW13,Kanombe,-1.9985006,30.1454641,real
+node/12950467392,Mudakikwa Penth House,pharmacy,,pharmacy,Kigali City,Kicukiro,RW13,Masaka,-2.0000224,30.1915828,real
+node/12950467351,Hospital De Dieu,hospital,,hospital,Kigali City,Kicukiro,RW13,Kanombe,-2.0079296,30.1368002,real
+node/12950467397,Busasamana Health Centre,hospital,,health_center,West,Rubavu,RW33,Busasamana,-1.6043025,29.3450011,real
+node/12950467345,Taqwa Pharmacy Nyamata,pharmacy,,pharmacy,East,Bugesera,RW57,Mayange,-2.2049368,30.1443368,real
+node/12950467364,One Family Health Post Ngara,doctors,,health_post,Kigali City,Gasabo,RW12,Kinyinya,-1.9121903,30.1229116,real
+node/12950467320,Kinyinya Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Kinyinya,-1.9186727,30.1119341,real
+node/12864457260,Kibagabaga Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Kinyinya,-1.9293913,30.1128315,real
+node/12950467872,Vovo Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9297433,30.1129102,real
+node/12950467690,Ngarama District Hospital,hospital,,hospital,East,Gatsibo,RW53,Ngarama,-1.546549,30.2429491,real
+node/12950467679,Kibagabaga District Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Kimironko,-1.9307663,30.1119129,real
+node/12950467782,Nyakigando Health Centre,hospital,,health_center,East,Nyagatare,RW52,Katabagemu,-1.4384822,30.3432394,real
+node/12950467716,Nyamiyaga Health Centre,hospital,,health_center,North,Gicumbi,RW45,Nyamiyaga,-1.6856324,30.1447641,real
+node/12950467655,Mataba Health Centre,hospital,,health_center,North,Gicumbi,RW45,Nyamiyaga,-1.6883125,30.1263356,real
+node/12950467293,Rutare Medicalized Health Centre,clinic,,health_center,North,Gicumbi,RW45,Rutare,-1.7309426,30.1771365,real
+node/12950467762,Rutare Maternity Hospital,hospital,,hospital,North,Gicumbi,RW45,Rutare,-1.7311655,30.1774967,real
+node/12950468079,Nkoto Hp,hospital,,other,North,Gicumbi,RW45,Rutare,-1.7641387,30.149691,real
+node/12950467495,Gratis Pharmacy,pharmacy,,pharmacy,East,Kayonza,RW54,Nyamirama,-1.9461262,30.5175084,real
+node/12950467817,Giti Health Centre,hospital,,health_center,North,Gicumbi,RW45,Bukure,-1.7890708,30.2224639,real
+node/12950467773,Rwesero Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Rutunga,-1.7992585,30.1766579,real
+node/12950467932,Ricophar Pharmacy Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.9314645,30.1435335,real
+node/12950467327,Usen Pharmacy,pharmacy,,pharmacy,East,Nyagatare,RW52,Mimuri,-1.4446415,30.255294,real
+node/12950467395,Kajevuba Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Nduba,-1.8090411,30.1263711,real
+node/12950467834,Gikomero Ii Health Centre,hospital,,health_center,Kigali City,Gasabo,RW12,Bumbogo,-1.8598737,30.1536727,real
+node/12950467278,Rwamagana Level Two Teaching Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Nduba,-1.8642049,30.1235449,real
+node/12950468021,Kinigi Health Centre,hospital,,health_center,North,Musanze,RW43,Nyange,-1.4486033,29.5826133,real
+node/12950467746,Mimuli Health Centre,hospital,,health_center,East,Nyagatare,RW52,Mimuri,-1.4480965,30.257948,real
+node/12950467595,Bugeshi Health Post,hospital,,health_post,West,Rubavu,RW33,Bugeshi,-1.5295468,29.3875074,real
+node/12950467109,Mudende Health Centre,hospital,,health_center,West,Rubavu,RW33,Mudende,-1.5977078,29.3857878,real
+node/12950467959,Kigembe Health Centre,hospital,,health_center,South,Gisagara,RW22,Nyanza,-2.7803532,29.7370287,real
+node/12950467789,Mukura Sector Health Centre,hospital,,health_center,South,Huye,RW24,Mukura,-2.6648221,29.728131,real
+node/12950467972,Busoro-Gishamvu Health Centre,hospital,,health_center,South,Huye,RW24,Gishamvu,-2.6653186,29.6930764,real
+node/12950467760,Mugombwa Health Centre,hospital,,health_center,South,Gisagara,RW22,Mugombwa,-2.6793705,29.8601509,real
+node/12950467915,Kansi Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Ngera,-2.7013815,29.7507536,real
+node/12950467216,Nyantanga Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Ngera,-2.728576,29.6532042,real
+node/12950467990,Kibayi Health Centre,hospital,,health_center,South,Gisagara,RW22,Mukindo,-2.7319238,29.8594912,real
+node/12950467399,Gikore Health Centre,hospital,,health_center,South,Gisagara,RW22,Kansi,-2.7329791,29.7941193,real
+node/12950467476,Maraba Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Nyagisozi,-2.7373091,29.6436527,real
+node/12950467652,Ngoma Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Ngoma,-2.743325,29.6969309,real
+node/12950465391,Eastern Healing Clinic,hospital,,clinic,East,Gatsibo,RW53,Kabarore,-1.6036242,30.3819945,real
+node/12950467444,Runyombyi Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Busanze,-2.7796359,29.5349974,real
+node/12950467634,Gakaranka Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Ruheru,-2.7722776,29.4525383,real
+node/12950467307,Pharmacie Ubumwe,pharmacy,,pharmacy,East,Gatsibo,RW53,Kabarore,-1.6142076,30.3907058,real
+node/12950468054,Rutsiro Health Centre,hospital,,health_center,West,Rutsiro,RW32,Rusebeya,-1.915281,29.4570404,real
+node/12950467549,Ramba Health Centre,hospital,,health_center,West,Ngororero,RW35,Kavumu,-1.8760881,29.5295234,real
+node/12950468084,Duhinge Tworore Shop,pharmacy,,pharmacy,East,Gatsibo,RW53,Kabarore,-1.6186805,30.3855155,real
+node/12950467186,Karumbi Health Centre,hospital,,health_center,West,Rutsiro,RW32,Murunda,-1.864923,29.4512561,real
+node/12950467581,Gitwa Health Post,hospital,,health_post,West,Ngororero,RW35,Kavumu,-1.8324086,29.5799795,real
+node/12950467230,Masoro Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Ndera,-1.9360402,30.1455084,real
+node/12950467462,Premium Medical Clinic,clinic,,clinic,Kigali City,Gasabo,RW12,Kimironko,-1.9317874,30.1144609,real
+node/12950467750,Medicine Store,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.9333535,30.1745091,real
+node/1398644470,,hospital,,other,East,Gatsibo,RW53,Ngarama,-1.548276,30.2460333,real
+node/12950467875,Trinity Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9335802,30.1208771,real
+node/12950468008,Ttp Hospital,hospital,,hospital,Kigali City,Gasabo,RW12,Kimironko,-1.9337656,30.1306491,real
+node/12950467889,Home Sweet Home,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9347132,30.1312899,real
+node/12950467101,Kumera Kimironko (A Mutti Pharmacy),pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9354742,30.1338542,real
+node/12950467190,Fina Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9356116,30.1327701,real
+node/12950467738,Karenge Health Centre,hospital,,health_center,East,Rwamagana,RW51,Karenge,-2.0815446,30.3097593,real
+node/12950467901,Kiramed Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimironko,-1.9362531,30.1300677,real
+node/12950467949,Mubuga Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Ndera,-1.9368377,30.1478731,real
+node/12909332430,UBUVUZI GAKONDO,,alternative,other,Kigali City,Gasabo,RW12,Kimironko,-1.9379421,30.1157068,real
+node/12950467572,Murehe Health Post,hospital,,health_post,East,Rwamagana,RW51,Muyumbu,-2.0077312,30.2825803,real
+node/12950467127,Kibondo Health Centre,hospital,,health_center,East,Gatsibo,RW53,Kabarore,-1.5640117,30.3192279,real
+node/12950467552,Kibilizi Health Centre,hospital,,health_center,South,Gisagara,RW22,Kibirizi,-2.6491168,29.7829361,real
+node/12950468042,Irakoze Pharmacy Ltd,pharmacy,,pharmacy,South,Gisagara,RW22,Kibirizi,-2.6521758,29.7807597,real
+node/12950468022,Nyabiheke Health Centre,hospital,,health_center,East,Gatsibo,RW53,Gatsibo,-1.5952785,30.2596804,real
+node/12950467196,Rutobwe Health Centre,hospital,,health_center,South,Kamonyi,RW28,Kayumbu,-1.9746372,29.8003325,real
+node/12950468071,Igihozo Pharmacy Ltd,pharmacy,,pharmacy,South,Kamonyi,RW28,Karama,-1.941042,29.8722827,real
+node/12950467639,Pharmacie Du Centre Ltd,pharmacy,,pharmacy,South,Kamonyi,RW28,Karama,-1.9436541,29.8804105,real
+node/12950467693,,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Kimisagara,-1.9479822,30.0499959,real
+node/12950467229,Health Post,hospital,,health_post,South,Kamonyi,RW28,Karama,-1.9591531,29.8620283,real
+node/12950467362,Rutongo Health Post,hospital,,health_post,South,Muhanga,RW27,Kabacuzi,-1.9600582,29.7613748,real
+node/12950467183,Rubona Health Centre,hospital,,health_center,West,Ngororero,RW35,Gatumba,-1.9615098,29.652463,real
+node/12950467487,Buramba Health Centre,hospital,,health_center,South,Muhanga,RW27,Kabacuzi,-1.966404,29.7161885,real
+node/12950467461,Sanus Polyclinic,hospital,,clinic,South,Muhanga,RW27,Kabacuzi,-1.9722319,29.7381489,real
+node/12950465399,Rutobwe Health Post,hospital,,health_post,South,Kamonyi,RW28,Kayumbu,-1.9742626,29.8000078,real
+node/12950465333,Remera-Rukoma Hospital,hospital,,hospital,South,Kamonyi,RW28,Rukoma,-1.93819,29.9093031,real
+node/12950465378,Busoro Health Clinic,hospital,,clinic,South,Kamonyi,RW28,Kayumbu,-1.9893026,29.8193129,real
+node/12950468070,Ituze Health Post,hospital,,health_post,South,Kamonyi,RW28,Rugarika,-1.9912063,29.9331502,real
+node/12950467804,Kamonyi Health Centre,hospital,,health_center,South,Kamonyi,RW28,Gacurabwenge,-2.0041669,29.9057753,real
+node/12950467963,Sholi Health Post,hospital,,health_post,South,Muhanga,RW27,Cyeza,-2.0062389,29.7681969,real
+node/12950467475,Dusingizemungu Desire,pharmacy,,pharmacy,South,Kamonyi,RW28,Gacurabwenge,-2.0304305,29.9266628,real
+node/12950467408,Cyeza Health Post,hospital,,health_post,South,Muhanga,RW27,Cyeza,-2.0412655,29.7626671,real
+node/12950467829,Kivumu Health Centre,hospital,,health_center,South,Kamonyi,RW28,Musambira,-2.0475402,29.8044247,real
+node/12950465364,Ntaganzwa Health Centre,hospital,,health_center,West,Ngororero,RW35,Muhororo,-1.8990068,29.6161409,real
+node/12950467440,Tare Hospital,hospital,,hospital,North,Rulindo,RW41,Bushoki,-1.7230907,29.9245455,real
+node/12950467687,Mibirizi District Hospital,hospital,,hospital,West,Rusizi,RW36,Gashonga,-2.5678421,28.9535215,real
+node/12950467751,Nyakabuye Health Post,hospital,,health_post,West,Rusizi,RW36,Nyakabuye,-2.5667148,29.0300822,real
+node/12950467120,Ngororero Health Post,hospital,,health_post,West,Ngororero,RW35,Kageyo,-1.8551901,29.6293101,real
+node/12950467735,Rwahi Health Centre,hospital,,health_center,North,Rulindo,RW41,Shyrongi,-1.8601636,29.9224199,real
+node/12950467116,Mount Ndiza,hospital,,other,South,Muhanga,RW27,Kiyumba,-1.8780578,29.75583,real
+node/12950467107,Nyabikenke District Hospital,hospital,,hospital,South,Muhanga,RW27,Kiyumba,-1.882723,29.7700708,real
+node/12950467921,Buhoro Health Centre,hospital,,health_center,South,Muhanga,RW27,Kibangu,-1.8943025,29.6835948,real
+node/12950467919,Nyarusange Health Post,hospital,,health_post,South,Muhanga,RW27,Nyarusange,-2.058154,29.6750409,real
+node/12950468049,Bugoba Health Post,hospital,,health_post,South,Kamonyi,RW28,Rukoma,-1.9056987,29.9214349,real
+node/12950467763,Gasovu Health Centre,hospital,,health_center,South,Muhanga,RW27,Rugendabari,-1.9126909,29.6776589,real
+node/12950467564,Ngoma Health Post,hospital,,health_post,South,Muhanga,RW27,Kabacuzi,-1.9190108,29.7737672,real
+node/12950467170,Gatumba Health Centre,hospital,,health_center,West,Ngororero,RW35,Gatumba,-1.9265198,29.6417994,real
+node/12950467781,Kibyimba Health Centre,hospital,,health_center,South,Muhanga,RW27,Kabacuzi,-1.9324096,29.7278193,real
+node/12950467824,Kirinda District Hospital,hospital,,hospital,West,Ngororero,RW35,Gatumba,-1.9347725,29.6254171,real
+node/12950468038,Muhororo Hospital,hospital,,hospital,West,Ngororero,RW35,Gatumba,-1.9349622,29.6250902,real
+node/10829473430,Kanimba Hospital,clinic,clinic,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9437353,30.0650291,real
+node/12950467840,Rugarama Health Centre,hospital,,health_center,North,Burera,RW44,Rugarama,-1.4037408,29.7356528,real
+node/12950467542,Bufmar,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Kimihurura,-1.9431989,30.0865182,real
+node/12950467483,Butaro Cancer Centre Of Excellence,hospital,,other,North,Burera,RW44,Butaro,-1.4086562,29.83924,real
+node/12950467245,Butaro Health Centre,hospital,,health_center,North,Burera,RW44,Butaro,-1.408777,29.8363893,real
+node/12950467136,Butaro Level Two Teaching Hospital,hospital,,hospital,North,Burera,RW44,Butaro,-1.4093694,29.8397954,real
+node/12950468023,Unique Pharma Ltd,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9432754,30.0570632,real
+node/12950465380,Mubuga Health Post,hospital,,health_post,North,Burera,RW44,Butaro,-1.4160321,29.8527148,real
+node/12950467333,Rugarama Heath Center,hospital,,other,North,Burera,RW44,Rugarama,-1.4291416,29.7163451,real
+node/12950467251,Rusasa Health Centre,hospital,,health_center,North,Burera,RW44,Butaro,-1.4510892,29.8703696,real
+node/12950467569,Gitare Health Centre,hospital,,health_center,North,Burera,RW44,Kagogo,-1.3907307,29.7664228,real
+node/12950467439,Nkenke Health Post,hospital,,health_post,North,Burera,RW44,Kinoni,-1.455034,29.7461937,real
+node/12950467810,Ubwuzu Pharmacy,pharmacy,,pharmacy,North,Burera,RW44,Gahunga,-1.4586751,29.6946923,real
+node/12950467553,Birwa Health Post,hospital,,health_post,North,Burera,RW44,Kinoni,-1.4698247,29.768773,real
+node/12950467669,Bamba Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Mugano,-2.3330581,29.5242991,real
+node/12950467918,Wiwo Laboratory,,laboratory,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9441036,30.0675597,real
+node/12950467177,Bungwe Center,hospital,,other,North,Burera,RW44,Rwerere,-1.4878473,29.8362925,real
+node/12950468073,Migo Pharmacy,pharmacy,,pharmacy,North,Musanze,RW43,Cyuve,-1.4890597,29.6247816,real
+node/12950467948,Karwasa Health Centre,hospital,,health_center,North,Musanze,RW43,Gacaca,-1.4899125,29.6762031,real
+node/12950467766,Peace Medical Health Post,hospital,,health_post,South,Muhanga,RW27,Shyogwe,-2.0824055,29.7506097,real
+node/12950467389,Nyamiyaga Health Centre,hospital,,health_center,South,Kamonyi,RW28,Nyamiyaga,-2.0664436,29.919553,real
+node/12950467317,Helpharm (A Mutti Pharmacy),pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0743375,29.7819198,real
+node/12950467375,Cyakabiri Health Centre,hospital,,health_center,South,Muhanga,RW27,Shyogwe,-2.0744655,29.7823426,real
+node/12950467700,Gitarama Health Centre,hospital,,health_center,South,Muhanga,RW27,Shyogwe,-2.0760386,29.7811358,real
+node/12950467343,Ruvumera Health Post,hospital,,health_post,South,Muhanga,RW27,Shyogwe,-2.0788324,29.7507442,real
+node/12950467695,Rwanyarale Pharmacy Uganda,pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0798629,29.7607378,real
+node/12950468000,Consolatio Health Post,hospital,,health_post,South,Muhanga,RW27,Shyogwe,-2.0816692,29.7578758,real
+node/12950467592,Fleur De Vie (A Mutti Pharmacy),pharmacy,,pharmacy,South,Muhanga,RW27,Shyogwe,-2.0822851,29.7504897,real
+node/12950467593,Gasumo Health Centre,hospital,,health_center,West,Rusizi,RW36,Butare,-2.5791417,29.1228094,real
+node/12950467263,Buhabwa Health Centre,hospital,,health_center,East,Kayonza,RW54,Murundi,-1.7053882,30.5459773,real
+node/12950467431,Ryamanyoni Health Centre,hospital,,health_center,East,Kayonza,RW54,Murundi,-1.7184619,30.4837846,real
+node/12950467999,Pharmacie Neza,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9429671,30.0588647,real
+node/8856522346,Nexa,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9430115,30.0588919,real
+node/12950467386,Kinyababa Health Centre,hospital,,health_center,North,Burera,RW44,Kinyababa,-1.3682669,29.8127747,real
+node/12950467816,Nyamicucu Health Post,hospital,,health_post,North,Burera,RW44,Butaro,-1.3813788,29.8718027,real
+node/12950467969,Kabyiniro Health Centre,hospital,,health_center,North,Burera,RW44,Cyanika,-1.3815866,29.7284024,real
+node/12950467848,Sunbeam Pharmacy,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9430123,30.0595771,real
+node/12950467318,Nyendo Health Post,clinic,,health_post,East,Nyagatare,RW52,Rwempasha,-1.2129093,30.2986938,real
+node/12950467563,Ineza Clinic,hospital,,clinic,East,Nyagatare,RW52,Karama,-1.3485446,30.2071303,real
+node/12950467257,Ahn Dialysis Center - Gihundwe District Hospital,clinic,,hospital,West,Rusizi,RW36,Kamembe,-2.484307,28.9143529,real
+node/12950467486,Max Pharmacy,pharmacy,,pharmacy,West,Rusizi,RW36,Kamembe,-2.4851988,28.914363,real
+node/12950467759,Rwabidege Health Post,hospital,,health_post,West,Nyamasheke,RW37,Ruharambuga,-2.4885837,29.0406818,real
+node/12950467108,Rusizi Health Centre,hospital,,health_center,West,Rusizi,RW36,Mururu,-2.4928071,28.8930439,real
+node/12950467878,Tabagwe Health Centre,hospital,,health_center,East,Nyagatare,RW52,Tabagwe,-1.2871955,30.2108313,real
+node/12950467341,Gaseke Health Post,hospital,,health_post,North,Burera,RW44,Ruhunde,-1.5621972,29.8935646,real
+node/12950467933,Kamubuga Health Post,hospital,,health_post,North,Gakenke,RW42,Kamubuga,-1.5749618,29.7908095,real
+node/12950467594,Sereri Health Post,clinic,,health_post,North,Musanze,RW43,Gashaki,-1.5852002,29.7542933,real
+node/12950467384,Gihundwe District Hospital,hospital,,hospital,West,Rusizi,RW36,Kamembe,-2.4835167,28.9144828,real
+node/12950467589,Rwembasha Health Centre,hospital,,health_center,East,Nyagatare,RW52,Rwempasha,-1.2209114,30.3031239,real
+node/12950467126,Rushoka Health Centre,hospital,,health_center,North,Gakenke,RW42,Kivuruga,-1.5967326,29.7361401,real
+node/12950468044,Yahshua Medical Clinics Ltd,clinic,,clinic,East,Nyagatare,RW52,Nyagatare,-1.2897527,30.3348762,real
+node/12950467835,Rama Honest Pharmacy,pharmacy,,pharmacy,East,Nyagatare,RW52,Nyagatare,-1.2914023,30.3259925,real
+node/12950465381,Nyundo Health Centre,hospital,,health_center,North,Gakenke,RW42,Rusasa,-1.6039556,29.6584143,real
+node/12950467728,Mika Pharmacy Ltd,pharmacy,,pharmacy,East,Nyagatare,RW52,Nyagatare,-1.2917085,30.3287368,real
+node/12950467923,Busengo Health Centre,hospital,,health_center,North,Gakenke,RW42,Busengo,-1.6247552,29.7011974,real
+node/12950467630,Karambo Health Centre,hospital,,health_center,North,Gakenke,RW42,Karambo,-1.6301738,29.8402376,real
+node/12950465382,Kamatita Health Centre,hospital,,health_center,West,Rusizi,RW36,Gihundwe,-2.4489732,28.9085269,real
+node/12950467707,Rangiro Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Rangiro,-2.406924,29.1668313,real
+node/12950467588,Shangi Animal Clinic,hospital,,clinic,West,Nyamasheke,RW37,Bushenge,-2.4197256,29.0103781,real
+node/12950467780,Gisakura Health Centre,hospital,,health_center,West,Nyamasheke,RW37,Bushekeri,-2.4220125,29.0831985,real
+node/12950467117,Gasheke Health Post,hospital,,health_post,West,Nyamasheke,RW37,Bushenge,-2.4257984,28.9774245,real
+node/12950465336,Nkanka Health Centre,hospital,,health_center,West,Rusizi,RW36,Gihundwe,-2.4272076,28.9289995,real
+node/12950467645,Banda Health Post,hospital,,health_post,West,Nyamasheke,RW37,Cyato,-2.4417325,29.202346,real
+node/12950467267,Bushenge Hospital,hospital,,hospital,West,Nyamasheke,RW37,Bushenge,-2.445078,28.9858584,real
+node/10026853179,Ruharambuga Health Centre,hospital,centre,health_center,West,Nyamasheke,RW37,Ruharambuga,-2.4465668,29.0255285,real
+node/12950467134,Manzi Pharmacy,pharmacy,,pharmacy,East,Nyagatare,RW52,Nyagatare,-1.2924082,30.3249085,real
+node/12950467249,Gihundwe Health Centre,hospital,,health_center,West,Rusizi,RW36,Giheke,-2.461678,28.9712906,real
+node/12950465355,Shagasha Health Centre,hospital,,health_center,West,Rusizi,RW36,Gihundwe,-2.4677192,28.9280621,real
+node/12950467689,Pharmacy Bimophar,pharmacy,,pharmacy,West,Rusizi,RW36,Kamembe,-2.4791833,28.9118565,real
+node/12950467708,153 Mwiza Supply Hub Ltd,pharmacy,,pharmacy,West,Rusizi,RW36,Kamembe,-2.4798063,28.9065681,real
+node/12950467797,Mount Cyangugu Health Centre,hospital,,health_center,West,Rusizi,RW36,Kamembe,-2.4819858,28.9052303,real
+node/12950467916,Ear Hospital,hospital,,hospital,West,Rusizi,RW36,Kamembe,-2.4823196,28.9054514,real
+node/12950467435,Lancet Laboratories Rwanda Gihundwe Depot,,laboratory,other,West,Rusizi,RW36,Kamembe,-2.4830224,28.914272,real
+node/12950467843,Kabuga Health Centre,hospital,,health_center,East,Nyagatare,RW52,Karama,-1.3551002,30.1983303,real
+node/12950467480,Vunga Health Post,hospital,,health_post,West,Nyabihu,RW34,Shyira,-1.6914875,29.6349248,real
+node/12950467791,Nganzo Health Post,hospital,,health_post,North,Gakenke,RW42,Gakenke,-1.6738532,29.7609617,real
+node/12950467494,Gahungeri Health Centre,hospital,,health_center,West,Rusizi,RW36,Gitambi,-2.6101898,28.9884672,real
+node/12950467717,Kagoma Health Post,hospital,,health_post,North,Gakenke,RW42,Gakenke,-1.6747134,29.7892549,real
+node/12950468048,Maternity Building,hospital,,other,West,Nyabihu,RW34,Shyira,-1.6816225,29.6289229,real
+node/1415802646,,hospital,,other,West,Nyabihu,RW34,Shyira,-1.6817829,29.6312509,real
+node/12950467436,Vubiro Health Post,hospital,,health_post,West,Rusizi,RW36,Gashonga,-2.5984058,28.9233407,real
+node/12950467737,Janja Health Centre,hospital,,health_center,North,Gakenke,RW42,Muzo,-1.6822979,29.6747093,real
+node/12950467438,Shyira Hospital,hospital,,hospital,West,Nyabihu,RW34,Shyira,-1.6824352,29.6289595,real
+node/12950467896,Kanyange,pharmacy,,pharmacy,North,Gakenke,RW42,Janja,-1.6854011,29.6971445,real
+node/12950467165,Cimerwa Clinic,pharmacy,,pharmacy,West,Rusizi,RW36,Muganza,-2.6106351,29.018597,real
+node/12950467939,Comptoir Pharmaceutique De Gakenke,pharmacy,,pharmacy,North,Gakenke,RW42,Muzo,-1.692576,29.7429943,real
+node/12950467704,Mashesha Health Centre,hospital,,health_center,West,Rusizi,RW36,Gitambi,-2.5967516,29.0074842,real
+node/12950465343,Mugunga Health Post,clinic,,health_post,North,Gakenke,RW42,Mugunga,-1.6973612,29.6480211,real
+node/12950467957,Buyange Health Post,hospital,,health_post,North,Gakenke,RW42,Mataba,-1.7072553,29.7785199,real
+node/12950467668,Butare Health Post,hospital,,health_post,North,Gakenke,RW42,Muzo,-1.7089494,29.7191545,real
+node/12950467758,Muti Health Post,pharmacy,,pharmacy,West,Rusizi,RW36,Gashonga,-2.5963965,28.910392,real
+node/12950467357,Rusororo Health Centre,hospital,,health_center,North,Gakenke,RW42,Muzo,-1.7124705,29.679173,real
+node/12950467102,"Nyagatare Hospital Services (•Surgery, ↓Internal Medicine, →Pediatry, ←Isolation.",hospital,,hospital,East,Nyagatare,RW52,Nyagatare,-1.2985863,30.3260304,real
+node/12950467909,Ruhinga Health Centre,clinic,,health_center,North,Gakenke,RW42,Kivuruga,-1.632703,29.7544338,real
+node/12950468036,Eliot Pharmacy,hospital,,pharmacy,East,Nyagatare,RW52,Nyagatare,-1.2931894,30.3251169,real
+node/12950467968,Nyagatare Health Centre,hospital,,health_center,East,Nyagatare,RW52,Nyagatare,-1.2963944,30.3248165,real
+node/12950467866,Nemba District Hospital,hospital,,hospital,North,Gakenke,RW42,Nemba,-1.6383601,29.7864906,real
+node/12950467745,"Pharmacy, Gakenke",pharmacy,,pharmacy,North,Gakenke,RW42,Nemba,-1.6473427,29.7915406,real
+node/12950467609,Mushongi Health Centre,hospital,,health_center,North,Rulindo,RW41,Base,-1.6528537,29.9129304,real
+node/12950467568,Kamusheshe Nkotsi Health Post,hospital,,health_post,North,Rulindo,RW41,Base,-1.6561979,29.9121719,real
+node/12950467441,St Oda Pharmacy,pharmacy,,pharmacy,North,Gakenke,RW42,Gakenke,-1.6583437,29.8132067,real
+node/12950465345,Wiwo Specialized Hospital,hospital,,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9440648,30.067435,real
+node/12950467484,St Oda Pharmacy,pharmacy,,pharmacy,North,Rulindo,RW41,Bushoki,-1.6635381,29.8873748,real
+node/6267522685,,pharmacy,,pharmacy,North,Rulindo,RW41,Bushoki,-1.6637647,29.8876943,real
+node/12950467271,Nyagatare Hospital,hospital,,hospital,East,Nyagatare,RW52,Nyagatare,-1.2990042,30.3253921,real
+node/12950467242,Kira Clinic Ltd,hospital,,clinic,East,Nyagatare,RW52,Nyagatare,-1.301068,30.3259076,real
+node/12950467358,Rutenderi Health Centre,hospital,,health_center,North,Gakenke,RW42,Gashenyi,-1.6664274,29.852003,real
+node/12950467243,Nyagatare Pharmacy Store,pharmacy,,pharmacy,East,Nyagatare,RW52,Nyagatare,-1.3091638,30.3308842,real
+node/12950467246,Cimerwa Health Centre,hospital,,health_center,West,Rusizi,RW36,Muganza,-2.6107695,29.0187557,real
+node/12950467774,Gatonde District Hospital,hospital,,hospital,North,Gakenke,RW42,Mugunga,-1.670401,29.6610514,real
+node/12950467504,Shekinah Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Mayange,-2.2322503,30.1094734,real
+node/12950467846,Mayange Health Centre,hospital,,health_center,East,Bugesera,RW57,Mayange,-2.206578,30.1443542,real
+node/12950467406,Emma Sanitas Pharmacy Ltd,pharmacy,,pharmacy,East,Bugesera,RW57,Mayange,-2.2071109,30.1450361,real
+node/12950467836,Jesmo Hospital. Nyamataro,hospital,,hospital,East,Bugesera,RW57,Mayange,-2.207257,30.144481,real
+node/12950467785,St Gisele Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Mayange,-2.2252393,30.1579361,real
+node/12950465371,Hindem Polyclinic Natural Medicine (Branch),pharmacy,,pharmacy,East,Bugesera,RW57,Mayange,-2.2282606,30.1589591,real
+node/1396656394,Gakoma,hospital,,other,South,Gisagara,RW22,Mamba,-2.4419463,29.9349884,real
+node/12950468081,Polain,hospital,,other,East,Bugesera,RW57,Nyarugenge,-2.2840168,29.9547802,real
+node/12950467515,Rango Health Post,hospital,,health_post,East,Bugesera,RW57,Mareba,-2.2811389,30.0413207,real
+node/12950467532,Gihinga Health Centre,hospital,,health_center,East,Bugesera,RW57,Shyara,-2.2709469,30.0076001,real
+node/12950467464,Musasa Health Centre,hospital,,health_center,West,Rutsiro,RW32,Musasa,-1.9626421,29.3487225,real
+node/12950467273,Kibenga Health Post,hospital,,health_post,East,Bugesera,RW57,Mayange,-2.2067605,30.096179,real
+node/12950467960,Nacy Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1803028,30.1034276,real
+node/12950467238,Trojanus Pharmacy Ltd,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1611397,30.1022461,real
+node/12950467237,Tuma Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1480875,30.090913,real
+node/12950467983,Benefactor David Clinic,hospital,,clinic,East,Bugesera,RW57,Nyamata,-2.1477413,30.0919772,real
+node/12950467698,Nyamata Health Centre,hospital,,health_center,East,Bugesera,RW57,Nyamata,-2.1471182,30.0911865,real
+node/12950467370,Akedah Pharmacy Ltd,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1429022,30.0904915,real
+node/12950467561,Codiabu Chez Veterinaire Munyakayanza,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1421464,30.0903454,real
+node/12950467807,Cyimbili Health Centre,hospital,,health_center,West,Rutsiro,RW32,Kigeyo,-1.827697,29.2926208,real
+node/12950468003,Gisenyi Dialysis Center - Africa Healthcare Network,hospital,,other,West,Rubavu,RW33,Gisenyi,-1.7027725,29.2621351,real
+node/8727051517,,pharmacy,,pharmacy,West,Rubavu,RW33,Nyamyumba,-1.7347174,29.2787471,real
+node/12950467736,Abacus Pharma Alam,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9448004,30.0595445,real
+node/12950467881,Inezaphar Pharmacy Ltd,pharmacy,,pharmacy,North,Musanze,RW43,Gacaca,-1.4900998,29.6715613,real
+node/12950467393,Nyabirasi Health Centre,hospital,,health_center,West,Rutsiro,RW32,Nyabirasi,-1.7619609,29.3495027,real
+node/12950467277,Karambi Health Post,hospital,,health_post,West,Rutsiro,RW32,Kivumu,-1.7921539,29.2828424,real
+node/12950467756,Kigeyo Health Centre,hospital,,health_center,West,Rutsiro,RW32,Kigeyo,-1.8258197,29.3402052,real
+node/12877411588,Diva Pharmacy,pharmacy,pharmacy,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9449893,30.0561172,real
+node/12950467724,The Guardian Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Nyamata,-2.1416535,30.0877772,real
+node/12950468080,Bitenga Health Centre,hospital,,health_center,West,Rutsiro,RW32,Ruhango,-1.8478874,29.4096094,real
+node/12950467489,Gatare Health Post,hospital,,health_post,West,Rutsiro,RW32,Ruhango,-1.8849988,29.3770223,real
+node/12950467672,Kayove Health Centre,hospital,,health_center,West,Rutsiro,RW32,Musasa,-1.8871919,29.3436394,real
+node/12950467503,Kivu Hills Medical Center,hospital,,other,West,Rutsiro,RW32,Boneza,-1.8938696,29.2960608,real
+node/12950467913,Murunda District Hospital,hospital,hospital,hospital,West,Rutsiro,RW32,Ruhango,-1.9064559,29.3755208,real
+node/12950467649,Murunda Hospital,hospital,,hospital,West,Rutsiro,RW32,Ruhango,-1.9072875,29.3763453,real
+node/12950467554,Murunda Hospital Laboratory,hospital,,hospital,West,Rutsiro,RW32,Gihango,-1.9072987,29.3770931,real
+node/12950467221,Murunda Hospital Pediatrie,hospital,,hospital,West,Rutsiro,RW32,Mushubati,-1.9624902,29.3878699,real
+node/12950467964,Kigeme District Hospital,hospital,,hospital,South,Nyamagabe,RW25,Kibirizi,-2.4792718,29.5259061,real
+node/12950467556,Nyabimata Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Nyabimata,-2.6895224,29.4444996,real
+node/12950467731,Muganza Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Muganza,-2.6880789,29.4942045,real
+node/12950467309,Kivu Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Kivu,-2.6157937,29.4601264,real
+node/12950467927,Nyamyumba Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Mata,-2.5833409,29.5555986,real
+node/12950467903,Karambi Health Post,hospital,,health_post,South,Huye,RW24,Maraba,-2.5119375,29.6151438,real
+node/12950467850,Akabahizi Health Post,hospital,,health_post,Kigali City,Gasabo,RW12,Gisozi,-1.9452939,30.0517438,real
+node/12950467248,Mbuga Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Uwinkingi,-2.4970068,29.4805647,real
+node/12950467276,Rwanda Medical Council,hospital,,other,Kigali City,Gasabo,RW12,Kimihurura,-1.9453673,30.0908547,real
+node/1394026580,,hospital,,other,South,Nyamagabe,RW25,Kibirizi,-2.4808932,29.528319,real
+node/12950467965,Nyamagabe Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Gasaka,-2.472931,29.5862463,real
+node/12950467391,Uwinkinji Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Uwinkingi,-2.4708066,29.4498063,real
+node/12950467981,Bugarama Health Post,hospital,,health_post,South,Nyamagabe,RW25,Kibirizi,-2.4534204,29.4902882,real
+node/12950467296,Musebeya Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Buruhukiro,-2.4243493,29.4462499,real
+node/12950468015,Ngara Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Cyanika,-2.3878524,29.6041772,real
+node/12950467329,Mushubi Health Centre,hospital,,health_center,South,Nyamagabe,RW25,Mushubi,-2.3482289,29.4446887,real
+node/12950467799,Pharmasave,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9454587,30.0941773,real
+node/12950467784,Kaduha District Hospital,hospital,,hospital,South,Nyamagabe,RW25,Mugano,-2.3331791,29.5265137,real
+node/10896464424,YANELLE PHARMACY,pharmacy,pharmacy,pharmacy,East,Bugesera,RW57,Ntarama,-2.0704455,30.0907794,real
+node/12950467902,Nyamata District Hospital,hospital,,hospital,East,Bugesera,RW57,Nyamata,-2.1382088,30.0790295,real
+node/6815432085,,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9450002,30.0581487,real
+node/10896393174,ENI HAKKORE PHARMACY,pharmacy,pharmacy,pharmacy,East,Bugesera,RW57,Nyamata,-2.1289471,30.0703329,real
+node/12950467527,Rite Pharmacy Kacyiru Branch,pharmacy,,pharmacy,Kigali City,Gasabo,RW12,Remera,-1.9450009,30.091734,real
+node/12894344623,Ineza Holly Pharmacy,pharmacy,pharmacy,pharmacy,East,Bugesera,RW57,Nyamata,-2.113114,30.0687253,real
+node/12950467427,Mugina Health Centre,hospital,,health_center,South,Kamonyi,RW28,Mugina,-2.107856,29.9463929,real
+node/12950467215,Ntarama Health Centre,hospital,,health_center,East,Bugesera,RW57,Ntarama,-2.1008464,30.0760351,real
+node/12950467163,Akariza Pharmacy,pharmacy,,pharmacy,East,Bugesera,RW57,Ntarama,-2.0799624,30.0751275,real
+node/12950467279,Kigufi Health Centre,hospital,,health_center,West,Rubavu,RW33,Nyamyumba,-1.750826,29.2787519,real
+node/12950467481,Kiboga Health Post,hospital,,health_post,South,Kamonyi,RW28,Rugarika,-2.0664422,29.9762658,real
+node/12950467691,Nyarurenzi Medicalized Health Centre,hospital,,health_center,Kigali City,Nyarugenge,RW11,Mageregere,-2.0508812,30.0519878,real
+node/12950467416,Ruheru Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Ruheru,-2.7475728,29.4538928,real
+node/12950467611,Cyahinda Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Nyagisozi,-2.7409994,29.6089717,real
+node/12950465332,Coko Health Centre,hospital,,health_center,South,Nyaruguru,RW23,Cyahinda,-2.7160996,29.5802906,real
+node/12950467998,Munini Hospital,hospital,,hospital,South,Nyaruguru,RW23,Munini,-2.7136377,29.5355072,real
+node/12950465388,Kare Wholesale Pharmacy,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5091833,29.6421796,real
+node/12950467956,Miracle Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9441156,30.0605976,real
+node/12950467471,Sana Pharmacy,pharmacy,,pharmacy,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9444391,30.0590923,real
+node/6267614289,,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5085193,29.641722,real
+node/12950467272,First Health Care,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5085454,29.6430961,real
+node/12950467434,Amirah Pharmacy,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5085971,29.6422264,real
+node/4151780731,Pharmacie Iraguha,pharmacy,pharmacy,pharmacy,North,Musanze,RW43,Muhoza,-1.5087593,29.6393884,real
+node/12950467590,Pharmacie Ephar,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5089526,29.6418334,real
+node/12950467825,Pro Omnibus Polyclinic,hospital,,clinic,North,Musanze,RW43,Muhoza,-1.509012,29.6396897,real
+node/12950467194,High Magnificat Pharmacy Ltd,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.507858,29.6423781,real
+node/12950467413,Star Times,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5092332,29.6418825,real
+node/12950467366,Health Target Complex,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5093055,29.6394474,real
+node/6267661686,,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5100781,29.6416938,real
+node/12950467234,Gasakuza Health Post,hospital,,health_post,North,Musanze,RW43,Gacaca,-1.5120798,29.7034999,real
+node/12950468018,Murara Health Centre,hospital,,health_center,West,Rubavu,RW33,Gisenyi,-1.6717304,29.2540442,real
+node/12950467220,Icyizere Psychotherapeutic Center,doctors,,other,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.94453,30.0587073,real
+node/12950467227,Intwari Mu Buzima,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6769956,29.2537393,real
+node/12950467787,High Magnificat Pharmacy,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5022828,29.6275787,real
+node/4579156698,Mariba Health Post,clinic,,health_post,North,Burera,RW44,Gitovu,-1.49168,29.7974576,real
+node/12950467719,Kivuye Health Centre,hospital,,health_center,North,Burera,RW44,Kivuye,-1.4923016,29.9313017,real
+node/12950467987,Kirambo Health Centre,hospital,,health_center,North,Burera,RW44,Cyeru,-1.4938921,29.8335469,real
+node/12950467967,Farmacie St Augustin,pharmacy,,pharmacy,North,Musanze,RW43,Cyuve,-1.4983659,29.6273844,real
+node/6273708789,,pharmacy,,pharmacy,North,Musanze,RW43,Cyuve,-1.4983781,29.6273586,real
+node/12950465374,Rwerere Health Centre,hospital,,health_center,North,Burera,RW44,Rwerere,-1.5011121,29.8694496,real
+node/12950467612,Polyclinique Du Mont Nyamagumba,clinic,,clinic,North,Musanze,RW43,Muhoza,-1.502044,29.645532,real
+node/12950467674,Gacuba Ii B Health Centre,hospital,,health_center,West,Rubavu,RW33,Gisenyi,-1.6760034,29.2550321,real
+node/12950467378,Pharmacie Right 2030,pharmacy,,pharmacy,North,Musanze,RW43,Muhoza,-1.5034641,29.6326082,real
+node/12950467928,Musanze District HIV Stop Centre,hospital,,other,North,Musanze,RW43,Cyuve,-1.5037656,29.635877,real
+node/4151780732,Policlinique de Musanze,clinic,,clinic,North,Musanze,RW43,Cyuve,-1.5043425,29.6358687,real
+node/12950467347,Polyclinique La Medicale De Musanze,hospital,,other,North,Musanze,RW43,Cyuve,-1.5044141,29.6358282,real
+node/12950467842,Ruhengeri Referral Hospital,hospital,,hospital,North,Musanze,RW43,Muhoza,-1.5059399,29.6367116,real
+node/12950467940,Impore Ribert,hospital,,other,North,Musanze,RW43,Muhoza,-1.506878,29.6426708,real
+node/12950468094,Clinic Mpore Rgvie Ltd,clinic,,clinic,North,Musanze,RW43,Muhoza,-1.5071386,29.6426722,real
+node/11240692137,,clinic,,clinic,North,Musanze,RW43,Muhoza,-1.5071742,29.642507,real
+node/12950467615,Nyakiriba Health Centre,hospital,,health_center,West,Rubavu,RW33,Kanama,-1.6992183,29.3455188,real
+node/12950468072,Clinic Horana Ubuzima Ltd,hospital,,clinic,West,Rubavu,RW33,Gisenyi,-1.6944544,29.26093,real
+node/6273603986,,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6960915,29.2610932,real
+node/12950467310,Charity Medical Clinic,clinic,,clinic,West,Rubavu,RW33,Gisenyi,-1.6965195,29.2567354,real
+node/12950467713,Polyclinique La Croix Du Sud - Gisenyi,hospital,,other,West,Rubavu,RW33,Gisenyi,-1.6967336,29.261654,real
+node/12950467442,Pharmacy Vinca,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6972634,29.2634421,real
+node/12950465360,Twizere Pharmacy,pharmacy,,pharmacy,West,Rubavu,RW33,Kanama,-1.6974653,29.3467869,real
+node/12877411589,Only Good Depot Pharmaceutical Ltd,drugstore,pharmacy,pharmacy,Kigali City,Gasabo,RW12,Gisozi,-1.9446374,30.0562442,real
+node/12950465363,Hama Mutual Pharmacy,pharmacy,,pharmacy,West,Rubavu,RW33,Kanama,-1.6983682,29.3439757,real
+node/12950467142,Kisangani Hospital,hospital,,hospital,West,Rubavu,RW33,Kanama,-1.6984785,29.3466742,real
+node/12950467895,Ivuriro,hospital,,other,West,Rubavu,RW33,Gisenyi,-1.6812119,29.2638619,real
+node/12950467335,Depot Pharmaceutique Optiphar,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6994581,29.262232,real
+node/12950467376,Gisenyi Health Centre,hospital,,health_center,West,Rubavu,RW33,Gisenyi,-1.6996894,29.2626245,real
+node/12950467457,District de Rubavu Pharmacy,hospital,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.7001472,29.2622425,real
+node/12950467761,Maman Catherine Health Post,hospital,,health_post,West,Rubavu,RW33,Rugerero,-1.7002394,29.3235293,real
+node/12950467973,Karambo Health Post,hospital,,health_post,West,Rubavu,RW33,Kanama,-1.7010295,29.348258,real
+node/12950467472,Gisenyi District Hospital,hospital,,hospital,West,Rubavu,RW33,Gisenyi,-1.7013247,29.2622115,real
+node/12950467213,Polyclinique La Medicale (Dr Kanimba Hospital),hospital,,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9446414,30.0645163,real
+node/12950467228,Nyundo Health Centre,hospital,,health_center,West,Rubavu,RW33,Rugerero,-1.7026597,29.3317569,real
+node/12950468093,Medical Clinic De L'Arche,hospital,,clinic,West,Rubavu,RW33,Gisenyi,-1.682807,29.2499217,real
+node/12950467305,Qlpharma (Quality Legacy Pharmacy) Ltd,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6791575,29.2611335,real
+node/6273594386,Malik,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6827248,29.2506324,real
+node/12950467162,Iwacu Clinic,hospital,,clinic,West,Rubavu,RW33,Gisenyi,-1.6904207,29.2546224,real
+node/6273603385,,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6837584,29.2533545,real
+node/12950467157,Answer Pharmacy Ltd,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6847399,29.2552973,real
+node/6273594389,Smile,dentist,,other,West,Rubavu,RW33,Gisenyi,-1.6848185,29.2553346,real
+node/12950467982,Lane Park Polyclinic,clinic,,clinic,West,Rubavu,RW33,Gisenyi,-1.6849432,29.2481804,real
+node/6273603985,,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.685768,29.257295,real
+node/6267750005,,pharmacy,,pharmacy,West,Rubavu,RW33,Nyundo,-1.6896804,29.2947903,real
+node/12950467870,,pharmacy,,pharmacy,West,Rubavu,RW33,Rugerero,-1.689549,29.2931251,real
+node/12950467550,Prestige Pharmacy Ltd,pharmacy,,pharmacy,West,Rubavu,RW33,Gisenyi,-1.6856221,29.2570757,real
+way/994001016,Mibilizi district hospital,hospital,hospital,hospital,West,Rusizi,RW36,Gashonga,-2.568352,28.95376939670507,real
+way/788837303,Gahini Hospital,hospital,hospital,hospital,East,Kayonza,RW54,Rukara,-1.84091845,30.483514469699156,real
+way/1372598377,Nkombo Health Centre,hospital,hospital,health_center,West,Rusizi,RW36,Nkombo,-2.4051996,28.8944077279793,real
+way/788827538,,hospital,hospital,other,East,Nyagatare,RW52,Nyagatare,-1.2978721,30.326687044692527,real
+way/187926551,Adventist Dental Clinic,hospital,hospital,clinic,Kigali City,Gasabo,RW12,Kacyiru,-1.9389821500000002,30.08632206672926,real
+way/377692146,Mediheal Diagnostic and Fertility Centre,hospital,hospital,other,Kigali City,Gasabo,RW12,Kacyiru,-1.9472635,30.075962921463702,real
+way/788836414,Kiziguro Hospital,hospital,hospital,hospital,East,Gatsibo,RW53,Kiziguro,-1.76671965,30.384776595845537,real
+way/788891220,Maternity Hospital,hospital,hospital,hospital,East,Kayonza,RW54,Nyamirama,-1.9515140500000001,30.51952828621483,real
+way/473809102,Rwanda Eye Clinic (Muganga Wamaso),doctors,doctor,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9483306,30.064956618524967,real
+way/1324181782,Nyabitimbo Health Centre,hospital,hospital,health_center,West,Rusizi,RW36,Butare,-2.56005745,29.06996978609895,real
+way/151366969,King Faisal Hospital Kigali,hospital,hospital,hospital,Kigali City,Gasabo,RW12,Remera,-1.9434249000000001,30.095506736316345,real
+way/788813673,,hospital,hospital,other,West,Rusizi,RW36,Gashonga,-2.5638225500000003,28.952296395628863,real
+way/788835221,,hospital,hospital,other,Kigali City,Gasabo,RW12,Gisozi,-1.93667645,30.05825617674504,real
+way/1489591978,Murambi Health Centre,hospital,,health_center,East,Rwamagana,RW51,Muhazi,-1.8758617499999999,30.45587178205541,real
+way/237255632,Kabutare,hospital,,other,South,Huye,RW24,Ngoma,-2.60767095,29.747396245833336,real
+way/1245445472,Rulindo Health Centre,hospital,hospital,health_center,North,Rulindo,RW41,Bushoki,-1.72549145,29.930817306779538,real
+way/1220686005,Rushashi health centre,hospital,hospital,health_center,North,Gakenke,RW42,Rushashi,-1.7262327,29.85785148089701,real
+way/1241265966,Muyongwe Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Rushashi,-1.72614015,29.874871228550973,real
+way/1372455722,,hospital,hospital,other,South,Muhanga,RW27,Kiyumba,-1.88307135,29.770043889025096,real
+way/788811520,Hospital,hospital,hospital,hospital,South,Huye,RW24,Ngoma,-2.6033656,29.74737648816538,real
+way/1374932980,Rugendabali Health Centre,hospital,hospital,health_center,West,Ngororero,RW35,Gatumba,-1.948682,29.67781064283625,real
+way/236387954,Health Centre,clinic,,health_center,East,Kayonza,RW54,Murundi,-1.7970974000000002,30.504234067954975,real
+way/788893052,Nyanza Hospital,hospital,hospital,hospital,South,Nyanza,RW21,Busasamana,-2.35291965,29.749775900000003,real
+way/788824794,,hospital,hospital,other,South,Nyanza,RW21,Busasamana,-2.35147405,29.74947782003639,real
+way/341899085,,hospital,,other,North,Burera,RW44,Butaro,-1.40860145,29.83693231012945,real
+way/391597960,,clinic,,clinic,South,Nyanza,RW21,Nyagisozi,-2.33164915,29.642771764481374,real
+way/1241191975,Mataba Health Centre,hospital,,health_center,North,Gakenke,RW42,Mataba,-1.7200794,29.74363350800594,real
+way/769629887,,clinic,clinic,clinic,North,Burera,RW44,Kinoni,-1.45496905,29.746116946879773,real
+way/610198357,,hospital,hospital,other,North,Burera,RW44,Kinoni,-1.4752454,29.739158842579812,real
+way/1008018586,Ruhengeri Hospital,hospital,hospital,hospital,North,Musanze,RW43,Muhoza,-1.50783085,29.637760692671158,real
+way/788887260,,hospital,hospital,other,South,Muhanga,RW27,Nyamabuye,-2.1029449,29.751451260416665,real
+way/173303556,Kicukiro Health Centre,clinic,,health_center,Kigali City,Kicukiro,RW13,Niboye,-1.9769142,30.114323249528752,real
+way/653620539,Rubavu District Hospital,hospital,hospital,hospital,West,Rubavu,RW33,Gisenyi,-1.70147905,29.261765979968757,real
+way/771659312,Bralirwa Brewery medical centre,,counselling,other,West,Rubavu,RW33,Nyamyumba,-1.7370668,29.280511074553296,real
+way/1448578712,,clinic,clinic,clinic,West,Rutsiro,RW32,Kigeyo,-1.82581625,29.340109000921395,real
+way/788810044,Nyamata Hospital,hospital,hospital,hospital,East,Bugesera,RW57,Nyamata,-2.1379187,30.079555874081237,real
+way/177861115,,hospital,,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9781974,30.048925387082996,real
+way/1220696421,Base Health Centre,hospital,hospital,health_center,North,Rulindo,RW41,Base,-1.6528660999999998,29.912988966488683,real
+way/788825347,,hospital,hospital,other,West,Nyamasheke,RW37,Bushenge,-2.4450604,28.98672129327768,real
+way/788825580,,hospital,hospital,other,West,Rusizi,RW36,Kamembe,-2.48420905,28.91564325,real
+way/1372596170,Gashaki Health Centre,hospital,hospital,health_center,North,Musanze,RW43,Gashaki,-1.54010605,29.750581136729807,real
+way/1245450877,Cyabingo Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Cyabingo,-1.5854515999999998,29.688148212572152,real
+way/1241269494,Kamubuga Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Kamubuga,-1.58925055,29.794157325409454,real
+way/1245449951,Bushoka Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Kivuruga,-1.5966760500000001,29.735897298591688,real
+way/1318835510,Nemba Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Nemba,-1.6376151,29.787323112195377,real
+way/788871657,Nyagasambu Health Centre,hospital,hospital,health_center,Kigali City,Gasabo,RW12,Rusororo,-1.8969809,30.274096319277106,real
+way/1245449097,Gatonde Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Mugunga,-1.65879525,29.665020637387638,real
+way/1241262525,Tare Health Centre,hospital,hospital,health_center,North,Rulindo,RW41,Bushoki,-1.66459455,29.88813698440069,real
+way/1245447770,Rutake Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Janja,-1.67285005,29.723376577694687,real
+way/788894060,Kiningo Health Centre,hospital,hospital,health_center,West,Rutsiro,RW32,Gihango,-1.9960456500000001,29.357101736541843,real
+way/1241135893,Rukura Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Rushashi,-1.6965674000000002,29.828977994716496,real
+way/788811901,University Hospital,hospital,hospital,hospital,South,Huye,RW24,Ngoma,-2.61144085,29.73524908605772,real
+way/1245447933,Rusoro Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Muzo,-1.71238795,29.679099691074768,real
+way/788835896,Saint Vincent Palotti Hospital,hospital,hospital,hospital,Kigali City,Kicukiro,RW13,Kigarama,-1.97021825,30.078005926828617,real
+way/1448526893,,hospital,hospital,other,West,Nyamasheke,RW37,Karengera,-2.5209479,29.03064172031324,real
+way/788833643,,hospital,hospital,other,West,Ngororero,RW35,Kabaya,-1.7473643,29.538824217975,real
+way/126067277,Ezo Heza,hospital,hospital,other,Kigali City,Gasabo,RW12,Remera,-1.96065075,30.102847603641187,real
+way/438180702,,clinic,clinic,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.9621621,30.060294861950062,real
+way/356648729,Adventist Medical Clinic,doctors,,clinic,Kigali City,Gasabo,RW12,Remera,-1.9643281,30.104697589754096,real
+way/173169815,APAPER Primary School,hospital,hospital,other,Kigali City,Gasabo,RW12,Remera,-1.96437425,30.10397397576687,real
+way/1138404146,lamb inn,hospital,hospital,other,Kigali City,Gasabo,RW12,Remera,-1.9653219499999999,30.102631987466,real
+way/822500024,,hospital,hospital,other,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9670562,30.06021244800771,real
+way/533016945,Kabatwa Health Centre,hospital,hospital,health_center,West,Nyabihu,RW34,Kabatwa,-1.57814645,29.422965654326514,real
+way/788813030,kibagabaga hospital,hospital,hospital,hospital,Kigali City,Gasabo,RW12,Kimironko,-1.93057485,30.111935353162814,real
+way/1118388881,Nyarugenge Hospital,hospital,hospital,hospital,Kigali City,Nyarugenge,RW11,Rwezamenyo,-1.9814965500000001,30.043286093803587,real
+way/788814588,Kibilizi,hospital,hospital,other,South,Gisagara,RW22,Kibirizi,-2.6489305,29.78304861837008,real
+way/626204572,,hospital,hospital,other,South,Huye,RW24,Mukura,-2.6644221999999997,29.72822025,real
+way/626204566,,hospital,hospital,other,South,Huye,RW24,Mukura,-2.66464735,29.727956765903585,real
+way/307243733,Umushumba Dispensary,clinic,,clinic,South,Nyaruguru,RW23,Nyagisozi,-2.7679188999999997,29.605805073458463,real
+way/1153209736,casa,hospital,hospital,other,North,Musanze,RW43,Muko,-1.53094745,29.60424006104853,real
+way/173307910,,hospital,,other,Kigali City,Gasabo,RW12,Kinyinya,-1.9158117,30.0895436,real
+way/1153206193,EDF,hospital,hospital,other,North,Musanze,RW43,Kimonyi,-1.51447975,29.609639,real
+way/1153206247,S. Anna,hospital,hospital,other,North,Musanze,RW43,Kimonyi,-1.5128407,29.610775342756494,real
+way/173166912,,hospital,,other,Kigali City,Gasabo,RW12,Kacyiru,-1.9332685500000002,30.075198379109963,real
+way/454454750,Murubaya Hospital,hospital,,hospital,North,Gicumbi,RW45,Rubaya,-1.46359415,29.996948708070505,real
+way/640658421,Nyarurenzi Health Centre,,centre,health_center,Kigali City,Nyarugenge,RW11,Mageregere,-2.05059815,30.052010290302476,real
+way/491234029,,doctors,,other,South,Nyamagabe,RW25,Tare,-2.485828,29.52381537034286,real
+way/1375171098,Kaduha Health Centre,hospital,hospital,health_center,South,Nyamagabe,RW25,Mugano,-2.33337695,29.524102601737212,real
+way/788838197,Kirehe District Hospital,hospital,hospital,hospital,East,Kirehe,RW55,Kirehe,-2.2676729,30.653053704199717,real
+way/1241264316,Minazi Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Minazi,-1.7339993,29.79486321973684,real
+way/1219751609,Rwankuba health centre,hospital,hospital,health_center,North,Gakenke,RW42,Muhondo,-1.758702,29.864258561301984,real
+way/1220696422,Coko health centre,hospital,hospital,health_center,North,Gakenke,RW42,Coko,-1.76468385,29.82277996091324,real
+way/1245444976,Kinini Health Centre,hospital,hospital,health_center,North,Rulindo,RW41,Mbogo,-1.7728720999999998,29.932615900000002,real
+way/1239295284,Muhondo Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Muhondo,-1.80011375,29.895351938211224,real
+way/1241260913,Nyange Health Centre,hospital,hospital,health_center,North,Gakenke,RW42,Coko,-1.8010271,29.790750591175374,real
+way/1226961970,Ruli district hospital,hospital,hospital,hospital,North,Gakenke,RW42,Ruli,-1.8296416500000001,29.849413789090022,real
+way/1375193736,Nyange A Health Centre,,hospital,health_center,West,Ngororero,RW35,Ngororero,-1.83579115,29.646250987805693,real
+way/1324185583,Gikundamvura Health Centre,hospital,hospital,health_center,West,Rusizi,RW36,Gikundamvura,-2.62459705,29.04348794065135,real
+way/173306594,Plateau Clinic,hospital,hospital,clinic,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.95206755,30.06117474427861,real
+way/1447195282,Rutongo Hospital,hospital,,hospital,North,Rulindo,RW41,Ngoma,-1.7870110000000001,30.00303357086142,real
+way/788895130,Eyes And Dental Hospital,hospital,hospital,hospital,Kigali City,Nyarugenge,RW11,Nyarugenge,-1.95470155,30.063380535059796,real
+way/691079821,Pole sante de Muhihi,,centre,other,North,Rulindo,RW41,Kisaro,-1.6326537,30.060159693389828,real
+way/1448526892,,hospital,hospital,other,West,Nyamasheke,RW37,Karengera,-2.5205881,29.030502894904828,real
+relation/13448499,Mediheal Diagnostics & Fertility Centre - Kigali,clinic,,clinic,Kigali City,Gasabo,RW12,Kacyiru,-1.9474071,30.075981453725397,real

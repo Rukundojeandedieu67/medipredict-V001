@@ -1,0 +1,401 @@
+province,district,facility_type,blood_group,metric,units
+East,Bugesera,District Hospital,A+,units_used,130
+East,Bugesera,District Hospital,A-,units_used,216
+East,Bugesera,District Hospital,AB+,units_used,14
+East,Bugesera,District Hospital,AB-,units_used,25
+East,Bugesera,District Hospital,B+,units_used,275
+East,Bugesera,District Hospital,B-,units_used,3
+East,Bugesera,District Hospital,O+,units_used,812
+East,Bugesera,District Hospital,O-,units_used,62
+East,Bugesera,Specialised Hospital,A+,units_used,29
+East,Bugesera,Specialised Hospital,A-,units_used,0
+East,Bugesera,Specialised Hospital,AB+,units_used,5
+East,Bugesera,Specialised Hospital,AB-,units_used,0
+East,Bugesera,Specialised Hospital,B+,units_used,17
+East,Bugesera,Specialised Hospital,B-,units_used,0
+East,Bugesera,Specialised Hospital,O+,units_used,78
+East,Bugesera,Specialised Hospital,O-,units_used,1
+North,Burera,District Hospital,A+,units_used,580
+North,Burera,District Hospital,A-,units_used,21
+North,Burera,District Hospital,AB+,units_used,26
+North,Burera,District Hospital,AB-,units_used,0
+North,Burera,District Hospital,B+,units_used,375
+North,Burera,District Hospital,B-,units_used,32
+North,Burera,District Hospital,O+,units_used,985
+North,Burera,District Hospital,O-,units_used,57
+North,Gakenke,District Hospital,A+,units_used,98
+North,Gakenke,District Hospital,A-,units_used,177
+North,Gakenke,District Hospital,AB+,units_used,54
+North,Gakenke,District Hospital,AB-,units_used,13
+North,Gakenke,District Hospital,B+,units_used,118
+North,Gakenke,District Hospital,B-,units_used,25
+North,Gakenke,District Hospital,O+,units_used,347
+North,Gakenke,District Hospital,O-,units_used,7
+Kigali City,Gasabo,District Hospital,A+,units_used,153
+Kigali City,Gasabo,District Hospital,A-,units_used,264
+Kigali City,Gasabo,District Hospital,AB+,units_used,16
+Kigali City,Gasabo,District Hospital,AB-,units_used,61
+Kigali City,Gasabo,District Hospital,B+,units_used,279
+Kigali City,Gasabo,District Hospital,B-,units_used,6
+Kigali City,Gasabo,District Hospital,O+,units_used,789
+Kigali City,Gasabo,District Hospital,O-,units_used,80
+Kigali City,Gasabo,Medicalized health Center,A+,units_used,0
+Kigali City,Gasabo,Medicalized health Center,A-,units_used,0
+Kigali City,Gasabo,Medicalized health Center,AB+,units_used,0
+Kigali City,Gasabo,Medicalized health Center,AB-,units_used,0
+Kigali City,Gasabo,Medicalized health Center,B+,units_used,0
+Kigali City,Gasabo,Medicalized health Center,B-,units_used,0
+Kigali City,Gasabo,Medicalized health Center,O+,units_used,0
+Kigali City,Gasabo,Medicalized health Center,O-,units_used,0
+Kigali City,Gasabo,Private Hospital,A+,units_used,53
+Kigali City,Gasabo,Private Hospital,A-,units_used,19
+Kigali City,Gasabo,Private Hospital,AB+,units_used,13
+Kigali City,Gasabo,Private Hospital,AB-,units_used,0
+Kigali City,Gasabo,Private Hospital,B+,units_used,34
+Kigali City,Gasabo,Private Hospital,B-,units_used,16
+Kigali City,Gasabo,Private Hospital,O+,units_used,132
+Kigali City,Gasabo,Private Hospital,O-,units_used,2
+Kigali City,Gasabo,Referral Hospital,A+,units_used,0
+Kigali City,Gasabo,Referral Hospital,A-,units_used,0
+Kigali City,Gasabo,Referral Hospital,AB+,units_used,0
+Kigali City,Gasabo,Referral Hospital,AB-,units_used,0
+Kigali City,Gasabo,Referral Hospital,B+,units_used,0
+Kigali City,Gasabo,Referral Hospital,B-,units_used,0
+Kigali City,Gasabo,Referral Hospital,O+,units_used,0
+Kigali City,Gasabo,Referral Hospital,O-,units_used,0
+East,Gatsibo,District Hospital,A+,units_used,128
+East,Gatsibo,District Hospital,A-,units_used,203
+East,Gatsibo,District Hospital,AB+,units_used,28
+East,Gatsibo,District Hospital,AB-,units_used,61
+East,Gatsibo,District Hospital,B+,units_used,155
+East,Gatsibo,District Hospital,B-,units_used,7
+East,Gatsibo,District Hospital,O+,units_used,573
+East,Gatsibo,District Hospital,O-,units_used,88
+North,Gicumbi,District Hospital,A+,units_used,17
+North,Gicumbi,District Hospital,A-,units_used,237
+North,Gicumbi,District Hospital,AB+,units_used,18
+North,Gicumbi,District Hospital,AB-,units_used,17
+North,Gicumbi,District Hospital,B+,units_used,217
+North,Gicumbi,District Hospital,B-,units_used,6
+North,Gicumbi,District Hospital,O+,units_used,352
+North,Gicumbi,District Hospital,O-,units_used,353
+North,Gicumbi,Medicalized health Center,A+,units_used,23
+North,Gicumbi,Medicalized health Center,A-,units_used,0
+North,Gicumbi,Medicalized health Center,AB+,units_used,4
+North,Gicumbi,Medicalized health Center,AB-,units_used,0
+North,Gicumbi,Medicalized health Center,B+,units_used,17
+North,Gicumbi,Medicalized health Center,B-,units_used,0
+North,Gicumbi,Medicalized health Center,O+,units_used,51
+North,Gicumbi,Medicalized health Center,O-,units_used,0
+South,Gisagara,District Hospital,A+,units_used,90
+South,Gisagara,District Hospital,A-,units_used,145
+South,Gisagara,District Hospital,AB+,units_used,26
+South,Gisagara,District Hospital,AB-,units_used,18
+South,Gisagara,District Hospital,B+,units_used,141
+South,Gisagara,District Hospital,B-,units_used,10
+South,Gisagara,District Hospital,O+,units_used,437
+South,Gisagara,District Hospital,O-,units_used,25
+South,Gisagara,Medicalized health Center,A+,units_used,0
+South,Gisagara,Medicalized health Center,A-,units_used,0
+South,Gisagara,Medicalized health Center,AB+,units_used,1
+South,Gisagara,Medicalized health Center,AB-,units_used,0
+South,Gisagara,Medicalized health Center,B+,units_used,3
+South,Gisagara,Medicalized health Center,B-,units_used,0
+South,Gisagara,Medicalized health Center,O+,units_used,32
+South,Gisagara,Medicalized health Center,O-,units_used,0
+South,Huye,District Hospital,A+,units_used,98
+South,Huye,District Hospital,A-,units_used,9
+South,Huye,District Hospital,AB+,units_used,12
+South,Huye,District Hospital,AB-,units_used,2
+South,Huye,District Hospital,B+,units_used,131
+South,Huye,District Hospital,B-,units_used,6
+South,Huye,District Hospital,O+,units_used,305
+South,Huye,District Hospital,O-,units_used,41
+South,Huye,Referral Hospital,A+,units_used,522
+South,Huye,Referral Hospital,A-,units_used,40
+South,Huye,Referral Hospital,AB+,units_used,50
+South,Huye,Referral Hospital,AB-,units_used,3
+South,Huye,Referral Hospital,B+,units_used,392
+South,Huye,Referral Hospital,B-,units_used,17
+South,Huye,Referral Hospital,O+,units_used,1084
+South,Huye,Referral Hospital,O-,units_used,240
+South,Kamonyi,District Hospital,A+,units_used,7
+South,Kamonyi,District Hospital,A-,units_used,80
+South,Kamonyi,District Hospital,AB+,units_used,1
+South,Kamonyi,District Hospital,AB-,units_used,2
+South,Kamonyi,District Hospital,B+,units_used,45
+South,Kamonyi,District Hospital,B-,units_used,7
+South,Kamonyi,District Hospital,O+,units_used,201
+South,Kamonyi,District Hospital,O-,units_used,21
+West,Karongi,District Hospital,A+,units_used,4
+West,Karongi,District Hospital,A-,units_used,65
+West,Karongi,District Hospital,AB+,units_used,0
+West,Karongi,District Hospital,AB-,units_used,6
+West,Karongi,District Hospital,B+,units_used,59
+West,Karongi,District Hospital,B-,units_used,2
+West,Karongi,District Hospital,O+,units_used,182
+West,Karongi,District Hospital,O-,units_used,25
+West,Karongi,Referral Hospital,A+,units_used,28
+West,Karongi,Referral Hospital,A-,units_used,111
+West,Karongi,Referral Hospital,AB+,units_used,8
+West,Karongi,Referral Hospital,AB-,units_used,23
+West,Karongi,Referral Hospital,B+,units_used,96
+West,Karongi,Referral Hospital,B-,units_used,2
+West,Karongi,Referral Hospital,O+,units_used,256
+West,Karongi,Referral Hospital,O-,units_used,47
+East,Kayonza,District Hospital,A+,units_used,90
+East,Kayonza,District Hospital,A-,units_used,194
+East,Kayonza,District Hospital,AB+,units_used,28
+East,Kayonza,District Hospital,AB-,units_used,26
+East,Kayonza,District Hospital,B+,units_used,247
+East,Kayonza,District Hospital,B-,units_used,8
+East,Kayonza,District Hospital,O+,units_used,660
+East,Kayonza,District Hospital,O-,units_used,87
+Kigali City,Kicukiro,District Hospital,A+,units_used,368
+Kigali City,Kicukiro,District Hospital,A-,units_used,8
+Kigali City,Kicukiro,District Hospital,AB+,units_used,71
+Kigali City,Kicukiro,District Hospital,AB-,units_used,0
+Kigali City,Kicukiro,District Hospital,B+,units_used,220
+Kigali City,Kicukiro,District Hospital,B-,units_used,18
+Kigali City,Kicukiro,District Hospital,O+,units_used,675
+Kigali City,Kicukiro,District Hospital,O-,units_used,77
+Kigali City,Kicukiro,Medicalized health Center,A+,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,A-,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,AB+,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,AB-,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,B+,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,B-,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,O+,units_used,0
+Kigali City,Kicukiro,Medicalized health Center,O-,units_used,0
+Kigali City,Kicukiro,Other facility type,A+,units_used,47
+Kigali City,Kicukiro,Other facility type,A-,units_used,2
+Kigali City,Kicukiro,Other facility type,AB+,units_used,4
+Kigali City,Kicukiro,Other facility type,AB-,units_used,0
+Kigali City,Kicukiro,Other facility type,B+,units_used,6
+Kigali City,Kicukiro,Other facility type,B-,units_used,0
+Kigali City,Kicukiro,Other facility type,O+,units_used,73
+Kigali City,Kicukiro,Other facility type,O-,units_used,4
+Kigali City,Kicukiro,Private Hospital,A+,units_used,18
+Kigali City,Kicukiro,Private Hospital,A-,units_used,2
+Kigali City,Kicukiro,Private Hospital,AB+,units_used,0
+Kigali City,Kicukiro,Private Hospital,AB-,units_used,1
+Kigali City,Kicukiro,Private Hospital,B+,units_used,14
+Kigali City,Kicukiro,Private Hospital,B-,units_used,0
+Kigali City,Kicukiro,Private Hospital,O+,units_used,40
+Kigali City,Kicukiro,Private Hospital,O-,units_used,6
+East,Kirehe,District Hospital,A+,units_used,267
+East,Kirehe,District Hospital,A-,units_used,226
+East,Kirehe,District Hospital,AB+,units_used,66
+East,Kirehe,District Hospital,AB-,units_used,59
+East,Kirehe,District Hospital,B+,units_used,174
+East,Kirehe,District Hospital,B-,units_used,8
+East,Kirehe,District Hospital,O+,units_used,769
+East,Kirehe,District Hospital,O-,units_used,115
+South,Muhanga,District Hospital,A+,units_used,55
+South,Muhanga,District Hospital,A-,units_used,178
+South,Muhanga,District Hospital,AB+,units_used,19
+South,Muhanga,District Hospital,AB-,units_used,42
+South,Muhanga,District Hospital,B+,units_used,277
+South,Muhanga,District Hospital,B-,units_used,7
+South,Muhanga,District Hospital,O+,units_used,684
+South,Muhanga,District Hospital,O-,units_used,111
+North,Musanze,Referral Hospital,A+,units_used,453
+North,Musanze,Referral Hospital,A-,units_used,8
+North,Musanze,Referral Hospital,AB+,units_used,113
+North,Musanze,Referral Hospital,AB-,units_used,1
+North,Musanze,Referral Hospital,B+,units_used,356
+North,Musanze,Referral Hospital,B-,units_used,11
+North,Musanze,Referral Hospital,O+,units_used,892
+North,Musanze,Referral Hospital,O-,units_used,63
+East,Ngoma,Referral Hospital,A+,units_used,120
+East,Ngoma,Referral Hospital,A-,units_used,140
+East,Ngoma,Referral Hospital,AB+,units_used,12
+East,Ngoma,Referral Hospital,AB-,units_used,17
+East,Ngoma,Referral Hospital,B+,units_used,143
+East,Ngoma,Referral Hospital,B-,units_used,3
+East,Ngoma,Referral Hospital,O+,units_used,505
+East,Ngoma,Referral Hospital,O-,units_used,83
+West,Ngororero,District Hospital,A+,units_used,114
+West,Ngororero,District Hospital,A-,units_used,97
+West,Ngororero,District Hospital,AB+,units_used,7
+West,Ngororero,District Hospital,AB-,units_used,15
+West,Ngororero,District Hospital,B+,units_used,100
+West,Ngororero,District Hospital,B-,units_used,3
+West,Ngororero,District Hospital,O+,units_used,288
+West,Ngororero,District Hospital,O-,units_used,42
+West,Nyabihu,District Hospital,A+,units_used,50
+West,Nyabihu,District Hospital,A-,units_used,0
+West,Nyabihu,District Hospital,AB+,units_used,10
+West,Nyabihu,District Hospital,AB-,units_used,0
+West,Nyabihu,District Hospital,B+,units_used,55
+West,Nyabihu,District Hospital,B-,units_used,0
+West,Nyabihu,District Hospital,O+,units_used,105
+West,Nyabihu,District Hospital,O-,units_used,2
+West,Nyabihu,Medicalized health Center,A+,units_used,0
+West,Nyabihu,Medicalized health Center,A-,units_used,0
+West,Nyabihu,Medicalized health Center,AB+,units_used,0
+West,Nyabihu,Medicalized health Center,AB-,units_used,0
+West,Nyabihu,Medicalized health Center,B+,units_used,0
+West,Nyabihu,Medicalized health Center,B-,units_used,0
+West,Nyabihu,Medicalized health Center,O+,units_used,0
+West,Nyabihu,Medicalized health Center,O-,units_used,0
+East,Nyagatare,District Hospital,A+,units_used,133
+East,Nyagatare,District Hospital,A-,units_used,337
+East,Nyagatare,District Hospital,AB+,units_used,27
+East,Nyagatare,District Hospital,AB-,units_used,4
+East,Nyagatare,District Hospital,B+,units_used,346
+East,Nyagatare,District Hospital,B-,units_used,14
+East,Nyagatare,District Hospital,O+,units_used,739
+East,Nyagatare,District Hospital,O-,units_used,76
+South,Nyamagabe,District Hospital,A+,units_used,24
+South,Nyamagabe,District Hospital,A-,units_used,107
+South,Nyamagabe,District Hospital,AB+,units_used,6
+South,Nyamagabe,District Hospital,AB-,units_used,22
+South,Nyamagabe,District Hospital,B+,units_used,140
+South,Nyamagabe,District Hospital,B-,units_used,0
+South,Nyamagabe,District Hospital,O+,units_used,319
+South,Nyamagabe,District Hospital,O-,units_used,12
+West,Nyamasheke,District Hospital,A+,units_used,80
+West,Nyamasheke,District Hospital,A-,units_used,81
+West,Nyamasheke,District Hospital,AB+,units_used,4
+West,Nyamasheke,District Hospital,AB-,units_used,14
+West,Nyamasheke,District Hospital,B+,units_used,155
+West,Nyamasheke,District Hospital,B-,units_used,3
+West,Nyamasheke,District Hospital,O+,units_used,296
+West,Nyamasheke,District Hospital,O-,units_used,42
+West,Nyamasheke,Provincial Hospital,A+,units_used,9
+West,Nyamasheke,Provincial Hospital,A-,units_used,145
+West,Nyamasheke,Provincial Hospital,AB+,units_used,0
+West,Nyamasheke,Provincial Hospital,AB-,units_used,4
+West,Nyamasheke,Provincial Hospital,B+,units_used,134
+West,Nyamasheke,Provincial Hospital,B-,units_used,8
+West,Nyamasheke,Provincial Hospital,O+,units_used,226
+West,Nyamasheke,Provincial Hospital,O-,units_used,10
+South,Nyanza,District Hospital,A+,units_used,147
+South,Nyanza,District Hospital,A-,units_used,127
+South,Nyanza,District Hospital,AB+,units_used,46
+South,Nyanza,District Hospital,AB-,units_used,6
+South,Nyanza,District Hospital,B+,units_used,159
+South,Nyanza,District Hospital,B-,units_used,11
+South,Nyanza,District Hospital,O+,units_used,447
+South,Nyanza,District Hospital,O-,units_used,65
+South,Nyanza,Other facility type,A+,units_used,18
+South,Nyanza,Other facility type,A-,units_used,0
+South,Nyanza,Other facility type,AB+,units_used,0
+South,Nyanza,Other facility type,AB-,units_used,0
+South,Nyanza,Other facility type,B+,units_used,3
+South,Nyanza,Other facility type,B-,units_used,0
+South,Nyanza,Other facility type,O+,units_used,9
+South,Nyanza,Other facility type,O-,units_used,0
+Kigali City,Nyarugenge,District Hospital,A+,units_used,287
+Kigali City,Nyarugenge,District Hospital,A-,units_used,150
+Kigali City,Nyarugenge,District Hospital,AB+,units_used,81
+Kigali City,Nyarugenge,District Hospital,AB-,units_used,12
+Kigali City,Nyarugenge,District Hospital,B+,units_used,324
+Kigali City,Nyarugenge,District Hospital,B-,units_used,3
+Kigali City,Nyarugenge,District Hospital,O+,units_used,870
+Kigali City,Nyarugenge,District Hospital,O-,units_used,59
+Kigali City,Nyarugenge,Medicalized health Center,A+,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,A-,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,AB+,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,AB-,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,B+,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,B-,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,O+,units_used,0
+Kigali City,Nyarugenge,Medicalized health Center,O-,units_used,0
+Kigali City,Nyarugenge,Private Hospital,A+,units_used,16
+Kigali City,Nyarugenge,Private Hospital,A-,units_used,0
+Kigali City,Nyarugenge,Private Hospital,AB+,units_used,2
+Kigali City,Nyarugenge,Private Hospital,AB-,units_used,0
+Kigali City,Nyarugenge,Private Hospital,B+,units_used,21
+Kigali City,Nyarugenge,Private Hospital,B-,units_used,2
+Kigali City,Nyarugenge,Private Hospital,O+,units_used,18
+Kigali City,Nyarugenge,Private Hospital,O-,units_used,0
+Kigali City,Nyarugenge,Referral Hospital,A+,units_used,1554
+Kigali City,Nyarugenge,Referral Hospital,A-,units_used,69
+Kigali City,Nyarugenge,Referral Hospital,AB+,units_used,253
+Kigali City,Nyarugenge,Referral Hospital,AB-,units_used,4
+Kigali City,Nyarugenge,Referral Hospital,B+,units_used,894
+Kigali City,Nyarugenge,Referral Hospital,B-,units_used,222
+Kigali City,Nyarugenge,Referral Hospital,O+,units_used,3007
+Kigali City,Nyarugenge,Referral Hospital,O-,units_used,1104
+South,Nyaruguru,District Hospital,A+,units_used,25
+South,Nyaruguru,District Hospital,A-,units_used,36
+South,Nyaruguru,District Hospital,AB+,units_used,1
+South,Nyaruguru,District Hospital,AB-,units_used,11
+South,Nyaruguru,District Hospital,B+,units_used,50
+South,Nyaruguru,District Hospital,B-,units_used,3
+South,Nyaruguru,District Hospital,O+,units_used,81
+South,Nyaruguru,District Hospital,O-,units_used,10
+West,Rubavu,District Hospital,A+,units_used,363
+West,Rubavu,District Hospital,A-,units_used,7
+West,Rubavu,District Hospital,AB+,units_used,36
+West,Rubavu,District Hospital,AB-,units_used,0
+West,Rubavu,District Hospital,B+,units_used,192
+West,Rubavu,District Hospital,B-,units_used,7
+West,Rubavu,District Hospital,O+,units_used,542
+West,Rubavu,District Hospital,O-,units_used,56
+South,Ruhango,District Hospital,A+,units_used,31
+South,Ruhango,District Hospital,A-,units_used,30
+South,Ruhango,District Hospital,AB+,units_used,4
+South,Ruhango,District Hospital,AB-,units_used,0
+South,Ruhango,District Hospital,B+,units_used,16
+South,Ruhango,District Hospital,B-,units_used,5
+South,Ruhango,District Hospital,O+,units_used,137
+South,Ruhango,District Hospital,O-,units_used,14
+South,Ruhango,Provincial Hospital,A+,units_used,150
+South,Ruhango,Provincial Hospital,A-,units_used,26
+South,Ruhango,Provincial Hospital,AB+,units_used,5
+South,Ruhango,Provincial Hospital,AB-,units_used,6
+South,Ruhango,Provincial Hospital,B+,units_used,86
+South,Ruhango,Provincial Hospital,B-,units_used,2
+South,Ruhango,Provincial Hospital,O+,units_used,300
+South,Ruhango,Provincial Hospital,O-,units_used,54
+North,Rulindo,District Hospital,A+,units_used,115
+North,Rulindo,District Hospital,A-,units_used,24
+North,Rulindo,District Hospital,AB+,units_used,12
+North,Rulindo,District Hospital,AB-,units_used,0
+North,Rulindo,District Hospital,B+,units_used,78
+North,Rulindo,District Hospital,B-,units_used,0
+North,Rulindo,District Hospital,O+,units_used,141
+North,Rulindo,District Hospital,O-,units_used,28
+North,Rulindo,Provincial Hospital,A+,units_used,28
+North,Rulindo,Provincial Hospital,A-,units_used,6
+North,Rulindo,Provincial Hospital,AB+,units_used,22
+North,Rulindo,Provincial Hospital,AB-,units_used,0
+North,Rulindo,Provincial Hospital,B+,units_used,40
+North,Rulindo,Provincial Hospital,B-,units_used,0
+North,Rulindo,Provincial Hospital,O+,units_used,65
+North,Rulindo,Provincial Hospital,O-,units_used,5
+West,Rusizi,District Hospital,A+,units_used,90
+West,Rusizi,District Hospital,A-,units_used,248
+West,Rusizi,District Hospital,AB+,units_used,7
+West,Rusizi,District Hospital,AB-,units_used,9
+West,Rusizi,District Hospital,B+,units_used,274
+West,Rusizi,District Hospital,B-,units_used,17
+West,Rusizi,District Hospital,O+,units_used,718
+West,Rusizi,District Hospital,O-,units_used,98
+West,Rusizi,Private Hospital,A+,units_used,0
+West,Rusizi,Private Hospital,A-,units_used,0
+West,Rusizi,Private Hospital,AB+,units_used,0
+West,Rusizi,Private Hospital,AB-,units_used,0
+West,Rusizi,Private Hospital,B+,units_used,0
+West,Rusizi,Private Hospital,B-,units_used,0
+West,Rusizi,Private Hospital,O+,units_used,0
+West,Rusizi,Private Hospital,O-,units_used,0
+West,Rutsiro,District Hospital,A+,units_used,23
+West,Rutsiro,District Hospital,A-,units_used,79
+West,Rutsiro,District Hospital,AB+,units_used,10
+West,Rutsiro,District Hospital,AB-,units_used,4
+West,Rutsiro,District Hospital,B+,units_used,36
+West,Rutsiro,District Hospital,B-,units_used,7
+West,Rutsiro,District Hospital,O+,units_used,171
+West,Rutsiro,District Hospital,O-,units_used,11
+East,Rwamagana,Provincial Hospital,A+,units_used,155
+East,Rwamagana,Provincial Hospital,A-,units_used,107
+East,Rwamagana,Provincial Hospital,AB+,units_used,41
+East,Rwamagana,Provincial Hospital,AB-,units_used,22
+East,Rwamagana,Provincial Hospital,B+,units_used,246
+East,Rwamagana,Provincial Hospital,B-,units_used,10
+East,Rwamagana,Provincial Hospital,O+,units_used,699
+East,Rwamagana,Provincial Hospital,O-,units_used,123

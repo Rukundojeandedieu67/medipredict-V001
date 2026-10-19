@@ -1,0 +1,89 @@
+iso3: RWA
+category:
+  name: health_facilities
+  formats:
+  - gpkg
+  - shp
+  - geojson
+  - kml
+  - geoparquet
+  zip_formats: null
+  skip_pcodes: false
+  boundary_resolution: null
+  hdx:
+    title: Health Facilities
+    notes: 'Health facilities: hospitals, clinics, pharmacies, doctors, and dentists
+      tagged via `amenity` or `healthcare`. Useful for service-access analysis, emergency
+      response, and healthcare gap mapping.
+
+
+      Coverage reflects where volunteer mappers have been active. Urban areas are
+      usually well represented, remote areas may be sparse. Cross-check critical decisions
+      with local field knowledge.
+
+
+      - Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative
+      world map
+
+      - Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [healthcare](https://wiki.openstreetmap.org/wiki/Key:healthcare)
+
+      - Part of the [country exports on HDX](https://data.humdata.org/organization/hot/)
+      by [HOT](https://www.hotosm.org/)
+
+      '
+    summary: ''
+    tags:
+    - geodata
+    - health
+    - health facilities
+    license: hdx-odc-odbl
+    license_url: https://opendatacommons.org/licenses/odbl/1-0/
+    caveats: OpenStreetMap data is crowd sourced and cannot be considered to be exhaustive
+    dataset_source: OpenStreetMap contributors
+  overture:
+    enabled: false
+    theme: ''
+    feature_type: ''
+    select: []
+    where: []
+    tiles: true
+  osm:
+    enabled: true
+    select:
+    - feature_id AS id
+    - tags['name'] AS name
+    - tags['name:en'] AS name_en
+    - tags['amenity'] AS amenity
+    - tags['building'] AS building
+    - tags['healthcare'] AS healthcare
+    - tags['healthcare:speciality'] AS healthcare_speciality
+    - tags['operator:type'] AS operator_type
+    - tags['capacity:persons'] AS capacity_persons
+    - tags['addr:full'] AS addr_full
+    - tags['addr:city'] AS addr_city
+    - tags['source'] AS source
+    where: []
+    filter:
+      healthcare: true
+      amenity:
+      - doctors
+      - dentist
+      - clinic
+      - hospital
+      - pharmacy
+    tiles: true
+  file:
+    enabled: true
+    path: ''
+    crs: ''
+    layer: ''
+    select: {}
+    where: []
+    tiles: true
+  transliterate:
+  - target: name_latin
+    source: name
+    prefer: name_en
+  temporal:
+    column: update_time
+source: osm

@@ -1,0 +1,20 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: medipredict
+      POSTGRES_USER: medipredict
+      POSTGRES_PASSWORD: medipredict
+    ports:
+      - "5432:5432"
+    volumes:
+      - medipredict-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U medipredict -d medipredict"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  medipredict-postgres:
+

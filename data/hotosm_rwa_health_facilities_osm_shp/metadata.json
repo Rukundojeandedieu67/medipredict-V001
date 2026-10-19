@@ -1,0 +1,605 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/projection/v2.0.0/schema.json",
+    "https://stac-extensions.github.io/table/v1.2.0/schema.json"
+  ],
+  "id": "hotosm_rwa_health_facilities-osm",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          28.874371,
+          -2.7803532
+        ],
+        [
+          30.8255863,
+          -2.7803532
+        ],
+        [
+          30.8255863,
+          -1.1254176
+        ],
+        [
+          28.874371,
+          -1.1254176
+        ],
+        [
+          28.874371,
+          -2.7803532
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    28.874371,
+    -2.7803532,
+    30.8255863,
+    -1.1254176
+  ],
+  "properties": {
+    "oex:category": "health_facilities",
+    "oex:source": "osm",
+    "oex:dataset_source": "OpenStreetMap (Geofabrik RWA 2026-10-07)",
+    "oex:snapshot": "2026-10-07",
+    "oex:boundary": "geoBoundaries gbOpen ADM0",
+    "oex:version": "0.4.15",
+    "oex:pcode_source_date": "2025-07-29",
+    "oex:geometry_types": {
+      "POINT": 1254,
+      "POLYGON": 118
+    },
+    "title": "Health Facilities of Rwanda",
+    "description": "1,372 features: 1,254 points, 118 polygons. 4 of 14 attributes are filled for at least half of the features.",
+    "license": "ODbL-1.0",
+    "created": "2026-10-07T23:58:09Z",
+    "keywords": [
+      "geodata",
+      "health",
+      "health facilities"
+    ],
+    "providers": [
+      {
+        "name": "OpenStreetMap (Geofabrik RWA 2026-10-07)",
+        "roles": [
+          "producer",
+          "licensor"
+        ]
+      }
+    ],
+    "proj:code": "EPSG:4326",
+    "table:row_count": 1372,
+    "table:primary_geometry": "geom",
+    "table:columns": [
+      {
+        "name": "id",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 1372,
+        "oex:top_values": []
+      },
+      {
+        "name": "name",
+        "type": "VARCHAR",
+        "oex:null_count": 61,
+        "oex:null_percent": 4.45,
+        "oex:distinct_count": 1220,
+        "oex:top_values": []
+      },
+      {
+        "name": "name_en",
+        "type": "VARCHAR",
+        "oex:null_count": 584,
+        "oex:null_percent": 42.57,
+        "oex:distinct_count": 722,
+        "oex:top_values": [
+          {
+            "value": "Nyamiyaga Health Centre",
+            "count": 3
+          },
+          {
+            "value": "Gatare Health Centre",
+            "count": 3
+          },
+          {
+            "value": "Rubona Health Centre",
+            "count": 3
+          },
+          {
+            "value": "Murambi Health Centre",
+            "count": 3
+          },
+          {
+            "value": "Nyundo Health Centre",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "name_rw",
+        "type": "VARCHAR",
+        "oex:null_count": 1299,
+        "oex:null_percent": 94.68,
+        "oex:distinct_count": 71,
+        "oex:top_values": [
+          {
+            "value": "FARUMASI UBWIZA N'UBUZIMA",
+            "count": 2
+          },
+          {
+            "value": "ADVANCED PHARMACY",
+            "count": 2
+          },
+          {
+            "value": "ELON PHARMACY",
+            "count": 1
+          },
+          {
+            "value": "Ibitaro bya Masaka",
+            "count": 1
+          },
+          {
+            "value": "Ibitaro bya Nyamata",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "name_fr",
+        "type": "VARCHAR",
+        "oex:null_count": 1220,
+        "oex:null_percent": 88.92,
+        "oex:distinct_count": 148,
+        "oex:top_values": [
+          {
+            "value": "Hôpital de Kibogora",
+            "count": 2
+          },
+          {
+            "value": "Clinic des grands lacs",
+            "count": 2
+          },
+          {
+            "value": "Hôpital de Nemba",
+            "count": 2
+          },
+          {
+            "value": "ADVANCED PHARMACY",
+            "count": 2
+          },
+          {
+            "value": "Hôpital du district de Ruli",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "amenity",
+        "type": "VARCHAR",
+        "oex:null_count": 17,
+        "oex:null_percent": 1.24,
+        "oex:distinct_count": 6,
+        "oex:top_values": [
+          {
+            "value": "hospital",
+            "count": 756
+          },
+          {
+            "value": "pharmacy",
+            "count": 479
+          },
+          {
+            "value": "clinic",
+            "count": 101
+          },
+          {
+            "value": "doctors",
+            "count": 15
+          },
+          {
+            "value": "dentist",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "building",
+        "type": "VARCHAR",
+        "oex:null_count": 1360,
+        "oex:null_percent": 99.13,
+        "oex:distinct_count": 3,
+        "oex:top_values": [
+          {
+            "value": "yes",
+            "count": 10
+          },
+          {
+            "value": "commercial",
+            "count": 1
+          },
+          {
+            "value": "hospital",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "healthcare",
+        "type": "VARCHAR",
+        "oex:null_count": 1085,
+        "oex:null_percent": 79.08,
+        "oex:distinct_count": 12,
+        "oex:top_values": [
+          {
+            "value": "pharmacy",
+            "count": 132
+          },
+          {
+            "value": "hospital",
+            "count": 115
+          },
+          {
+            "value": "clinic",
+            "count": 20
+          },
+          {
+            "value": "laboratory",
+            "count": 7
+          },
+          {
+            "value": "centre",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "name": "healthcare_speciality",
+        "type": "VARCHAR",
+        "oex:null_count": 1355,
+        "oex:null_percent": 98.76,
+        "oex:distinct_count": 10,
+        "oex:top_values": [
+          {
+            "value": "general",
+            "count": 8
+          },
+          {
+            "value": "emergency",
+            "count": 1
+          },
+          {
+            "value": "optometry;optician;eye_care",
+            "count": 1
+          },
+          {
+            "value": "homeopathy",
+            "count": 1
+          },
+          {
+            "value": "abortion;allergology;acupuncture;anaesthetics;applied_kinesiology;cardiology;clinical_pathology;dermatology;emergency;fertility;diagnostic_radiology;endocrinology;gastroenterology;gynaecology;hepatology;haematology;infectious_diseases;intensive;internal",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "operator_type",
+        "type": "VARCHAR",
+        "oex:null_count": 1356,
+        "oex:null_percent": 98.83,
+        "oex:distinct_count": 4,
+        "oex:top_values": [
+          {
+            "value": "private",
+            "count": 7
+          },
+          {
+            "value": "public",
+            "count": 7
+          },
+          {
+            "value": "government",
+            "count": 1
+          },
+          {
+            "value": "government_facility-public",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "capacity_persons",
+        "type": "VARCHAR",
+        "oex:null_count": 1372,
+        "oex:null_percent": 100.0,
+        "oex:distinct_count": 0,
+        "oex:top_values": []
+      },
+      {
+        "name": "addr_full",
+        "type": "VARCHAR",
+        "oex:null_count": 1372,
+        "oex:null_percent": 100.0,
+        "oex:distinct_count": 0,
+        "oex:top_values": []
+      },
+      {
+        "name": "addr_city",
+        "type": "VARCHAR",
+        "oex:null_count": 1361,
+        "oex:null_percent": 99.2,
+        "oex:distinct_count": 7,
+        "oex:top_values": [
+          {
+            "value": "Kigali",
+            "count": 4
+          },
+          {
+            "value": "Rwamagana",
+            "count": 2
+          },
+          {
+            "value": "Kigali city",
+            "count": 1
+          },
+          {
+            "value": "Gahini",
+            "count": 1
+          },
+          {
+            "value": "Murambi",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "name": "source",
+        "type": "VARCHAR",
+        "oex:null_count": 1372,
+        "oex:null_percent": 100.0,
+        "oex:distinct_count": 0,
+        "oex:top_values": []
+      },
+      {
+        "name": "adm0_pcode",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 1,
+        "oex:top_values": [
+          {
+            "value": "RWA",
+            "count": 1372
+          }
+        ]
+      },
+      {
+        "name": "adm0_name",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 1,
+        "oex:top_values": [
+          {
+            "value": "Rwanda",
+            "count": 1372
+          }
+        ]
+      },
+      {
+        "name": "adm1_pcode",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 5,
+        "oex:top_values": [
+          {
+            "value": "RW1",
+            "count": 572
+          },
+          {
+            "value": "RW3",
+            "count": 224
+          },
+          {
+            "value": "RW2",
+            "count": 223
+          },
+          {
+            "value": "RW5",
+            "count": 186
+          },
+          {
+            "value": "RW4",
+            "count": 167
+          }
+        ]
+      },
+      {
+        "name": "adm1_name",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 5,
+        "oex:top_values": [
+          {
+            "value": "Kigali City",
+            "count": 572
+          },
+          {
+            "value": "Western Province",
+            "count": 224
+          },
+          {
+            "value": "Southern Province",
+            "count": 223
+          },
+          {
+            "value": "Eastern Province",
+            "count": 186
+          },
+          {
+            "value": "Northern Province",
+            "count": 167
+          }
+        ]
+      },
+      {
+        "name": "adm2_pcode",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 30,
+        "oex:top_values": [
+          {
+            "value": "RW12",
+            "count": 328
+          },
+          {
+            "value": "RW13",
+            "count": 155
+          },
+          {
+            "value": "RW11",
+            "count": 89
+          },
+          {
+            "value": "RW24",
+            "count": 49
+          },
+          {
+            "value": "RW42",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "name": "adm2_name",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 30,
+        "oex:top_values": [
+          {
+            "value": "Gasabo",
+            "count": 328
+          },
+          {
+            "value": "Kicukiro",
+            "count": 155
+          },
+          {
+            "value": "Nyarugenge",
+            "count": 89
+          },
+          {
+            "value": "Gakenke",
+            "count": 49
+          },
+          {
+            "value": "Huye",
+            "count": 49
+          }
+        ]
+      },
+      {
+        "name": "adm3_pcode",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 336,
+        "oex:top_values": [
+          {
+            "value": "RW1204",
+            "count": 85
+          },
+          {
+            "value": "RW1213",
+            "count": 80
+          },
+          {
+            "value": "RW1109",
+            "count": 57
+          },
+          {
+            "value": "RW1306",
+            "count": 52
+          },
+          {
+            "value": "RW1209",
+            "count": 51
+          }
+        ]
+      },
+      {
+        "name": "adm3_name",
+        "type": "VARCHAR",
+        "oex:null_count": 0,
+        "oex:null_percent": 0.0,
+        "oex:distinct_count": 312,
+        "oex:top_values": [
+          {
+            "value": "Gisozi",
+            "count": 85
+          },
+          {
+            "value": "Remera",
+            "count": 84
+          },
+          {
+            "value": "Nyarugenge",
+            "count": 58
+          },
+          {
+            "value": "Kicukiro",
+            "count": 52
+          },
+          {
+            "value": "Kimironko",
+            "count": 51
+          }
+        ]
+      },
+      {
+        "name": "adm4_pcode",
+        "type": "VARCHAR",
+        "oex:null_count": 1372,
+        "oex:null_percent": 100.0,
+        "oex:distinct_count": 0,
+        "oex:top_values": []
+      },
+      {
+        "name": "adm4_name",
+        "type": "VARCHAR",
+        "oex:null_count": 1372,
+        "oex:null_percent": 100.0,
+        "oex:distinct_count": 0,
+        "oex:top_values": []
+      },
+      {
+        "name": "name_latin",
+        "type": "VARCHAR",
+        "oex:null_count": 61,
+        "oex:null_percent": 4.45,
+        "oex:distinct_count": 1223,
+        "oex:top_values": []
+      }
+    ],
+    "datetime": "2026-10-07T00:00:00Z"
+  },
+  "links": [
+    {
+      "rel": "license",
+      "href": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Database License (ODC-ODbL)"
+    },
+    {
+      "rel": "root",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {}
+}

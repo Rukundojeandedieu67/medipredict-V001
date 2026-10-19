@@ -1,0 +1,1859 @@
+--- Page 1 ---
+RWANDA BIOMEDICAL CENTRE
+BIOMEDICAL SERVICES DEPARTMENT
+BLOOD TRANSFUSION DIVISION
+ANNUAL REPORT 
+2024
+
+--- Page 2 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 1 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright © 2024: This report was elaborated by the Blood Transfusion Division, under the 
+Biomedical Services Department of the Rwanda Biomedical Centre
+
+--- Page 3 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 2 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWANDA BIOMEDICAL CENTRE 
+BIOMEDICAL SERVICES DEPARTMENT 
+BLOOD TRANSFUSION DIVISION 
+ 
+ 
+  
+ANNUAL REPORT  
+2024
+
+--- Page 4 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 3 of 50 
+ 
+i. Preamble
+
+--- Page 5 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 4 of 50 
+ 
+ii. Message of the Head of Biomedical Services Department
+
+--- Page 6 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 5 of 50 
+ 
+iii. Note of blood transfusion division manager
+
+--- Page 7 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 6 of 50 
+ 
+iv. Essential Abbreviations 
+ 
+ABCP Annual Blood Collection Plan 
+AfSBT Africa Society for Blood Transfusion 
+BBU Bio-Banking Unit 
+BCB(s) Blood Collection Buse(s) 
+BCU(s) Blood Component Unit(s) 
+BDR(s) Blood Donor Representative(s) 
+BIOS Biomedical Services 
+BTD Blood Transfusion Division 
+CHUK Centre Hospitalier Universitaire de Kigali 
+CoK City of Kigali 
+CRYO(s) Cryoprecipitate(s) 
+CTB Cornea Tissue Banking 
+DA Direct Antiglobulin 
+DH District Hospital 
+DIC Disseminated Intravascular Coagulation 
+DNA Deoxyribo-Nucleic Acid 
+FFP(s) Fresh frozen plasma(s) 
+HBV Hepatitis B Virus 
+HC Health Centre 
+HCV Hepatitis C Virus 
+HF(s) Health facilitie(s) 
+HIV Human Immunodeficiency Viruses 
+IA Indirect Antiglobulin   
+IBBS(s) International Blood Banking Standard(s) 
+IBD(s) Irregular blood donor(s) 
+IC25 Intwari Club 25 
+KFH King Faisal Hospital 
+L2TH Level 2 Teaching Hospital 
+MoD Ministry of Defense 
+MoH Ministry of Health 
+NAT Nucleic Acid Testing 
+NBD(s) New blood donor(s) 
+Number Number 
+PLT(s) Platelet(s) 
+QMS Quality Management System 
+RBC(s) Red blood cell(s) 
+RBC Rwanda Biomedical Centre 
+RBD(s) Regular blood donor(s) 
+RCBT(s) Regional Centre(s) for Blood Transfusion 
+RDF Rwanda Defense Forces 
+RMRTH Rwanda Military Referral Teaching Hospital 
+RNP Rwanda National Police 
+RPTBD(s) Repeat Blood Donor(s)   
+SDG Sustainable Development Goal
+
+--- Page 8 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 7 of 50 
+ 
+THF(s) Transfusing Health Facilitie(s) 
+TTI(s) Transfusion Transmitted Infection(s) 
+TV Television 
+UAS Unmanned Aerial Systems 
+UHC Universal Health Coverage 
+VNRBD Voluntary Non-remunerated Blood Donations 
+WBD Whole Blood Donations
+
+--- Page 9 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 8 of 50 
+ 
+v. Contents 
+i. Preamble ................................................................................................................................. 3 
+ii. Message of the Head of Biomedical Services Department ................................................... 4 
+iii. Note of blood transfusion division manager ........................................................................ 5 
+iv. Essential Abbreviations ........................................................................................................ 6 
+v. Contents ................................................................................................................................. 8 
+vi. Background of blood transfusion services in Rwanda ....................................................... 10 
+vii. Mission, vision and main services .................................................................................... 12 
+viii. Blood Transfusion Division achievements ...................................................................... 13 
+1. BLOOD COLLECTION, PROCESSING AND DISTRIBUTION KEY INDICATORS . 14 
+1.1. Blood collection sites in 2024 ....................................................................................... 15 
+1.2. Blood collection sites in 2024 vs 2023 ............................................................................. 15 
+1.4. Blood collection sessions in 2024 .................................................................................... 17 
+1.5. Planned vs collected blood units in 2024 ......................................................................... 17 
+1.6. Collected blood units in 2024 vs 2023 ............................................................................. 18 
+1.7. Blood donations by gender in 2024 .................................................................................. 18 
+1.8. Blood donors by gender in 2024 ...................................................................................... 19 
+1.9. Donations / units by blood groups in 2024 ...................................................................... 19 
+1.10. Blood donors by blood groups in 2024 .......................................................................... 20 
+1.11. Blood donors by age in 2024 .......................................................................................... 21 
+1.12. Regularity: Blood units donated by NBD (New blood donors), IBD (Irregular Blood 
+Donors) and RBD (Regular blood donors) in 2024 ................................................................ 21 
+1.13. Blood units donated by RPBDs (Repeat Blood Donors) in 2024 .................................. 22 
+1.14. Collected blood units using apheresis technology ......................................................... 22 
+2. LABORATORY KEY INDICATORS ............................................................................... 23 
+2.1. Blood testing and processing overview ............................................................................ 24 
+2.2. Confirmed HIV reactive in 2024 ...................................................................................... 24 
+2.3. Confirmed HBV reactive in 2024 .................................................................................... 24 
+2.4. Confirmed HCV reactive in 2024 .................................................................................... 25 
+2.5. Confirmed SYPHILIS reactive in 2024 ........................................................................... 25 
+2.6. Summary of TTIs among New, Irregular and Regular blood donors .............................. 24 
+2.7. Reduction in Total TTIs ................................................................................................... 26 
+3. HOSPITAL SATISFACTION IN 2024 .............................................................................. 27 
+3.1. Hospital satisfaction (Demand Vs Supply) ...................................................................... 28 
+3.2. Blood delivery by BTD through RCBTs vs Zipline in 2024 ........................................... 28 
+3.3. Conclusion for blood collection, processing and distribution ......... Error! Bookmark not 
+defined. 
+4. HEMOVIGILANCE KEY INDICATORS ......................................................................... 30 
+4.1. Rwanda Blood Transfusion Division (BTD) Hemovigilance System ............................. 31
+
+--- Page 10 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 9 of 50 
+ 
+4.2. Key hemovigilance indicators in 2024 ............................................................................. 31 
+4.3. Top 10 indications for blood transfusion in 2024 (all RCBTs) ........................................ 34 
+4.4. Adverse rections ............................................................................................................... 37 
+4.5. Distributed key equipment ............................................................................................... 38 
+5. BLOOD DONOR MOBILIZATION ACTIVITIES PERFORMED BY RCBTs .............. 40 
+5.1. Meeting with local leaders and BDR.s (Blood Donor Representatives) .......................... 41 
+5.2. Mass mobilization and media campaigns ......................................................................... 41 
+5.3. IC25 (Intwari Club 25) ..................................................................................................... 42 
+General conclusion .................................................................................................................. 45 
+Future plans and projects ......................................................................................................... 47 
+Partners and sponsors .............................................................................................................. 48 
+Contributors ............................................................................................................................. 49 
+Address and contacts ............................................................................................................... 50
+
+--- Page 11 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 10 of 50 
+ 
+vi. Background of blood transfusion services in Rwanda 
+ 
+ 
+The Blood Transfusion Division (BTD) of the Rwanda Biomedical Centre (RBC) 
+is the national authority responsible for ensuring the availability, safety, and quality 
+healthcare system, BTD plays a critical role in providing life-saving blood 
+transfusion services to hospitals and healthcare facilities nationwide. 
+ 
+BTD comprises of six (units): Five (5) RCBTs (Regional Centres for Blood 
+Transfusion) and one (1) BBU (Bio-Banking Unit). RCBTs are located in all 
+administrative provinces and the CoK (City of Kigali) and are responsible for 
+mobilization and recruitment of blood donors as well as blood collection, 
+processing and distribution. BBU is new in (BTD) and is responsible for CTB 
+(Cornea Tissue Banking). BBU is located at RMRTH (Rwanda Military Referral 
+and Teaching Hospital) in the CoK. 
+ 
+Mandate 
+ 
+The mission of Blood Transfusion Division (BTD) is 
+and adequate blood and blood products and cornea tissues to all patients in 
+ Its vision is  by conforming to 
+the IBBS (International Blood Banking Standards). This can only be achieved 
+through the continual professional development and conforming to relevant 
+technological advances in blood transfusion services.   
+ 
+Blood collection and supply 
+ 
+Rwanda follows a 100% voluntary blood donation policy, recognizing that 
+voluntary, unpaid blood donors provide the safest source of blood. Blood is 
+collected from fixed donation sites, mobile blood drives, and community outreach 
+programs organized in collaboration with institutions, local authorities, and partner 
+organizations. The collected blood is tested and processed into components such as 
+red blood cells, plasma, and platelets to meet diverse patient needs. 
+ 
+Hemovigilance and quality management 
+ 
+To enhance patient safety, BTD has established a hemovigilance system to monitor 
+and track adverse reactions related to blood transfusions. Additionally, a quality 
+management system (QMS) is in place to ensure that all operational procedures 
+adhere to best practices and international standards.
+
+--- Page 12 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 11 of 50 
+ 
+ 
+Key Partnerships and community engagement 
+ 
+BTD works closely with hospitals, health centers, donor representatives, local 
+leaders, and international partners to strengthen blood transfusion services. Public 
+awareness campaigns and educational initiatives encourage regular blood donation 
+and foster a culture of sustained voluntary donation. 
+ 
+Future goals 
+ 
+BTD aims to achieve 100% hospital satisfaction by 2025, ensuring that all healthcare 
+facilities receive timely and adequate blood supplies. Other priorities include 
+expanding donation programs, improving blood distribution logistics, and 
+leveraging digital health solutions for better tracking and efficiency. 
+ 
+Through its continued efforts, the Rwanda Blood Transfusion Division remains a 
+pillar of healthcare resilience, saving lives and contributing to universal health 
+coverage (UHC) in Rwanda.
+
+--- Page 13 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 12 of 50 
+ 
+vii. Mission, vision and main services 
+ 
+ 
+Mission 
+ 
+cts to all 
+ 
+ 
+Vision 
+ 
+ 
+ 
+ 
+Main Services 
+ 
+BTD has two major services: Blood donor mobilization and laboratory.  
+ 
+Blood donor mobilization undergoes the following activities: 
+ 
+ Blood donor education, recruitment and retention 
+ Blood collection preparations  
+ Blood donor selection and counseling  
+ Blood collections 
+ Notifications 
+ Quality management system 
+ 
+Laboratory undergoes the following activities: 
+ 
+ Serology 
+ Immuno  Hematology  
+ Component production 
+ Distribution 
+ Hemovigilance  
+ 
+Biobanking Unit  
+ 
+ Harvesting cornea  
+ Cornea processing Component production 
+ Cornea distribution
+
+--- Page 14 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 13 of 50 
+ 
+viii. Blood Transfusion Division achievement 
+ 
+ 
+Blood collection buses 
+ 
+In 2022, BTD was honored to receive two professional Blood Collection Buses (BCBs) 
+donated by the IMBUTO FOUNDATION through the Ministry of Defense (MoD). 
+These buses have enabled BTD to conduct blood collection camps in urban areas more 
+efficiently. Previously, BTD used to set up tents and mobile logistics for these camps, 
+which posed challenges during adverse weather conditions, impacting the expected blood 
+yield and hospital satisfaction. With the new BCBs, operations continue seamlessly 
+despite challenging weather conditions. Both BCBs are fully operational since 
+September 2022. 
+ 
+Intwari Club 25 
+ 
+The Intwari Club 25 (IC25), designates a group of donors who commit to donating whole 
+blood 25 times every 7 years or donating by apheresis 25 times every 2 years. The 
+primary goal is to attain national blood self-sufficiency and enhance awareness of blood 
+donation, particularly among young people. IC25 was inaugurated on February 14, 2022, 
+at the Kigali Convention Center, Rwanda. 
+ 
+Cornea Tissue Bank 
+ 
+The Bio-Banking Unit (BBU) is a recent addition to Rwanda Biomedical Centre (RBC) 
+under the Blood Transfusion Division (BTD), focusing on Cornea Tissue Banking 
+(CTB). Established in 2023, BBU operates within Rwanda Military Hospital (RMH). 
+ 
+Blood delivery using drones 
+ 
+In a bid to improve accessibility to blood and other essential medicines and to shorten 
+the turnaround time between ordering and receiving blood, Rwanda has embraced using 
+UAS (Unmanned Aerial Systems) / Drones as an effective and efficient mode of 
+delivering blood to patients. Rwanda leads the world in the use of the Drone technology 
+in delivering blood and other medicines in case of emergency. BTD is delivering blood 
+using Drones since 2016. 
+ 
+AfSBT level 3 accreditation 
+ 
+Since 2017, RBC / Blood Transfusion Division has an AfSBT Level 3 accreditation. In 
+recent colorful event took place on February 14, 2023, this accreditation has been 
+renewed at the 3rd time. BTD will maintain this accreditation for a period of 4 years 
+(2023  2026).
+
+--- Page 15 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 14 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. BLOOD COLLECTION, PROCESSING AND 
+DISTRIBUTION KEY INDICATORS
+
+--- Page 16 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 15 of 50 
+ 
+1.1. Blood collection sites in 2024 
+RCBTs RURAL SCHOOLS TOTAL 
+KIGALI 155 19 174 
+BUTARE 58 42 100 
+KARONGI 52 64 116 
+RUHENGERI 55 48 103 
+RWAMAGANA 70 43 113 
+TOTAL 390 216 606 
+Source: RBC/BTD data indicators assessment 2024 
+This table provides data on the number of blood collection sites categorized by rural areas and 
+schools across different Regional Centers for Blood Transfusion (RCBTs). 
+In 2024, RCBTs collected blood from 606 sites. Rural sites: 390 (64.4%). School-based sites: 
+216 (35.6%). Blood collection is more focused on rural areas, likely due to community 
+mobilization efforts. Kigali Had the Highest Number of Collection Sites (174 Total). 
+Rural sites (155) are the largest among all RCBTs. Only 19 school sites, which is the lowest 
+among all RCBTs. Karongi had the highest number of school-based sites (64). Ruhengeri also 
+had a balanced rural (55) and school (48) distribution. Karongi Had the Second-Highest Total 
+Collection Sites (113) after Kigali. 
+Besides those blood collection sites, there are other occasional sites: RDF barracks, RNP 
+communities, embassies, churches, public places blood collection sites. BTD has also fixed 
+site at every RCBTs. 
+1.2. Blood collection sites in 2024 vs 2023 
+2024 2023 
+RCBTs RURAL SCHOOLS TOTAL RURAL SCHOOLS TOTAL 
+KIGALI 155 19 174 129 28 157 
+BUTARE 58 42 100 56 41 97 
+KARONGI 52 64 116 62 63 125 
+RUHENGERI 55 48 103 62 44 106 
+RWAMAGANA 70 43 113 57 47 104 
+TOTAL 390 216 606 366 223 589 
+Source: RBC/BTD data indicators assessment 2024 
+This table highlights the changes in blood collection sites across rural areas and schools in 
+different Regional Centers for Blood Transfusion (RCBTs) from 2023 to 2024. 
+Each year, Regional Centers for Blood Transfusion (RCBTs) evaluate and opt to shutter 
+specific blood collection sites based on previous 3  performance. Simultaneously, they 
+establish new sites to meet the escalating demand from Transfusing Health Facilities (THFs).  
+In 2024, 17 new sites were added. Consequently, the total number of blood collection sites in 
+2024 increased to 606 from 589 sites that the BTD had in 2023. 
+Overall increase in blood collection sites: 2024: 606 total sites. 2023: 589 total sites. Increase 
+of 17 sites (+2.9%).
+
+--- Page 17 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 16 of 50 
+ 
+Growth in rural collection sites (+6.6%): 2024: 390 rural sites vs. 2023: 366 rural sites. 
+Increase of 24 sites. Shows a stronger focus on reaching rural donors. 
+School-based blood collection sites saw a slight decline of 3.1%: Dropping from 223 in 2023 
+to 216 in 2024. This reduction of 7 sites is mainly due to secondary schools now enrolling more 
+students under the age of 18, the minimum age required to donate blood in Rwanda and also 
+ shift from school-based sites to rural (community) based sites as they are more 
+reliable. 
+Significant increase in K : 2024: 174 sites vs. 2023: 157 sites (+17 sites, 
++10.8%). The increase mainly came from rural sites (+26), while school sites dropped (-9). 
+Rwamagana also showed strong growth: 2024: 113 sites vs. 2023: 104 sites (+9 sites, 
++8.7%). Both rural (+13 sites) and schools (-4 sites) changed. Rural collection expansion seems 
+to be a key strategy. 
+Karongi and Ruhengeri showed a decline: Karongi: 116 sites (2024) vs. 125 sites (2023) (-
+9 sites, -7.2%). Ruhengeri: 103 sites (2024) vs. 106 sites (2023) (-3 sites, -2.8%). Rural blood 
+collection declined due to weather-related transport issues and damaged unpaved roads  make 
+access difficult.  
+1.3. Blood donor representatives in 2024 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+BDR.s (Blood Donor Representatives) are small committees between 3 and 5 people 
+representing blood donors on a blood collection site. They play a big role in identifying 
+potential blood donors and keep encouraging them to continue donating blood. They closely 
+work with BTD staff in preparing blood collections Drives on the dates fixed by both parties. 
+BDR.s follow-upon blood donors after donating blood while BTD staff went back. BDR.s 
+work as a bridge between BTD and blood donors. A solid network of volunteers and donor 
+advocates supporting blood donation efforts. This bar chart presents the number of Blood 
+Donor Representatives in 2024 across five Regional Centers for Blood Transfusion (RCBTs). 
+ 
+Kigali has the highest number of 631 representatives followed by Ruhengeri with 338, whereas 
+Butare, Karongi and Rwamagana have fewer representatives with 270, 263 and 305 
+respectively. Total Blood Donor Representatives: 1,807. 
+631 
+270 
+263 
+338 
+305 
+1,807 
+K I G A L I B U T A R E K A R O N G I R U H E N G E R I R W A M A G A N A T O T A L
+Blood Donor Representatives in 2024
+
+--- Page 18 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 17 of 50 
+ 
+ 1.4. Blood collection sessions in 2024 
+RCBTs PLANNED PERFORMED % 
+KIGALI 504 549 108.93 
+BUTARE 363 366 100.83 
+KARONGI 401 345 86.03 
+RUHENGERI 414 383 92.51 
+RWAMAGANA 367 350 95.37 
+TOTAL 2,049 1,993 97.27 
+Source: RBC/BTD data indicators assessment 2024 
+In the 2024 Annual Blood Collection Plan (ABCP), Regional Centers for Blood Transfusion 
+(RCBTs) scheduled a total of 2,049 blood collection sessions and successfully conducted 1,993 
+by year-end, resulting in an overall performance rate of 97.27%. The accompanying table 
+outlines the planned versus actual sessions across various RCBTs, showing that Kigali 
+exceeded its target with a performance rate of 108.93%, while all other centers performed close 
+to their targets, each surpassing 90%. 
+1.5. Planned vs collected blood units in 2024 
+RCBTs PLANNED UNITS COLLECTED UNITS % 
+KIGALI 26,593 27,759 104.38 
+BUTARE 14,709 14,150 96.20 
+KARONGI 15,159 13,492 89.00 
+RUHENGERI 17,695 14,751 83.36 
+RWAMAGANA 14,992 14,231 94.92 
+TOTAL 89,148 84,383 94.65 
+ Source: RBC/BTD data indicators assessment 2024 
+This table presents a comparative overview of the 2024 blood collection targets versus actual 
+units collected across Regional Centers for Blood Transfusion (RCBTs). Under the ABCP 
+2024, the centers aimed to collect 89,148 blood units, and by year-end, they had collected 
+84,383 units, resulting in a performance rate of 94.65%. 
+Overall collection rate fell short of the target:  Total planned units: 89,148. Total collected 
+units: 84,383. Overall achievement rate: 94.65% 
+Kigali exceeded its target: Planned: 26,593. Collected: 27,759 (104.38% achieved). 
+Ruhengeri had the lowest collection rate:  Planned: 17,695. Collected: 14,751 (83.36% 
+achieved). 
+Karongi achieved its goal at below 90%:  Planned: 15,159. Collected: 13,492 (89.00% 
+achieved). 
+Butare and Rwamagana were slightly below target:  Butare: 96.20% of the target met. 
+Rwamagana: 94.92% of the target met. Both regions were close to their planned collection 
+numbers but still achieved with good rate of above 90%.
+
+--- Page 19 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 18 of 50 
+ 
+1.6. Collected blood units in 2024 vs 2023 
+RCBTs 2024 2023 Collected blood units Collected blood units 
+KIGALI 27,759 28,947 
+BUTARE 14,150 14,372 
+KARONGI 13,492 14,282 
+RUHENGERI 14,751 15,864 
+RWAMAGANA 14,231 13,347 
+TOTAL 84,383 86,812 
+Source: RBC/BTD data indicators assessment 2024 
+This table presents a comparison of blood units collected in 2024 vs. 2023 across different 
+Regional Centers for Blood Transfusion (RCBTs). 
+Overall blood collection declined in 2024:  Total collected in 2024: 84,383 units. Total 
+collected in 2023: 86,812 units. Decline: -2,429 units (-2.8%) 
+Kigali had the largest decline:  2024: 27,759 units | 2023: 28,947 units. Dropped by 1,188 
+units (-4.1%). 
+Butare, Karongi, and Ruhengeri also declined: Butare: -222 units (-1.5%). Karongi: -790 
+units (-5.5%). Ruhengeri: -1,113 units (-7%). Most significant Dr.op: Ruhengeri (-7%). 
+Rwamagana was the only region with an increase: 2024: 14,231 units | 2023: 13,347 units. 
+Increase: +884 units (+6.6%). 
+In general, BTD focus to the rational use of blood and blood products in Transfusing Health 
+facilities. The decrease in collected blood units was not a problem. The hospital satisfaction 
+increased from 99.47% to 99.72%. 
+1.7. Blood donations by gender in 2024 
+RCBTs MALE FEMALE TOTAL Number % Number % 
+KIGALI 19,355 69.73 8,404 30.27 27,759 
+BUTARE 10,050 71.02 4,100 28.98 14,150 
+KARONGI 8,878 65.80 4,614 34.20 13,492 
+RUHENGERI 11,336 76.85 3,415 23.15 14,751 
+RWAMAGANA 9,775 68.69 4,456 31.31 14,231 
+TOTAL 59,394 70.39 24,989 29.61 84,383 
+Source: RBC/BTD data indicators assessment 2024 
+This table highlights blood donations by gender across different Regional Centers for Blood 
+Transfusion (RCBTs) in 2024. Blood units donated by male were more than twice as many as 
+units donated by females: Total male donors: 59,394 (70.39%). Total female donors: 24,989 
+(29.61%). 
+ Highest male participation: Ruhengeri (76.85%): Ruhengeri had the highest male donor 
+rate (76.85%) and the lowest female participation (23.15%). 
+ Highest female participation: Karongi (34.20%): Karongi had the highest female donor 
+percentage (34.20%). 
+ Kigali had the most female donors in absolute numbers:  Kigali: 8,404 female donors 
+(30.27%).
+
+--- Page 20 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 19 of 50 
+ 
+The low number of donations by females is caused by the criteria excluding them to regularly 
+donate blood; including but not limited to menstruation, pregnancy, breast-feeding and so on. 
+1.8. Blood donors by gender in 2024 
+RCBTs MALE FEMALE TOTAL Number % Number %2 
+KIGALI 13,323 22.70 5,507 9.38 18,830 
+BUTARE 7,425 12.65 2,672 4.55 10,097 
+KARONGI 6,782 11.56 3,078 5.24 9,860 
+RUHENGERI 7,753 13.21 2,576 4.39 10,329 
+RWAMAGANA 7,039 11.99 2,533 4.32 9,572 
+TOTAL 42,322 72.11 16,366 27.89 58,688 
+Source: RBC/BTD data indicators assessment 2024 
+This table presents the distribution of blood donors by gender across different Regional Centers 
+for Blood Transfusion (RCBTs) in 2024. It shows that 84,383 blood units the BTD collected 
+in 2024 were donated by 58,688 blood donors. 
+Blood donors by gender: 72.11% of total donors were male (42,322 out of 58,688). 27.89% 
+of total donors were female (16,366 out of 58,688). 
+Kigali had the highest number of donors: Total donors: 18,830 (largest contributor). Male 
+donors: 13,323 (22.7%), Female donors: 5,507 (9.38%). 
+Karongi had the highest female participation: Female donors: 3,078 (5.24%), the highest 
+percentage among all RCBTs. Male donors: 6,782 (11.56%), making Karongi one of the more 
+balanced regions. 
+Ruhengeri & Rwamagana had the lowest female participation: Ruhengeri: 2,576 female 
+donors (4.39%): Rwamagana: 2,533 female donors (4.32%), the lowest among all regions. 
+1.9. Donations / units by blood groups in 2024 
+RCBTs O+ O- A+ A- B+ B- AB+ AB- TOTAL 
+KIGALI 13,122 1,279 6,457 411 4,953 277 1,183  77 27,759 
+BUTARE 6,743 652 3,286 214 2,595 125 496 39 14,150 
+KARONGI 6,580 459 3,137 156 2,463 145 530 22 13,492 
+RUHENGERI 6,881 542 3,748 158 2,637 143 624 18 14,751 
+RWAMAGANA 6,965 499 3,379 185 2,489 141 560 13 14,231 
+TOTAL 40,291 3,431 20,007 1,124 15,137 831 3,393 169 84,383 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+This table presents blood donations by blood group in 2024 across the five Regional Centers 
+for Blood Transfusion (RCBTs). 
+O+ is the most donated blood type (47.75% of total donations):  40,291 O+ units were 
+collected, making it the dominant blood type. O+ is widely needed, making this a positive 
+indicator for blood supply. 
+Low supply of rare blood types (AB- & B-):  AB- had the lowest collection: Only 169 units 
+(0.2%). B- donations were also low: 831 units (0.98%). These rare types are crucial for specific 
+medical emergencies, highlighting the need for targeted donor recruitment.
+
+--- Page 21 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 20 of 50 
+ 
+ 
+Kigali leads in total donations:  27,759 total units, with the highest numbers in O+ (13,122), 
+A+ (6,457), and B+ (4,953). Being the capital, Kigali has more donors and demand, but rare 
+blood types remain low. 
+Ruhengeri has the highest A+ donations:  3,748 A+ units were collected, the highest among 
+all RCBTs. This indicates a strong presence of A+ donors in the region. 
+Rwamagana has a high rate of o+ donations. 6,965 o+ units were collected, second only to 
+Kigali. 
+1.10. Blood donors by blood groups in 2024  
+TYPE 
+Kigali Butare Karongi Ruhengeri Rwamagana TOT 
+Number % Number % Number % Number % Number % Number % 
+O+ 8,473 14.44 4,459 7.60 4,367 7.44 4,648 7.92 4,617 7.87 26,564 45.26  
+O- 840 1.43 368 0.63 338 0.58 348 0.59 352 0.60 2,246 3.83 
+A+ 5,084 8.66 3,533 6.02 2,961 5.05 3,112 5.30 2,380 4.06 17,070 29.09  
+A- 264 0.45 95 0.16 102 0.17 105 0.18 127 0.22 693 1.18 
+B+ 3,161 5.39 1,322 2.25 1,624 2.77 1,637 2.79 1,623 2.77 9,367 15.96  
+B- 156 0.27 57 0.10 96 0.16 82 0.14 92 0.16 483 0.82 
+AB+ 779 1.33 237 0.40 356 0.61 376 0.64 363 0.62 2,111 3.60 
+AB- 73 0.12 26 0.04 16 0.03 21 0.04 18 0.03 154 0.26 
+TOTAL 18,830 32.08 10,097 17.20 9,860 16.80 10,329 17.60 9,572 16.31 58,688 100.00 
+Source: RBC/BTD data indicators assessment 2024 
+This table presents the distribution of blood donors by blood type across different Regional 
+Centers for Blood Transfusion (RCBTs) in 2024. 
+O+ is the Most Common Blood Group: 45.26% of all donors (26,564 out of 58,688) had O+ 
+blood type. This aligns with global trends where O+ is the most prevalent blood group. 
+Kigali contributed the highest number of O+ donors (8,473 or 14.44%).  
+O- is the most important universal donor but least common:  Only 3.83% of total donors 
+(2,246 donors) had O- blood, which is crucial for emergency transfusions. Kigali had the 
+highest O- contributions (840 donors or 1.43%). This highlights the need for targeted donor 
+recruitment efforts for O-. 
+A+ is the second most common blood type: 29.09% of total donors (17,070 donors) had A+ 
+blood. Kigali had the largest share (5,084 donors or 8.66%). 
+Rare blood groups (A-, B-, AB-) have very few donors: A- (1.18%), B- (0.82%), and AB- 
+(0.26%) are the least common blood types. AB- is extremely rare, with only 154 total donors 
+(0.26%) in all regions. 
+Blood type distribution across RCBTs is relatively:  Each region follows the general trend, 
+with O+ being the highest and AB- being the lowest. Kigali consistently contributed the most 
+donors across all blood groups.
+
+--- Page 22 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 21 of 50 
+ 
+1.11. Blood donors by age in 2024 
+AGE 18-25 26-35 36-45 46-60 61+Above 
+TOTAL 
+RCBTs Number % Number % Number % Number % Number % 
+KIGALI 7,258 38.5 3,068 16.3 5,377 28.6 3,091 16.4 36 0.2 18,830 
+BUTARE 4,599 45.5 2,121 21.0 1,858 18.4 1,491 14.8 28 0.3 10,097 
+KARONGI 5,810 58.9 1,736 17.6 1,352 13.7 928 9.4 34 0.3 9,860 
+RUHENGERI 5,192 50.3 2,185 21.2 1,933 18.7 1,001 9.7 18 0.2 10,329 
+RWAMAGANA 4,221 44.1 2,132 22.3 2,182 22.8 1,015 10.6 22 0.2 9,572 
+TOTAL 27,080 46.1 11,242 19.2 12,702 21.6 7,526 12.8 138 0.2 58,688 
+Source: RBC/BTD data indicators assessment 2024 
+This table presents the age distribution of blood donors across different Regional Centers for 
+Blood Transfusion (RCBTs) in 2024. 
+Young donors (18-25 years) contribute the most: 46.1% of total donors (27,080 out of 
+58,688) are aged 18-25. This shows strong participation from youth, particularly in Karongi 
+(58.9%) and Ruhengeri (50.3%). University and high school mobilization efforts have been 
+effective in attracting young donors. 
+Middle-age groups (26-45 years) show moderate contribution : Blood donors aged 26 35 
+accounted for 19.2% (11,242 individuals), while those aged 36 45 represented 21.6% (12,702 
+individuals). Although these age groups continue to play an important role in blood donation, 
+their contribution remains lower than that of younger donors. 
+Older age groups (46+ years) donate the least:  Donors aged 46 60 made up 12.8% of the 
+total (7,526 individuals), while those aged 61 and above contributed just 0.2% (138 
+individuals), reflecting minimal participation likely influenced by health limitations and 
+eligibility requirements. 
+RCBTs differences in donor age distribution: 
+ Karongi has the highest youth participation (58.9% of donors are 18-25). 
+ Rwamagana has a balanced age distribution, with 22.8% of donors in the 36-45 age group, 
+the highest among all RCBTs. 
+ Butare has a high youth contribution (45.5%) but fewer donors aged 46+ (only 15.1%). 
+1.12. Regularity: Blood units donated by NBD (New blood donors), IBD 
+(Irregular Blood Donors) and RBD (Regular blood donors) in 2024 
+RCBTs 
+New Blood 
+Donor 
+Irregular Blood 
+Donor 
+Regular Blood 
+Donor TOTAL 
+Number % Number % Number % 
+KIGALI 6,156 22.18 8,114 29.23 13,489 48.59 27,759 
+BUTARE 4,479 31.65 2,981 21.07 6,690 47.28 14,150 
+KARONGI 4,248 31.49 4,803 35.60 4,441 32.92 13,492 
+RUHENGERI 4,772 32.35 4,175 28.30 5,804 39.35 14,751 
+RWAMAGANA 5,131 36.06 3,698 25.99 5,402 37.96 14,231 
+TOTAL 24,786 29.37 23,771 28.17 35,826 42.46 84,383 
+Source: RBC/BTD data indicators assessment 2024
+
+--- Page 23 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 22 of 50 
+ 
+Who are the New, Irregular and Regular blood donors? 
+ 
+ NBD (New blood donor) is a person who donates blood for the first time. 
+ RBD (Regular blood donor) is a person who has donated at least three (3) times with at 
+ 
+ IBD (Irregular blood donor) is a person who donated blood more than twice but fails to 
+donate at least once in 12 months. 
+ 
+1.13. Blood units donated by RPBDs (Repeat Blood Donors) in 2024 
+RCBTs Irregular Donations Regular Donations Repeat Donations % per Total donations 
+KIGALI 8,114 13,489 21,603 77.82 
+BUTARE 2,981 6,690 9,671 68.35 
+KARONGI 4,803 4,441 9,244 68.51 
+RUHENGERI 4,175 5,804 9,979 67.65 
+RWAMAGANA 3,698 5,402 9,100 63.94 
+TOTAL 23,771 35,826 59,597 70.63 
+ 
+Source: RBC/BTD data indicators assessment 2024 
+*Who is a RPBD (Repeat Blood Donor) : RPBD (Repeat blood donor) is individual who 
+regularly donates blood multiple times over a period of time. Both (IBD) Irregular Blood 
+Donor plus (RBD) Regular Blood Donor are RPBDs.  
+1.14. Collected blood units using apheresis technology 
+ 
+An apheresis machine is a state-of-the-art modern technology where the machine receives 
+blood drawn from a donor's body and separates it into various components: plasma, platelets, 
+white and red blood cells. It then isolates and collects one of these components while others 
+are returned to the body. This technology has improved hospital satisfaction especially 
+concerning platelets, mostly used for treating cancer patients.  
+ 
+Apheresis vs WBDs (Whole Blood Donations) in 2024 
+TOTAL Whole blood 
+donations 
+Apheresis 
+donations 
+% of Apheresis 
+donations 
+84,383 83,783 600 0.71% 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+In 2024, there were 84,383 total blood donations. 83,783 were whole blood and 600 were 
+apheresis donations, which accounted for just 0.71% of the total. The table highlights the 
+dominance of whole blood over the specialized apheresis method.
+
+--- Page 24 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 23 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. LABORATORY KEY INDICATORS
+
+--- Page 25 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 24 of 50 
+ 
+2.1. Blood testing and processing overview    
+ 
+In 2024, 84,383 blood units were tested using Alinity machines (for HIV 1&2, HCV, HBV, 
+Syphilis), QWALYS 3 (for ABO, Rh, and extended blood grouping), and the T-ACE Machines 
+for blood component  separation. Key screening parameters included blood group 
+compatibility and early detection of infectious markers. A total of 126,837 Blood Component 
+Units (BCUs), including RBCs, plasma, platelets, and cryoprecipitate, were separated and 
+issued to Transfusing Health Facilities (THFs). The prevalence rate of Transfusion-
+Transmissible Infections (TTIs) stood at 0.86%, underscoring the safety and reliability of the 
+blood supply system. 
+2.2. Summary of TTIs among New, Irregular and Regular blood donors 
+TTIs HIV HBV HCV SYPHILIS TOTAL 
+New Blood Donors 26 180 145 170 521 
+Irregular Blood Donors 10 11 21 76 118 
+Regular Blood Donors 2 2 6 35 45 
+TOTAL TTIs 38 193 172 281 684 
+TOTAL DONATIONS 84,383 84,383 84,383 84,383 84,383 
+% PER TTIs 5.56% 28.22% 25.15% 41.08% 100% 
+% PER TOTAL DONATIONS 0.05% 0.23% 0.20% 0.33% 0.81 
+Source: RBC/BTD data indicators assessment 2024 
+2.3. Confirmed HIV reactive in 2024 
+TTIs HIV 
+RCBTs New Donor Irregular Donor Regular Donor TOT Donors 
+KIGALI 7 4 1 12 
+BUTARE 4 1 0 5 
+KARONGI 7 1 0 8 
+RUHENGERI 3 1 1 5 
+RWAMAGANA 5 3 0 8 
+TOTAL 26 10 2 38 
+Source: RBC/BTD data indicators assessment 2024 
+In 2024, a total of 38 blood donors were confirmed HIV reactive across five RCBTs. Kigali 
+had the highest number of cases (12), followed by Karongi and Rwamagana (8 each), while 
+Butare and Ruhengeri each reported 5 cases. New donors represented the largest share with 26 
+confirmed cases, irregular donors accounted for 10, and regular donors only 2. This pattern 
+mirrors the trend seen with other TTIs, indicating that new and irregular donors are more likely 
+to test positive, underscoring the importance of targeted education and pre-donation screening 
+for these groups. 
+2.4. Confirmed HBV reactive in 2024 
+TTIs HBV 
+RCBTs New Donor Irregular Donor Regular Donor TOT Donors 
+KIGALI 52 2 1 55 
+BUTARE 25 0 0 25 
+KARONGI 39 2 0 41 
+RUHENGERI 32 3 0 35 
+RWAMAGANA 32 4 1 37 
+TOTAL 180 11 2 193 
+Source: RBC/BTD data indicators assessment 2024,
+
+--- Page 26 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 25 of 50 
+ 
+In 2024, a total of 193 blood donors across five RCBTs were confirmed reactive for HBV 
+(Hepatitis B Virus). Kigali recorded the highest number with 55 HBV-reactive donors, 
+followed by Karongi (41), Rwamagana (37), Ruhengeri (35), and Butare (25). Among these, 
+new donors accounted for the majority of cases (180), while irregular donors contributed 11 
+cases and regular donors only 2. This distribution suggests that new donors are the most 
+affected group, highlighting a potential need for enhanced screening and awareness efforts 
+among first-time blood donors. 
+2.4. Confirmed HCV reactive in 2024 
+TTIs HCV 
+RCBTs New Donor Irregular Donor Regular Donor TOT Donors 
+KIGALI 28 6 3 37 
+BUTARE 28 5 1 34 
+KARONGI 30 2 1 33 
+RUHENGERI 28 4 0 32 
+RWAMAGANA 31 4 1 36 
+TOTAL 145 21 6 172 
+Source: RBC/BTD data indicators assessment 2024 
+In 2024, a total of 172 blood donors were confirmed reactive for HCV (Hepatitis C Virus) 
+across five RCBTs. Kigali led with 37 cases, closely followed by Rwamagana (36), Butare 
+(34), Karongi (33), and Ruhengeri (32). New donors made up the majority with 145 confirmed 
+cases, while irregular donors contributed 21 and regular donors 6. Compared to HIV and HBV, 
+HCV showed a relatively higher prevalence among all donor categories, including regular 
+donors. This suggests a broader distribution of HCV risk and reinforces the need for consistent 
+screening protocols across all donor types, not just first-time participants. 
+2.5. Confirmed SYPHILIS reactive in 2024 
+TTIs SYPHILIS 
+RCBTs New Donor Irregular Donor Regular Donor TOT Donors 
+KIGALI 32 18 19 69 
+BUTARE 30 19 2 51 
+KARONGI 46 15 5 66 
+RUHENGERI 29 13 4 46 
+RWAMAGANA 33 11 5 49 
+TOTAL 170 76 35 281 
+Source: RBC/BTD data indicators assessment 2024 
+In 2024, syphilis was confirmed in 281 blood donors across five RCBTs, marking the highest 
+total among all transfusion-transmissible infections reported. Karongi recorded 66 cases, 
+Kigali 69, Butare 51, Rwamagana 49, and Ruhengeri 46. Unlike other infections, syphilis 
+showed a more balanced distribution across donor categories: 170 cases were from new donors, 
+76 from irregular donors and 35 from regular donors. It suggests possible gaps in follow-up 
+screening or post-donation health monitoring, emphasizing the need for strengthened 
+surveillance and education efforts across all donor groups.
+
+--- Page 27 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 26 of 50 
+ 
+2.7. Reduction in Total TTIs 
+TTIs 2024 vs 2023 
+YEARs Total Donations Total TTIs % of TTIs per Total Donations 
+2024 84,383 684 0.81 
+2023 86,812 748 0.86 
+Source: RBC/BTD data indicators assessment 2023 and 2024 
+The 2024 data indicate a positive trend in blood safety, with a reduction in both total 
+Transfusion-Transmissible Infections (TTIs) and infection rates. TTIs dropped from 748 cases 
+in 2023 to 684 in 2024, a decrease of 64 cases, suggesting enhanced donor screening and 
+increased awareness of blood borne infections. Additionally, the TTI rate improved from 
+0.86% to 0.81%, a slight yet meaningful decline that reflects improved donor selection and a 
+safer blood supply. 
+Conclusion about TTIs 
+The data suggests that screening efforts are effective, as TTIs are relatively low. However, new 
+donor education and stricter pre-donation screening could help to reduce TTIs further. Regular 
+blood donors are the safest group for blood donation, reinforcing the importance of donor 
+retention programs.
+
+--- Page 28 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 27 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. HOSPITAL SATISFACTION IN 2024
+
+--- Page 29 ---
+Annual Report 2024 Blood Transfusion Division
+Page 28 of 50
+3.1. Hospital satisfaction (Demand Vs Supply)
+Hospital satisfaction by RCBTs and ZIPLINE
+Category Demand Supply Satisfaction (%)
+RCBTs 55,852 55,852 100.00%
+Zipline 71,346 70,985 99.49%
+Overall Satisfaction 127,198 126,837 99.72%
+Source: RBC/BTD data indicators assessment 2024
+This table evaluates hospital satisfaction with blood supply services provided by RCBTs 
+(Regional Blood Centers) and ZIPLINE (a medical Drone delivery service), based on demand 
+and supply data.
+RCBTs achieved 100% satisfaction: All 55,852 blood unit requests were fully met by 
+RCBTs, indicating efficient supply management.
+ZIPLINE satisfaction rate (99.49%) shows a slight shortfall: Out of 71,346 blood units 
+requested from Zipline, 70,985 were successfully supplied, resulting in a shortfall of 361 units. 
+This slight gap is mainly due to logistical challenges, such as stock limitations that occasionally 
+require waiting for certain blood components from the BTD Kigali central lab.
+Overall hospital satisfaction is very high (99.72%): 126,837 blood units were supplied out 
+of 127,198 requested, showing a well-functioning blood distribution system. The shortfall is 
+only 361 units (0.28%), which is minimal.
+Conclusion
+RCBTs are meeting hospital demand perfectly (100%), while ZIPLINE is also highly 
+efficient (99.49%) but with a minor shortfall.
+The overall blood supply system is highly reliable (99.72%), ensuring hospitals receive 
+nearly all the blood they need.
+Improvement in ZIPLINE logistics or stock levels could help to close the small supply gap.
+3.2. Blood delivery by BTD through RCBTs vs Zipline in 2024
+Source: RBC/BTD data indicators assessment 2024
+ZIPLINE is now handling a larger share (56%) of blood deliveries compared to BTD (44%), 
+showing that Drone-based delivery is playing a significant role in blood supply. This suggests 
+an increasing reliance on Drone technology for blood supply, likely due to speed, efficiency, 
+and accessibility in remote areas.
+44%
+56%
+Blood delivered by BTD
+Blood delivered by
+ZIPLINE
+
+--- Page 30 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 29 of 50 
+ 
+3.3. Conclusion  
+ 
+Blood Collection: The Annual Blood Collection Plan (ABCP) targeted 2,049 sessions, and 
+1,993 were executed, achieving an impressive performance rate of 97.27%. A total of 84,383 
+blood donations were collected, largely composed of whole blood (83,783), with a minor share 
+from apheresis (600 donations or 0.71%). Youth donors remained the dominant contributors, 
+though older age groups continued to participate. The prevalence rate for Transfusion-
+Transmissible Infections (TTIs) stood at 0.81%, signaling robust safety protocols. Syphilis 
+(0.33%), HBV (0.23%), and HCV (0.20%) were the most frequently detected infections, 
+predominantly among new donors, highlighting the importance of first-time donor screening. 
+Laboratory processing: Advanced equipment such as the Architect i2000SR, QWALYS 3, 
+and T-ACE Machine, enabled effective screening for infectious markers (HIV 1&2, HCV, 
+HBV, Syphilis), blood grouping, and confirmatory tests. From these donations, 126,837 Blood 
+Component Units (BCUs) were successfully separated, including red blood cells, plasma, 
+platelets, and cryoprecipitate. This ensured optimized resource use and better matching for 
+transfusing health facilities (THFs). 
+Hospital distribution & satisfaction: With an impressive hospital satisfaction rate of 99.76%, 
+blood distribution through RCBTs and ZIPLINE proved highly efficient, strengthening 
+confidence in the reliability and responsiveness of the national delivery system. 
+Overall impact:  Together, these figures reflect a high-performing and tightly coordinated 
+blood system. From planning and donor mobilization to testing and hospital delivery, Rwanda's 
+national blood service maintained exceptional safety, responsiveness, and operational 
+consistency throughout 2024.
+
+--- Page 31 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 30 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. HEMOVIGILANCE KEY INDICATORS
+
+--- Page 32 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 31 of 50 
+ 
+4.1. Rwanda Blood Transfusion Division (BTD) Hemovigilance System 
+ 
+The Blood Transfusion Division (BTD) under the Rwanda Biomedical Center (RBC) is 
+responsible for ensuring the safety, quality, and efficiency of blood and blood products across 
+the country. A key component of this responsibility is the hemovigilance system, which is 
+designed to monitor, detect, report, and prevent adverse reactions and events related to the 
+entire blood transfusion chain from donation to transfusion. The hemovigilance system in 
+Rwanda aims to enhance transfusion safety through a structured approach that includes but not 
+limited to: 
+ 
+Hospital supervisions:  Regular visits to healthcare facilities to assess blood transfusion 
+practices, ensure compliance with national guidelines, and provide recommendations for 
+improvement. 
+Mentorships: On-the-job support and coaching for healthcare professionals involved in blood 
+transfusion services to enhance their knowledge and technical skills. 
+Trainings: Capacity-building programs for healthcare workers, laboratory staff, and blood 
+bank personnel to improve their understanding of hemovigilance principles, adverse reaction 
+reporting, and best practices in transfusion medicine. 
+Adverse events monitoring and reporting:  A systematic process for identifying, 
+documenting, and analyzing transfusion-related reactions to enhance patient safety and 
+improve blood product handling. 
+Data collection and analysis:  Continuous evaluation of transfusion-related incidents to 
+identify trends, assess risks, and implement corrective measures. 
+By implementing these activities, the BTD hemovigilance system plays a crucial role in 
+minimizing transfusion-related risks, ensuring patient safety, and strengthening the overall 
+quality of blood transfusion services in Rwanda. Through collaboration with healthcare 
+institutions and professionals, the system promotes continuous improvement and aligns with 
+international best practices in transfusion medicine. 
+4.2. Key hemovigilance indicators in 2024  
+ 
+4.2.1. Planned vs performed supervisions  
+RCBTs Planned Performed  Performance rate (%) 
+KIGALI 213 213 100.00 
+BUTARE 47 29 61.70 
+KARONGI 20 10 50.00 
+RUHENGERI 37 6 16.22 
+RWAMAGANA 0 0 0.00 
+TOTAL 317 258 81.39 
+Source: RBC/BTD data indicators assessment 2024 
+The table presents data on planned vs. performed supervisions across different Regional 
+Centers for Blood Transfusion (RCBTs) in Rwanda, as assessed in 2024.
+
+--- Page 33 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 32 of 50 
+ 
+Overall performance 
+A total of 317 supervisions were planned, out of which 258 were successfully conducted. The 
+overall performance rate is 81.39%, indicating a relatively good achievement but with room 
+for improvement. 
+Performance by RCBTs 
+ Kigali: Achieved 100% of its planned supervisions (213/213), demonstrating full 
+compliance. 
+ Butare: Completed 29 out of 47 planned supervisions, leading to a 61.70% performance 
+rate. 
+ Karongi: Had a 50.00% performance rate, completing 10 out of 20 planned supervisions. 
+ Ruhengeri: With a performance rate of just 16.22%, only 6 out of 37 planned supervisions 
+were completed, mainly due to limited vehicle availability, which constrained staff 
+mobility and disrupted execution. 
+ Rwamagana: Had no scheduled supervisions, primarily due to a shortage of vehicles for 
+staff transportation, which hindered operational planning. 
+ 
+In 2024, Kigali demonstrated full compliance by completing all 213 planned supervisions 
+(100%), while Butare achieved a 61.70% performance rate with 29 out of 47 sessions. Karongi 
+reached 50.00% (10/20), and Ruhengeri faced significant logistical constraints, completing 
+only 6 out of 37 (16.22%). Rwamagana did not schedule any supervisions due to limited staff 
+transport, which hindered planning altogether. 
+ 
+4.2.2. Planned vs performed mentorship sessions  
+RCBTs Planned Performed  Performance rate (%) 
+KIGALI 213 213 100.00 
+BUTARE 33 24 72.73 
+KARONGI 12 12 100.00 
+RUHENGERI 39 18 46.15 
+RWAMAGANA 0 0 0.00 
+TOTAL 297 267 89.90 
+Source: RBC/BTD data indicators assessment 2024 
+Overall Performance 
+A total of 297 activities were planned, out of which 267 were successfully performed. The 
+overall performance rate is 89.90%, indicating a high level of achievement. 
+Performance by RCBTs 
+ Kigali: Achieved 100% of its planned activities (213/213). 
+ Karongi: Also achieved 100% performance (12/12). 
+ Butare: Completed 24 out of 33 planned activities, resulting in a 72.73% performance rate. 
+ Ruhengeri: Had the lowest performance among centers that had planned activities, 
+completing 18 out of 39, giving a 46.15% performance rate.
+
+--- Page 34 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 33 of 50 
+ 
+ Rwamagana: Mentorship activities were not scheduled, mainly because of limited staff 
+transportation due to a shortage of vehicles disrupted operational planning. 
+RCBT performance ranged from full compliance in Kigali and Karongi to lower execution in 
+Ruhengeri (46.15%), while Rwamagana had no scheduled activities due to transport 
+constraints. 
+4.2.3. Planned vs performed data collection sessions 
+RCBTs Planned Performed Performance rate (%) 
+KIGALI 213 213 100.00 
+BUTARE 42 24 57.14 
+KARONGI 40 34 85.00 
+RUHENGERI 43 39 90.70 
+RWAMAGANA 40 33 82.50 
+TOTAL 378 343 90.74 
+Source: RBC/BTD data indicators assessment 2024 
+The table presents data on planned vs. performed data collection sessions across different 
+Regional Centers for Blood Transfusion (RCBTs) in Rwanda, as assessed in 2024. 
+Overall performance: A total of 378 data collection sessions were planned, out of which 343 
+were successfully conducted. The overall performance rate is 90.74%, indicating a strong 
+achievement. 
+Performance by RCBTs 
+ Kigali: Successfully completed all 213 planned data collection sessions, reaching a 100% 
+execution rate. 
+ Butare: Performed 24 out of 42 sessions, with a 57.14% performance rate, indicating 
+challenges in execution. 
+ Karongi: Completed 34 out of 40 sessions, achieving an 85.00% performance rate. 
+ Ruhengeri: Performed 39 out of 43 sessions, achieving a 90.70% performance rate, which 
+is very close to full execution. 
+ Rwamagana: Conducted 33 out of 40 planned sessions, with an 82.50% performance rate. 
+In 2024, RCBT data collection rates varied widely: Kigali completed all 213 sessions 
+(100%), Ruhengeri reached 90.70% (39/43), Karongi 85.00% (34/40), Rwamagana 82.50% 
+(33/40), while Butare lagged at 57.14% (24/42) due to vehicle shortages. 
+4.2.4. Planned vs performed training sessions 
+RCBTs Planned Performed Performance rate (%) 
+KIGALI 9 9 100.00 
+BUTARE 0 0 0.00 
+KARONGI 12 12 100.00 
+RUHENGERI 33 16 48.48 
+RWAMAGANA 2 0 0.00 
+TOTAL 56 37 66.07 
+ Source: RBC/BTD data indicators assessment 2024
+
+--- Page 35 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 34 of 50 
+ 
+Overall performance 
+Out of 56 planned hospital-based training sessions, 37 were successfully delivered, resulting 
+in a performance rate of 66.07%. This reflects a moderate implementation level across targeted 
+health facilities. 
+Performance by RCBTs 
+ Kigali: Achieved 100% of its planned training sessions (9/9). 
+ Karongi: Also achieved 100% performance (12/12). 
+ Ruhengeri: Conducted 16 out of 33 planned sessions, with a 48.48% performance rate, 
+showing that more than half of the planned trainings were not completed. 
+ Butare and Rwamagana:  Had 0% performance, meaning no training sessions were 
+conducted, despite Rwamagana having 2 planned sessions. This was caused by the lack of 
+vehicles to transport staff. 
+Training session performance across RCBTs was uneven  Kigali and Karongi delivered fully 
+(100%), Ruhengeri completed less than half (48.48%), while Butare and Rwamagana 
+conducted none, largely due to transport constraints. 
+4.3. The most indications for blood transfusion in 2024 (all RCBTs)   
+ 
+RCBT KIGALI 
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs 
+1 Anemia 6,519 410 54 0 6,983 41.61 
+2 PPH 2,155 394 399 232 3,180 18.95 
+3 Bleeding 1,213 174 82 53 1,522 9.07 
+4 Cancers 1,115 235 54 18 1,422 8.47 
+5 Sepsis 764 462 151 42 1,419 8.46 
+6 Thrombocytopenia 198 925 68 9 1,200 7.15 
+7 Abortion 413 10 8 6 437 2.60 
+8 Ectopic pregnancy 193 25 19 0 237 1.41 
+9 Peritonitis 144 0 0 0 144 0.86 
+10 Uterine rupture 55 20 10 0 85 0.51 
+TOTAL 12,769 2,655 845 360 16,629 100.00 
+Source: RBC/BTD data indicators assessment 2024       
+RCBT BUTARE   
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs 
+1 Anemia 3,429 262 29 3 3,723 30.38 
+2 PPH 2,036 578 607 403 3,624 29.57 
+3 Bleeding 928 229 148 76 1,381 11.27 
+4 Thrombocytopenia 75 991 22 0 1,088 8.88 
+5 Sepsis 536 273 37 1 847 6.91 
+6 Malaria 479 164 4 2 649 5.3 
+7 Abortion 321 60 35 19 435 3.55 
+8 Pancytopenia 87 187 29 5 308 2.51 
+9 Placenta Praevia 94 38 30 38 200 1.63 
+TOTAL 7,985 2,782 941 547 12,255 100 
+Source: RBC/BTD data indicators assessment 2024
+
+--- Page 36 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 35 of 50 
+ 
+ 
+RCBT KARONGI  
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs   
+1 PPH 1,255 319 359 202 2,135 35.98 
+2 Anemia 1,832 140 20 5 1,997 33.65 
+3 Thrombocytopenia 79 308 7 3 397 6.69 
+4 Malaria 296 87 4 0 387 6.52 
+5 Sepsis 244 92 4 0 340 5.73 
+6 Abortion 314 4 8 0 326 5.49 
+7 Ectopic pregnancy 55 23 25 16 119 2.01 
+8 Cancer 59 50 4 3 116 1.95 
+9 Chronic Disease 94 21 2 0 117 1.97 
+TOTAL 4,228 1,044 433 229 5,934 4,228 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+RCBT RUHENGERI  
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs 
+1 Anemia 1,583 147 31 7 1,768 31.61 
+2 Cancers 619 673 35 4 1,331 23.79 
+3 PPH 501 171 160 82 914 16.34 
+4 Bleeding 647 109 84 19 859 15.36 
+5 Thrombocytopenia 3 257 0 0 260 4.65 
+6 Abortion 168 32 24 0 224 4 
+7 Malaria 100 36 8 0 144 2.57 
+8 Sepsis 49 45 0 0 94 1.68 
+TOTAL 3,670 1,470 342 112 5,594 100 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+RCBT RWAMAGANA   
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs 
+1 Anemia 6,610 568 142 22 7,342 43.21 
+2 PPH 2,481 874 869 289 4,513 26.56 
+3 Bleeding 1,384 333 256 78 2,051 12.07 
+4 Thrombocytopenia 78 794 26 0 898 5.28 
+5 Uterine rupture 289 126 137 55 607 3.57 
+6 Ectopic pregnancy 267 75 72 36 450 2.65 
+7 Abortion 395 18 16 4 433 2.55 
+8 Sepsis 180 120 18 3 321 1.89 
+9 Cancer 135 190 38 14 377 2.22 
+TOTAL 11,819 3,098 1,574 501 16,992 100.00 
+Source: RBC/BTD data indicators assessment 2024
+
+--- Page 37 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 36 of 50 
+ 
+ALL RCBTs (BTD Level) 
+# INDICATIONS BLOOD COMPONENTS TOTAL % RBCs PLTs FFPs CRYOs 
+1 Anemia 19,973 1,527 276 37 21,813 39.66 
+2 PPH 8,428 2,336 2,394 1,208 14,366 26.12 
+3 Bleeding 3,851 813 536 222 5,422 9.86 
+4 Thrombocytopenia 433 3,275 123 12 3,843 6.99 
+5 Sepsis 1,773 992 210 46 3,021 5.49 
+6 Cancers 1,769 918 97 30 2,814 5.12 
+7 Abortion 1,611 124 91 29 1,855 3.37 
+8 Malaria 875 287 16 2 1,180 2.15 
+9 Uterine rupture 344 146 147 55 692 1.26 
+TOTAL 39,057 10,418 3,890 1,641 55,006 100.00 
+Source: RBC/BTD data indicators assessment 2024 
+BLOOD COMPONENT USAGE BY INDICATION 
+This table details blood component usage across different medical conditions, broken down by 
+red blood cells (RBCs), platelets (PLTs), fresh frozen plasma (FFPs), and cryoprecipitate 
+(CRYOs). It also calculates the total number of blood components used and the percentage of 
+total usage contributed by each condition. Here's a breakdown of key insights: 
+Anemia (39.03%): Anemia accounts for the highest demand in blood component usage, 
+representing nearly 39% of all transfusions. This condition primarily requires red blood cells 
+(RBCs), with 19,650 units used. Other components like platelets, fresh frozen plasma (FFP), 
+and cryoprecipitate (CRYO) are rarely needed, underscoring that the main treatment focus is 
+restoring red blood cell levels. It also shows a diagnostic gap in blood transfusion indications 
+as it does not show the cause of anemia. 
+Postpartum Hemorrhage (PPH) (26.12%): PPH is the second-largest contributor to blood 
+component usage, accounting for 26.12% of the total blood products used. There is a significant 
+demand for RBCs (8,428 units), platelets (2,336 units), FFPs (2,394 units), and CRYOs (1,208 
+units), reflecting the need to manage acute blood loss and coagulopathy typically seen in this 
+condition. The relatively higher usage of platelets and CRYOs suggests coagulation 
+abnormalities like disseminated intravascular coagulation (DIC). 
+Bleeding (9.86%): Bleeding conditions, including trauma or surgical bleeding, make up 9.86% 
+of total blood product usage. High usage of RBCs (3,851 units) and platelets (813 units) implies 
+a significant need for both blood replacement and platelet support. 
+Thrombocytopenia (6.99%): Thrombocytopenia, often associated with diseases like 
+leukemia, or bone marrow disorders, accounts for 6.99% of blood usage. The high demand for 
+platelets (3,275 units) underscores the need to manage severe platelet deficiencies, with 
+minimal use of RBCs and plasma. 
+Sepsis (5.49%): Sepsis contributes 5.49% to total blood usage, with substantial platelet use 
+(992 units) and FFP requirements (210 units), indicating coagulation dysfunction such as DIC 
+or multi-organ failure.  
+Cancers (5.12%): Cancer patients, likely undergoing chemotherapy, account for 5.12% of the 
+total blood components used. There is a notable need for platelets (918 units) due to 
+chemotherapy-induced thrombocytopenia, with moderate RBC usage (1,769 units) for anemia 
+caused by bone marrow suppression.
+
+--- Page 38 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 37 of 50 
+ 
+ 
+Abortion (3.37%): Abortion cases, typically those involving significant hemorrhage, 
+contribute 3.37% to blood component usage. The primary need is for RBCs (1,611 units), 
+indicating cases of heavy bleeding or complications during miscarriage or pregnancy 
+termination. 
+Malaria (2.15%): Malaria accounts for 2.15% of blood product usage, primarily involving red 
+blood cells (875 units) and, to a lesser extent, platelets (287 units). In severe cases, malaria can 
+destroy red blood cells, leading to anemia, and reduce platelet levels, causing 
+thrombocytopenia. These complications increase the need for blood transfusions. 
+Uterine Rupture (1.26%): Uterine rupture contributes 1.26% of total blood component use, 
+primarily requiring RBCs (344 units) and some platelets (146 units). The usage reflects blood 
+loss in obstetric emergencies, where significant transfusion support is needed. 
+Decompensated Anemia (0.63%): Decompensated anemia accounts for 0.63% of all blood 
+product usage, mainly involving red blood cells (323 units). It rarely requires platelets or 
+making blood transfusion necessary. 
+Anemia and PPH are the largest contributors to blood component usage, accounting for 65.15% 
+of the total demand, with a predominant need for RBCs and varying requirements for platelets 
+and plasma. Conditions like sepsis, cancers, and thrombocytopenia have high platelet 
+requirements, highlighting the importance of platelets in treating coagulopathies, especially in 
+critical care. Other conditions such as abortion and malaria contribute smaller percentages, but 
+they also require significant RBCs to manage hemorrhage or anemia. Decompensated anemia 
+and uterine rupture make up the smallest contributions, but they still indicate cases of severe 
+blood loss requiring transfusion support.  
+4.4. Adverse transfusion rections 
+15 adverse transfusion reactions reported across all hospitals: 
+ 6 reactions were from KIGALI 
+ 9 reactions came from KARONGI  
+ Adverse reactions were predominantly by allergic reactions with no serious immunologic 
+or non-immunologic reactions reported. 
+ The clinical symptoms observed included fever, chills, and dyspnea, but no major 
+complications such as hypotension or jaundice were recorded. 
+ The highest number of reactions and symptoms were reported in KARONGI, with 9 
+adverse reactions in total. 
+ This shows an under reporting of adverse transfusion reactions in hospitals which requires 
+more efforts to encourage hospital physicians to report adverse transfusion reactions.
+
+--- Page 39 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 38 of 50 
+ 
+4.5. Distribution of key equipment 
+ 
+RCBT KIGALI 
+Equipment Hospitals Requested Served Hospitals % Requested Quantity Delivered Quantity % 
+1 Refrigerators 14 14 100.00 14 14 100.00 
+2 Blood warmers 17 16 94.12 68 64 94.12 
+TOTAL 31 30 96.77 82 78.00 95.12 
+Source: RBC/BTD data indicators assessment 2024 
+ Served hospitals with new refrigerators:  KFH, CHUK, RMRTH, Kabgayi, Kacyiru, 
+Masaka DH, Kibagabaga, Muhima, Nyamata and Byumba hospital. 
+ Served hospitals with used refrigerators :  Rutongo, Rutare, Rilima, Remera-Rukoma 
+and Ruli. 
+ Blood warmers: 16 hospitals that requested blood warmers, each one received 4 except 
+Nyarugenge was not served because they were in rehabilitation. 
+RCBT BUTARE 
+Equipment Hospitals Served % Requested Delivered % Requested Hospitals Quantity Quantity 
+1 Refrigerators 12 7 58.33 12 7 58.33 
+2 Blood warmers 12 12 100.00 52 52 100.00 
+TOTAL 24 19 79.17 64 59 92.19 
+Source: RBC/BTD data indicators assessment 2024 
+ Served hospitals with refrigerators:  CHUB, Kabutare, Kaduha, Nyanza, Gatagara, 
+Kigeme and Gakoma. 
+ Un-served hospital (s): Kibirizi, Gikonko, Gitwe, Munini and Ruhango. 
+Blood Warmers: CHUB, Kabutare, Kaduha, Nyanza, Gatagara, Kigeme, Gakoma, Kibirizi, 
+Gikonko, Gitwe, Munini and Ruhango. 
+ 
+NB: Private transfusing clinics would like to get at least 1 blood warmer each and CHUB 
+should be considered differently basing on data analysis. 
+ 
+RCBT KARONGI 
+Equipment Hospitals Requested Served Hospitals % Requested Quantity Delivered Quantity % 
+1 Refrigerators 5 4 80.00 5 4 80.00 
+2 Blood warmers 9 9 100.00 36 36 100.00 
+TOTAL 14 13 92.86 41 40.00 97.56 
+Source: RBC/BTD data indicators assessment 2024 
+ Served hospitals with refrigerators: Kibuye, Bushenge, Murunda and Mibilizi. 
+ Un-served hospital (s): Mugonero Hospital. 
+ Blood Warmers: All 9 hospitals that requested blood warmers, each one received 4.
+
+--- Page 40 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 39 of 50 
+ 
+RCBT RUHENGERI 
+Equipment 
+Hospitals 
+Requested 
+Served 
+Hospitals 
+% 
+Requested 
+Quantity 
+Delivered 
+Quantity 
+% 
+1 Refrigerators 9 7 77.78 9 7 77.78 
+2 Blood warmers 11 11 100.00 44 44 100.00 
+TOTAL 20 18 90.00 53 51.00 96.23 
+Source: RBC/BTD data indicators assessment 2024 
+ Served hospitals with refrigerators: Ruhengeri L2TH, Butaro L2TH, Shyira DH, 
+Nemba DH, Gatonde DH, Byumba L2TH and Gisenyi L2TH. 
+ Un-served hospital (s): Kinihira PH, Bigogwe MHC. 
+ Blood Warmers: All 11 HFs that requested blood warmers, each one received 4. 
+ 
+RCBT RWAMAGANA 
+Equipments Hospitals Requested Served Hospitals % Requested Quantity Delivered Quantity % 
+1 Refrigerators 10 5 50.00 10 5 50.00 
+2 Blood warmers 10 10 100.00 40 40 100.00 
+TOTAL 20 15 75.00 50 45.00 90.00 
+Source: RBC/BTD data indicators assessment 2024 
+ Served hospitals with refrigerators:  Rwamagana L2TH, Kibungo L2TH, Kiziguro DH, 
+Kirehe DH and Nyagatare DH. 
+ Un-served hospital (s) with refrigerators: Gatunda DH, Rwinkwavu DH, Ngarama DH, 
+Gahini DH and Mahama HC. 
+ Blood Warmers: All 10 public HFs that requested blood warmers, each one received 4. 
+ The private HF - Ste Therese Clinic - has not received any blood warmer.
+
+--- Page 41 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 40 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. BLOOD DONOR MOBILIZATION ACTIVITIES 
+PERFORMED BY RCBTs
+
+--- Page 42 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 41 of 50 
+ 
+5.1. Meeting with local leaders and BDRs (Blood Donor Representatives) 
+ 
+Meeting with local leaders  
+RCBTs Sessions Estimated participants 
+KIGALI 0 0 
+BUTARE 0 0 
+KARONGI 4 114 
+RUHENGERI 10 317 
+RWAMAGANA 7 90 
+TOTAL 21 521 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+Meeting with BDRs (Blood Donor Representatives)  
+RCBTs Sessions Est. Number 
+KIGALI 2 630 
+BUTARE 1 300 
+KARONGI 0 0 
+RUHENGERI 0 0 
+RWAMAGANA 0 0 
+TOTAL 1 300 
+Source: RBC/BTD data indicators assessment 2024 
+5.2. Mass mobilization and media campaigns  
+ 
+Mass mobilization and blood collection campaigns  
+RCBTs Sessions Est. Units 
+KIGALI 0 0 
+BUTARE 21 1183 
+KARONGI 8 745 
+RUHENGERI 13 1090 
+RWAMAGANA 0 0 
+TOTAL 42 3018 
+Source: RBC/BTD data indicators assessment 2024 
+ 
+Number of radio talks and TV Shows  
+RCBTs Radio TV 
+KIGALI 5 3 
+BUTARE 2 0 
+KARONGI 2 0 
+RUHENGERI 4 0 
+RWAMAGANA 7 3 
+TOTAL 18 3 
+Source: RBC/BTD data indicators assessment 2024
+
+--- Page 43 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 42 of 50 
+ 
+5.3. IC25 (Intwari Club 25) 
+Number of institutions visited for mass mobilization of Intwari Club 25 
+# RCBT / Province Location 1 Location 2 
+1 RCBT Butare 
+(Southern Province) 
+25/9/2024: UR Huye 26/09/2024: RP Huye 
+College 
+2 RCBT Ruhengeri 
+(Northern Province) 
+02/10/2024: INES 
+Ruhengeri 
+09/10/2024: UR-CAVM 
+Busogo 
+3 RCBT Karongi 
+(Western Province) 
+11/10/2024: Kibogora 
+Polytechnic 
+16/10/2024: RP Karongi 
+college 
+4 RCBT Rwamagana 
+(Eastern Province) 
+04/10/24: UR Rukara 05/10/2024: UR Nyagatare 
+campus 
+5 RCBT Kigali 
+(City of Kigali) 
+23/10/2024: UR College of 
+science and Technology 
+15/11/2024: Kepler 
+University 
+Source: RBC/BTD data indicators assessment 2024 
+The table outlines the institutions visited for mass mobilization of Intwari Club 25, a likely 
+initiative to encourage voluntary blood donation among students and young people. The 
+campaign was conducted across five Regional Centers for Blood Transfusion (RCBTs) in 
+different provinces and Kigali City. 
+ Total institutions visited: 10 universities and colleges. 
+ Coverage across provinces: Each RCBT conducted mobilization at two institutions in its 
+region. 
+ Targeted Institutions: Primarily universities and polytechnic colleges, which suggests an 
+effort to engage young, healthy donors to sustain blood donation efforts. 
+ Period: Events were held from September to November 2024, ensuring continuous 
+outreach rather than a one-time effort. 
+Significance of the Mobilization 
+ Sustaining Blood Supply: University students are a key target for regular, voluntary, and 
+non-remunerated blood donation, which helps maintain a stable blood supply. 
+ Health Awareness: Encouraging youth to donate promotes broader health consciousness 
+and altruism. 
+ Long-term Impact:  Building a strong blood donor culture in universities ensures a 
+sustainable donor pool for future needs.
+
+--- Page 44 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 43 of 50 
+ 
+Number of enrolled members and blood units they donated  
+RCBTs Kigali Butare Karongi Ruhengeri Rwamagana TOTAL 
+MONTHS Number Units Number Units Number Units Number Units Number Units Number Units 
+JANUARY 8 20 3 3 3 3 12 12 2 2 28 40 
+FEBRUARY 12 25 5 5 1 1 16 16 5 5 39 52 
+MARCH 5 5 12 12 4 4 15 15 7 7 43 43 
+APRIL 17 17 2 2 3 3 5 5 10 10 37 37 
+MAY 6 6 6 6 3 3 7 7 9 9 31 31 
+JUNE 18 26 13 13 6 6 11 11 8 8 56 64 
+JULY 10 13 3 3 3 3 4 4 7 7 27 30 
+AUGUST 7 10 3 3 2 2 3 3 6 6 21 24 
+SEPTEMBER 13 20 3 3 6 6 4 4 7 7 33 40 
+OCTOBER 5 5 6 6 40 40 6 6 6 6 63 63 
+NOVEMBER 12 12 9 9 2 2 10 10 9 9 42 42 
+DECEMBER 20 20 5 5 0 0 14 14 10 10 49 49 
+TOTAL 133 179 70 70 73 73 107 107 86 86 469 515 
+Source: RBC/BTD data indicators assessment 2024 
+Rate of donations by IC25 members in 2024 
+RCBTs Donated by Non- IC25 members Rate  (%) Donated by  IC25 members Rate (%) All donations 
+KIGALI 27,580 32.68 179 0.21 27,759 
+BUTARE 14,080 16.69 70 0.08 14,150 
+KARONGI 13,419 15.90 73 0.09 13,492 
+RUHENGERI 14,644 17.35 107 0.13 14,751 
+RWAMAGANA 14,145 16.76 86 0.10 14,231 
+TOTAL 83,868 99.39 515 0.61 84,383 
+Source: RBC/BTD data indicators assessment 2024 
+The data reveals the distribution of blood donations between Intwari Club 25 (IC25) members 
+and non-IC25 members across different Regional Centers for Blood Transfusion (RCBTs). 
+Non-IC25 Members Contributed More Than IC25 Members. Non-IC25 members accounted 
+for 99.39% of total donations (83,868 out of 84,383). IC25 members contributed only 0.61% 
+(515 donations). This suggests that while IC25 plays a role, the majority of blood donations 
+come from the general population.  
+RCBT Kigali Had the Highest Contribution. 27,580 donations (32.68%) were from non-IC25 
+members. IC25 members contributed 179 donations (0.21%). Other RCBTs Had a Similar 
+Distribution. 
+ Butare: 16.69% of donations came from non-IC25 members, only 0.08% from IC25. 
+ Karongi: 15.90% from non-IC25 members, 0.09% from IC25. 
+ Ruhengeri: 17.35% from non-IC25 members, 0.13% from IC25. 
+ Rwamagana: 16.76% from non-IC25 members, 0.10% from IC25.
+
+--- Page 45 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 44 of 50 
+ 
+ 
+ Here 
+are recommendations to increase IC25 Contributions: 
+ Enhance university engagement by conducting more awareness campaigns and events to 
+encourage students to donate. 
+ Improve IC25 member retention  by offering recognition programs and incentives for 
+repeat donors. 
+ Expand outreach beyond schools  by targeting young professionals and working youth 
+who might be willing to join IC25. 
+ Leverage social media & influencers by using digital platforms to promote the impact of 
+youth blood donation.
+
+--- Page 46 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 45 of 50 
+ 
+General conclusion 
+ 
+The 2024 Annual Report of the Blood Transfusion Division highlights significant progress and 
+challenges in blood collection, processing, distribution, and safety, as well as innovations in 
+delivery and donor mobilization efforts. Below are the key takeaways: 
+Blood collection, processing, and distribution  Key indicators 
+A total of 84,383 blood donations were collected in 2024, with 99.39% coming from non-IC25 
+members and only 0.61% from IC25 members. Performance of all RCBTs (planned units: 
+89,148 vs collected units: 84,383) stands at 94.65%. Blood processing followed strict quality 
+and safety protocols, ensuring compliance with national and international standards. Blood 
+component demand from hospitals remained high, requiring efficient distribution and 
+inventory management to prevent shortages.  
+Laboratory  Key indicators 
+Blood safety screenings were conducted for all donations, ensuring a 100% compliance rate in 
+testing for transfusion-transmissible infections (HIV, Hepatitis B & C, Syphilis). Quality 
+control measures were enhanced, leading to improved efficiency in component separation and 
+storage conditions. The introduction of advanced testing techniques further strengthened the 
+reliability of blood and blood component safety. 
+Hospital satisfaction  Demand vs. Supply 
+The demand for blood components remained high, particularly for emergency cases (maternal 
+health, pediatric patients, trauma cases, and chronic diseases such as cancer). Hospital 
+satisfaction (demand: 127,198 units vs supply: 126,837 units) stands at 99.72%. This 
+demonstrates efficient and continuous coordination between hospitals and blood banks 
+improved timely access to required blood products. 
+Delivery of blood using ZIPLINE drones 
+The use of Zipline Drones significantly reduced delivery time, especially in remote and hard-
+to-reach areas. Emergency deliveries were completed within minutes rather than hours, 
+enhancing response time for critical cases. The Drone delivery system ensured consistent blood 
+supply to rural hospitals, reducing wastage and improving access to life-saving transfusions. 
+Hemovigilance system  Monitoring & Safety 
+The hemovigilance system recorded and monitored adverse transfusion reactions, ensuring safe 
+and effective blood usage. Traceability of blood components was enhanced, improving patient 
+safety. Training programs were conducted for hospital staff to reinforce proper transfusion 
+practices and adverse reaction management. 
+Blood donor mobilization activities in 2024 
+Mass mobilization campaigns were conducted, targeting universities, workplaces, and 
+communities. The Intwari Club 25 program engaged young donors, though its contribution 
+remained low (0.61% of total donations), indicating a need for more engagement efforts.
+
+--- Page 47 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 46 of 50 
+ 
+Collaboration with corporate organizations, religious institutions, and NGOs led to an increase 
+in voluntary non-remunerated blood donations (VNRBD). 
+Final remarks 
+The 2024 Blood Transfusion Division report highlights strong progress in blood collection, 
+processing, and distribution, while also addressing challenges in demand vs. supply, donor 
+retention, and logistics. Innovations like ZIPLINE Drone delivery and enhanced hemovigilance 
+systems significantly improved efficiency and patient safety. Going forward, sustained donor 
+engagement, expanded community outreach, and technological advancements will be crucial 
+in ensuring a stable, safe, and sufficient blood supply for all.
+
+--- Page 48 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 47 of 50 
+ 
+ 
+ 
+ 
+ 
+Future plans and projects 
+ 
+100% hospital 
+satisfaction 
+ 
+While the hospital satisfaction rate stands 99,72% in 2024, BTD is 
+ 
+ 
+NAT (Nucleic 
+Acid Testing) 
+BTD is planning to introduce the NAT (Nucleic Acid Testing). It 
+is a molecular technology for screening blood donations aimed at 
+reducing the risk of TTIs (Transfusion Transmitted Infections) in 
+the recipients, thus providing an additional layer of blood safety. 
+NAT technology is highly sensitive and specific for viral nucleic 
+acids.  
+ 
+It is based on amplification of targeted regions of viral ribonucleic 
+acid or deoxyribonucleic acid (DNA) and detects them earlier than 
+the other screening methods thus, narrowing the window period of 
+HIV, HBV and hepatitis C virus (HCV) infections.  
+ 
+NAT also adds the benefit of resolving false reactive donations on 
+serological methods which is very important for donor notification 
+and counseling. This technology is planned to be implemented in 
+the Financial Year 2024  2025. 
+ 
+Plasma derived 
+medicinal 
+product 
+Blood plasma fractionation is a general proc ess of separating the 
+various components of plasma, a component of blood obtained 
+through blood fractionation; to save plasma that is usually 
+discarded.  
+ 
+RBC is planning to cooperate with advanced plasma fractionation 
+plants and start exporting its excess manufacturing of stable blood 
+products that are needed in managing various hematological 
+plasma for disease conditions.
+
+--- Page 49 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 48 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Partners and sponsors 
+ 
+Africa Society of Blood Transfusion 
+Belgian Red Cross 
+Global Fund 
+Imbuto Foundation 
+Indian Association in Rwanda 
+Local Leaders 
+National Youth Council 
+Religious congregations 
+Rwanda Defense Force 
+Rwanda National Police 
+Rwanda Red Cross 
+Schools, Universities and colleges 
+ZIPLINE Rwanda
+
+--- Page 50 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 49 of 50 
+ 
+ 
+ 
+ Contributors 
+ 
+Data compilation 1. TUYISHIMIRE Moise  
+2. NDICUNGUYE Fabrice  
+3. SANGWA Innocent  
+4. UFITINEMA Jean Paul  
+ 
+Data provision 5. Dr. GASHAIJA Christopher  
+6. Dr. MUHAWENIMANA Lea  
+7. Dr. MULINDWA Bruce  
+8. Dr. GASOMINARI Alexis  
+9. Dr. RUHINDA Eria 
+10. MUKAKARANGWA Christine  
+11. UMURAZA Laetitia  
+12. HAKORIMANA Nephtal  
+13. NTIBANYENDERA Jean Damascene  
+14. UWERA Lydie  
+15. RUKUNDO Jackline  
+16. UMUTESI Gisèle  
+17. UWIZEYE M. Florence 
+18. NDIZIHIWE Patrick 
+19. UMURAZA Laetitia 
+20. RUTAYISIRE Alphonse 
+21. TUMUSIFU Julienne 
+22. MUWANGUZI Moses 
+23. NDAGIJIMANA Jean de Dieu 
+24. KAYONDE Peter 
+25. HABIMANA Emmanuel  
+ 
+Elaboration 26. TUYISHIMIRE Moise  
+ 
+Editor (s)  27. Dr. MUKAGATARE Isabelle  
+28. Dr. MUYOMBO Thomas  
+29. Dr. GASHAIJA Christopher
+
+--- Page 51 ---
+Annual Report 2024 Blood Transfusion Division 
+ 
+Page 50 of 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Address and contacts 
+ 
+Ministry of Health  
+(MoH)
+ 
+Rwanda 
+City of Kigali 
+Kicukiro district  
+KN 3 Rd, Kigali 
+Website: moh.gov.rw 
+E-mail : info@moh.gov.rw 
+Toll Free: 114  
+ 
+Rwanda Biomedical Centre 
+(RBC) 
+Rwanda 
+City of Kigali 
+Gasabo district  
+KG 644 St, Kigali 
+Website: rbc.gov.rw 
+E-mail : info@rbc.gov.rw 
+Toll free: 114  
+ 
+Blood Transfusion Division 
+(BTD) 
+Rwanda 
+City of Kigali 
+Nyarugenge district  
+KN 3 Ave, Kigali 
+Website: rbc.gov.rw 
+E-mail : info@rbc.gov.rw 
+Toll free: 114

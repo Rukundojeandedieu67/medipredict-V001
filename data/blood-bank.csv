@@ -1,0 +1,401 @@
+Province,District,Facility_type,bloodtype,Total
+East,Bugesera ,District Hospital,A+ Used,130
+East,Bugesera ,District Hospital,A- Used,216
+East,Bugesera ,District Hospital,AB+ Used,14
+East,Bugesera ,District Hospital,AB- Used,25
+East,Bugesera ,District Hospital,B+ Used,275
+East,Bugesera ,District Hospital,B- Used,3
+East,Bugesera ,District Hospital,O+ Used,812
+East,Bugesera ,District Hospital,O- Used,62
+East,Bugesera ,Specialised Hospital,A+ Used,29
+East,Bugesera ,Specialised Hospital,A- Used,0
+East,Bugesera ,Specialised Hospital,AB+ Used,5
+East,Bugesera ,Specialised Hospital,AB- Used,0
+East,Bugesera ,Specialised Hospital,B+ Used,17
+East,Bugesera ,Specialised Hospital,B- Used,0
+East,Bugesera ,Specialised Hospital,O+ Used,78
+East,Bugesera ,Specialised Hospital,O- Used,1
+North,Burera ,District Hospital,A+ Used,580
+North,Burera ,District Hospital,A- Used,21
+North,Burera ,District Hospital,AB+ Used,26
+North,Burera ,District Hospital,AB- Used,0
+North,Burera ,District Hospital,B+ Used,375
+North,Burera ,District Hospital,B- Used,32
+North,Burera ,District Hospital,O+ Used,985
+North,Burera ,District Hospital,O- Used,57
+North,Gakenke ,District Hospital,A+ Used,98
+North,Gakenke ,District Hospital,A- Used,177
+North,Gakenke ,District Hospital,AB+ Used,54
+North,Gakenke ,District Hospital,AB- Used,13
+North,Gakenke ,District Hospital,B+ Used,118
+North,Gakenke ,District Hospital,B- Used,25
+North,Gakenke ,District Hospital,O+ Used,347
+North,Gakenke ,District Hospital,O- Used,7
+Kigali City,Gasabo ,District Hospital,A+ Used,153
+Kigali City,Gasabo ,District Hospital,A- Used,264
+Kigali City,Gasabo ,District Hospital,AB+ Used,16
+Kigali City,Gasabo ,District Hospital,AB- Used,61
+Kigali City,Gasabo ,District Hospital,B+ Used,279
+Kigali City,Gasabo ,District Hospital,B- Used,6
+Kigali City,Gasabo ,District Hospital,O+ Used,789
+Kigali City,Gasabo ,District Hospital,O- Used,80
+Kigali City,Gasabo ,Medicalized health Center,A+ Used,0
+Kigali City,Gasabo ,Medicalized health Center,A- Used,0
+Kigali City,Gasabo ,Medicalized health Center,AB+ Used,0
+Kigali City,Gasabo ,Medicalized health Center,AB- Used,0
+Kigali City,Gasabo ,Medicalized health Center,B+ Used,0
+Kigali City,Gasabo ,Medicalized health Center,B- Used,0
+Kigali City,Gasabo ,Medicalized health Center,O+ Used,0
+Kigali City,Gasabo ,Medicalized health Center,O- Used,0
+Kigali City,Gasabo ,Private Hospital,A+ Used,53
+Kigali City,Gasabo ,Private Hospital,A- Used,19
+Kigali City,Gasabo ,Private Hospital,AB+ Used,13
+Kigali City,Gasabo ,Private Hospital,AB- Used,0
+Kigali City,Gasabo ,Private Hospital,B+ Used,34
+Kigali City,Gasabo ,Private Hospital,B- Used,16
+Kigali City,Gasabo ,Private Hospital,O+ Used,132
+Kigali City,Gasabo ,Private Hospital,O- Used,2
+Kigali City,Gasabo ,Referral Hospital,A+ Used,0
+Kigali City,Gasabo ,Referral Hospital,A- Used,0
+Kigali City,Gasabo ,Referral Hospital,AB+ Used,0
+Kigali City,Gasabo ,Referral Hospital,AB- Used,0
+Kigali City,Gasabo ,Referral Hospital,B+ Used,0
+Kigali City,Gasabo ,Referral Hospital,B- Used,0
+Kigali City,Gasabo ,Referral Hospital,O+ Used,0
+Kigali City,Gasabo ,Referral Hospital,O- Used,0
+East,Gatsibo ,District Hospital,A+ Used,128
+East,Gatsibo ,District Hospital,A- Used,203
+East,Gatsibo ,District Hospital,AB+ Used,28
+East,Gatsibo ,District Hospital,AB- Used,61
+East,Gatsibo ,District Hospital,B+ Used,155
+East,Gatsibo ,District Hospital,B- Used,7
+East,Gatsibo ,District Hospital,O+ Used,573
+East,Gatsibo ,District Hospital,O- Used,88
+North,Gicumbi ,District Hospital,A+ Used,17
+North,Gicumbi ,District Hospital,A- Used,237
+North,Gicumbi ,District Hospital,AB+ Used,18
+North,Gicumbi ,District Hospital,AB- Used,17
+North,Gicumbi ,District Hospital,B+ Used,217
+North,Gicumbi ,District Hospital,B- Used,6
+North,Gicumbi ,District Hospital,O+ Used,352
+North,Gicumbi ,District Hospital,O- Used,353
+North,Gicumbi ,Medicalized health Center,A+ Used,23
+North,Gicumbi ,Medicalized health Center,A- Used,0
+North,Gicumbi ,Medicalized health Center,AB+ Used,4
+North,Gicumbi ,Medicalized health Center,AB- Used,0
+North,Gicumbi ,Medicalized health Center,B+ Used,17
+North,Gicumbi ,Medicalized health Center,B- Used,0
+North,Gicumbi ,Medicalized health Center,O+ Used,51
+North,Gicumbi ,Medicalized health Center,O- Used,0
+South,Gisagara ,District Hospital,A+ Used,90
+South,Gisagara ,District Hospital,A- Used,145
+South,Gisagara ,District Hospital,AB+ Used,26
+South,Gisagara ,District Hospital,AB- Used,18
+South,Gisagara ,District Hospital,B+ Used,141
+South,Gisagara ,District Hospital,B- Used,10
+South,Gisagara ,District Hospital,O+ Used,437
+South,Gisagara ,District Hospital,O- Used,25
+South,Gisagara ,Medicalized health Center,A+ Used,0
+South,Gisagara ,Medicalized health Center,A- Used,0
+South,Gisagara ,Medicalized health Center,AB+ Used,1
+South,Gisagara ,Medicalized health Center,AB- Used,0
+South,Gisagara ,Medicalized health Center,B+ Used,3
+South,Gisagara ,Medicalized health Center,B- Used,0
+South,Gisagara ,Medicalized health Center,O+ Used,32
+South,Gisagara ,Medicalized health Center,O- Used,0
+South,Huye ,District Hospital,A+ Used,98
+South,Huye ,District Hospital,A- Used,9
+South,Huye ,District Hospital,AB+ Used,12
+South,Huye ,District Hospital,AB- Used,2
+South,Huye ,District Hospital,B+ Used,131
+South,Huye ,District Hospital,B- Used,6
+South,Huye ,District Hospital,O+ Used,305
+South,Huye ,District Hospital,O- Used,41
+South,Huye ,Referral Hospital,A+ Used,522
+South,Huye ,Referral Hospital,A- Used,40
+South,Huye ,Referral Hospital,AB+ Used,50
+South,Huye ,Referral Hospital,AB- Used,3
+South,Huye ,Referral Hospital,B+ Used,392
+South,Huye ,Referral Hospital,B- Used,17
+South,Huye ,Referral Hospital,O+ Used,1084
+South,Huye ,Referral Hospital,O- Used,240
+South,Kamonyi ,District Hospital,A+ Used,7
+South,Kamonyi ,District Hospital,A- Used,80
+South,Kamonyi ,District Hospital,AB+ Used,1
+South,Kamonyi ,District Hospital,AB- Used,2
+South,Kamonyi ,District Hospital,B+ Used,45
+South,Kamonyi ,District Hospital,B- Used,7
+South,Kamonyi ,District Hospital,O+ Used,201
+South,Kamonyi ,District Hospital,O- Used,21
+West,Karongi ,District Hospital,A+ Used,4
+West,Karongi ,District Hospital,A- Used,65
+West,Karongi ,District Hospital,AB+ Used,0
+West,Karongi ,District Hospital,AB- Used,6
+West,Karongi ,District Hospital,B+ Used,59
+West,Karongi ,District Hospital,B- Used,2
+West,Karongi ,District Hospital,O+ Used,182
+West,Karongi ,District Hospital,O- Used,25
+West,Karongi ,Referral Hospital,A+ Used,28
+West,Karongi ,Referral Hospital,A- Used,111
+West,Karongi ,Referral Hospital,AB+ Used,8
+West,Karongi ,Referral Hospital,AB- Used,23
+West,Karongi ,Referral Hospital,B+ Used,96
+West,Karongi ,Referral Hospital,B- Used,2
+West,Karongi ,Referral Hospital,O+ Used,256
+West,Karongi ,Referral Hospital,O- Used,47
+East,Kayonza ,District Hospital,A+ Used,90
+East,Kayonza ,District Hospital,A- Used,194
+East,Kayonza ,District Hospital,AB+ Used,28
+East,Kayonza ,District Hospital,AB- Used,26
+East,Kayonza ,District Hospital,B+ Used,247
+East,Kayonza ,District Hospital,B- Used,8
+East,Kayonza ,District Hospital,O+ Used,660
+East,Kayonza ,District Hospital,O- Used,87
+Kigali City,Kicukiro ,District Hospital,A+ Used,368
+Kigali City,Kicukiro ,District Hospital,A- Used,8
+Kigali City,Kicukiro ,District Hospital,AB+ Used,71
+Kigali City,Kicukiro ,District Hospital,AB- Used,0
+Kigali City,Kicukiro ,District Hospital,B+ Used,220
+Kigali City,Kicukiro ,District Hospital,B- Used,18
+Kigali City,Kicukiro ,District Hospital,O+ Used,675
+Kigali City,Kicukiro ,District Hospital,O- Used,77
+Kigali City,Kicukiro ,Medicalized health Center,A+ Used,0
+Kigali City,Kicukiro ,Medicalized health Center,A- Used,0
+Kigali City,Kicukiro ,Medicalized health Center,AB+ Used,0
+Kigali City,Kicukiro ,Medicalized health Center,AB- Used,0
+Kigali City,Kicukiro ,Medicalized health Center,B+ Used,0
+Kigali City,Kicukiro ,Medicalized health Center,B- Used,0
+Kigali City,Kicukiro ,Medicalized health Center,O+ Used,0
+Kigali City,Kicukiro ,Medicalized health Center,O- Used,0
+Kigali City,Kicukiro ,Other facility type,A+ Used,47
+Kigali City,Kicukiro ,Other facility type,A- Used,2
+Kigali City,Kicukiro ,Other facility type,AB+ Used,4
+Kigali City,Kicukiro ,Other facility type,AB- Used,0
+Kigali City,Kicukiro ,Other facility type,B+ Used,6
+Kigali City,Kicukiro ,Other facility type,B- Used,0
+Kigali City,Kicukiro ,Other facility type,O+ Used,73
+Kigali City,Kicukiro ,Other facility type,O- Used,4
+Kigali City,Kicukiro ,Private Hospital,A+ Used,18
+Kigali City,Kicukiro ,Private Hospital,A- Used,2
+Kigali City,Kicukiro ,Private Hospital,AB+ Used,0
+Kigali City,Kicukiro ,Private Hospital,AB- Used,1
+Kigali City,Kicukiro ,Private Hospital,B+ Used,14
+Kigali City,Kicukiro ,Private Hospital,B- Used,0
+Kigali City,Kicukiro ,Private Hospital,O+ Used,40
+Kigali City,Kicukiro ,Private Hospital,O- Used,6
+East,Kirehe ,District Hospital,A+ Used,267
+East,Kirehe ,District Hospital,A- Used,226
+East,Kirehe ,District Hospital,AB+ Used,66
+East,Kirehe ,District Hospital,AB- Used,59
+East,Kirehe ,District Hospital,B+ Used,174
+East,Kirehe ,District Hospital,B- Used,8
+East,Kirehe ,District Hospital,O+ Used,769
+East,Kirehe ,District Hospital,O- Used,115
+South,Muhanga ,District Hospital,A+ Used,55
+South,Muhanga ,District Hospital,A- Used,178
+South,Muhanga ,District Hospital,AB+ Used,19
+South,Muhanga ,District Hospital,AB- Used,42
+South,Muhanga ,District Hospital,B+ Used,277
+South,Muhanga ,District Hospital,B- Used,7
+South,Muhanga ,District Hospital,O+ Used,684
+South,Muhanga ,District Hospital,O- Used,111
+North,Musanze ,Referral Hospital,A+ Used,453
+North,Musanze ,Referral Hospital,A- Used,8
+North,Musanze ,Referral Hospital,AB+ Used,113
+North,Musanze ,Referral Hospital,AB- Used,1
+North,Musanze ,Referral Hospital,B+ Used,356
+North,Musanze ,Referral Hospital,B- Used,11
+North,Musanze ,Referral Hospital,O+ Used,892
+North,Musanze ,Referral Hospital,O- Used,63
+East,Ngoma ,Referral Hospital,A+ Used,120
+East,Ngoma ,Referral Hospital,A- Used,140
+East,Ngoma ,Referral Hospital,AB+ Used,12
+East,Ngoma ,Referral Hospital,AB- Used,17
+East,Ngoma ,Referral Hospital,B+ Used,143
+East,Ngoma ,Referral Hospital,B- Used,3
+East,Ngoma ,Referral Hospital,O+ Used,505
+East,Ngoma ,Referral Hospital,O- Used,83
+West,Ngororero ,District Hospital,A+ Used,114
+West,Ngororero ,District Hospital,A- Used,97
+West,Ngororero ,District Hospital,AB+ Used,7
+West,Ngororero ,District Hospital,AB- Used,15
+West,Ngororero ,District Hospital,B+ Used,100
+West,Ngororero ,District Hospital,B- Used,3
+West,Ngororero ,District Hospital,O+ Used,288
+West,Ngororero ,District Hospital,O- Used,42
+West,Nyabihu ,District Hospital,A+ Used,50
+West,Nyabihu ,District Hospital,A- Used,0
+West,Nyabihu ,District Hospital,AB+ Used,10
+West,Nyabihu ,District Hospital,AB- Used,0
+West,Nyabihu ,District Hospital,B+ Used,55
+West,Nyabihu ,District Hospital,B- Used,0
+West,Nyabihu ,District Hospital,O+ Used,105
+West,Nyabihu ,District Hospital,O- Used,2
+West,Nyabihu ,Medicalized health Center,A+ Used,0
+West,Nyabihu ,Medicalized health Center,A- Used,0
+West,Nyabihu ,Medicalized health Center,AB+ Used,0
+West,Nyabihu ,Medicalized health Center,AB- Used,0
+West,Nyabihu ,Medicalized health Center,B+ Used,0
+West,Nyabihu ,Medicalized health Center,B- Used,0
+West,Nyabihu ,Medicalized health Center,O+ Used,0
+West,Nyabihu ,Medicalized health Center,O- Used,0
+East,Nyagatare ,District Hospital,A+ Used,133
+East,Nyagatare ,District Hospital,A- Used,337
+East,Nyagatare ,District Hospital,AB+ Used,27
+East,Nyagatare ,District Hospital,AB- Used,4
+East,Nyagatare ,District Hospital,B+ Used,346
+East,Nyagatare ,District Hospital,B- Used,14
+East,Nyagatare ,District Hospital,O+ Used,739
+East,Nyagatare ,District Hospital,O- Used,76
+South,Nyamagabe ,District Hospital,A+ Used,24
+South,Nyamagabe ,District Hospital,A- Used,107
+South,Nyamagabe ,District Hospital,AB+ Used,6
+South,Nyamagabe ,District Hospital,AB- Used,22
+South,Nyamagabe ,District Hospital,B+ Used,140
+South,Nyamagabe ,District Hospital,B- Used,0
+South,Nyamagabe ,District Hospital,O+ Used,319
+South,Nyamagabe ,District Hospital,O- Used,12
+West,Nyamasheke ,District Hospital,A+ Used,80
+West,Nyamasheke ,District Hospital,A- Used,81
+West,Nyamasheke ,District Hospital,AB+ Used,4
+West,Nyamasheke ,District Hospital,AB- Used,14
+West,Nyamasheke ,District Hospital,B+ Used,155
+West,Nyamasheke ,District Hospital,B- Used,3
+West,Nyamasheke ,District Hospital,O+ Used,296
+West,Nyamasheke ,District Hospital,O- Used,42
+West,Nyamasheke ,Provincial Hospital,A+ Used,9
+West,Nyamasheke ,Provincial Hospital,A- Used,145
+West,Nyamasheke ,Provincial Hospital,AB+ Used,0
+West,Nyamasheke ,Provincial Hospital,AB- Used,4
+West,Nyamasheke ,Provincial Hospital,B+ Used,134
+West,Nyamasheke ,Provincial Hospital,B- Used,8
+West,Nyamasheke ,Provincial Hospital,O+ Used,226
+West,Nyamasheke ,Provincial Hospital,O- Used,10
+South,Nyanza ,District Hospital,A+ Used,147
+South,Nyanza ,District Hospital,A- Used,127
+South,Nyanza ,District Hospital,AB+ Used,46
+South,Nyanza ,District Hospital,AB- Used,6
+South,Nyanza ,District Hospital,B+ Used,159
+South,Nyanza ,District Hospital,B- Used,11
+South,Nyanza ,District Hospital,O+ Used,447
+South,Nyanza ,District Hospital,O- Used,65
+South,Nyanza ,Other facility type,A+ Used,18
+South,Nyanza ,Other facility type,A- Used,0
+South,Nyanza ,Other facility type,AB+ Used,0
+South,Nyanza ,Other facility type,AB- Used,0
+South,Nyanza ,Other facility type,B+ Used,3
+South,Nyanza ,Other facility type,B- Used,0
+South,Nyanza ,Other facility type,O+ Used,9
+South,Nyanza ,Other facility type,O- Used,0
+Kigali City,Nyarugenge ,District Hospital,A+ Used,287
+Kigali City,Nyarugenge ,District Hospital,A- Used,150
+Kigali City,Nyarugenge ,District Hospital,AB+ Used,81
+Kigali City,Nyarugenge ,District Hospital,AB- Used,12
+Kigali City,Nyarugenge ,District Hospital,B+ Used,324
+Kigali City,Nyarugenge ,District Hospital,B- Used,3
+Kigali City,Nyarugenge ,District Hospital,O+ Used,870
+Kigali City,Nyarugenge ,District Hospital,O- Used,59
+Kigali City,Nyarugenge ,Medicalized health Center,A+ Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,A- Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,AB+ Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,AB- Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,B+ Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,B- Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,O+ Used,0
+Kigali City,Nyarugenge ,Medicalized health Center,O- Used,0
+Kigali City,Nyarugenge ,Private Hospital,A+ Used,16
+Kigali City,Nyarugenge ,Private Hospital,A- Used,0
+Kigali City,Nyarugenge ,Private Hospital,AB+ Used,2
+Kigali City,Nyarugenge ,Private Hospital,AB- Used,0
+Kigali City,Nyarugenge ,Private Hospital,B+ Used,21
+Kigali City,Nyarugenge ,Private Hospital,B- Used,2
+Kigali City,Nyarugenge ,Private Hospital,O+ Used,18
+Kigali City,Nyarugenge ,Private Hospital,O- Used,0
+Kigali City,Nyarugenge ,Referral Hospital,A+ Used,1554
+Kigali City,Nyarugenge ,Referral Hospital,A- Used,69
+Kigali City,Nyarugenge ,Referral Hospital,AB+ Used,253
+Kigali City,Nyarugenge ,Referral Hospital,AB- Used,4
+Kigali City,Nyarugenge ,Referral Hospital,B+ Used,894
+Kigali City,Nyarugenge ,Referral Hospital,B- Used,222
+Kigali City,Nyarugenge ,Referral Hospital,O+ Used,3007
+Kigali City,Nyarugenge ,Referral Hospital,O- Used,1104
+South,Nyaruguru ,District Hospital,A+ Used,25
+South,Nyaruguru ,District Hospital,A- Used,36
+South,Nyaruguru ,District Hospital,AB+ Used,1
+South,Nyaruguru ,District Hospital,AB- Used,11
+South,Nyaruguru ,District Hospital,B+ Used,50
+South,Nyaruguru ,District Hospital,B- Used,3
+South,Nyaruguru ,District Hospital,O+ Used,81
+South,Nyaruguru ,District Hospital,O- Used,10
+West,Rubavu ,District Hospital,A+ Used,363
+West,Rubavu ,District Hospital,A- Used,7
+West,Rubavu ,District Hospital,AB+ Used,36
+West,Rubavu ,District Hospital,AB- Used,0
+West,Rubavu ,District Hospital,B+ Used,192
+West,Rubavu ,District Hospital,B- Used,7
+West,Rubavu ,District Hospital,O+ Used,542
+West,Rubavu ,District Hospital,O- Used,56
+South,Ruhango ,District Hospital,A+ Used,31
+South,Ruhango ,District Hospital,A- Used,30
+South,Ruhango ,District Hospital,AB+ Used,4
+South,Ruhango ,District Hospital,AB- Used,0
+South,Ruhango ,District Hospital,B+ Used,16
+South,Ruhango ,District Hospital,B- Used,5
+South,Ruhango ,District Hospital,O+ Used,137
+South,Ruhango ,District Hospital,O- Used,14
+South,Ruhango ,Provincial Hospital,A+ Used,150
+South,Ruhango ,Provincial Hospital,A- Used,26
+South,Ruhango ,Provincial Hospital,AB+ Used,5
+South,Ruhango ,Provincial Hospital,AB- Used,6
+South,Ruhango ,Provincial Hospital,B+ Used,86
+South,Ruhango ,Provincial Hospital,B- Used,2
+South,Ruhango ,Provincial Hospital,O+ Used,300
+South,Ruhango ,Provincial Hospital,O- Used,54
+North,Rulindo ,District Hospital,A+ Used,115
+North,Rulindo ,District Hospital,A- Used,24
+North,Rulindo ,District Hospital,AB+ Used,12
+North,Rulindo ,District Hospital,AB- Used,0
+North,Rulindo ,District Hospital,B+ Used,78
+North,Rulindo ,District Hospital,B- Used,0
+North,Rulindo ,District Hospital,O+ Used,141
+North,Rulindo ,District Hospital,O- Used,28
+North,Rulindo ,Provincial Hospital,A+ Used,28
+North,Rulindo ,Provincial Hospital,A- Used,6
+North,Rulindo ,Provincial Hospital,AB+ Used,22
+North,Rulindo ,Provincial Hospital,AB- Used,0
+North,Rulindo ,Provincial Hospital,B+ Used,40
+North,Rulindo ,Provincial Hospital,B- Used,0
+North,Rulindo ,Provincial Hospital,O+ Used,65
+North,Rulindo ,Provincial Hospital,O- Used,5
+West,Rusizi ,District Hospital,A+ Used,90
+West,Rusizi ,District Hospital,A- Used,248
+West,Rusizi ,District Hospital,AB+ Used,7
+West,Rusizi ,District Hospital,AB- Used,9
+West,Rusizi ,District Hospital,B+ Used,274
+West,Rusizi ,District Hospital,B- Used,17
+West,Rusizi ,District Hospital,O+ Used,718
+West,Rusizi ,District Hospital,O- Used,98
+West,Rusizi ,Private Hospital,A+ Used,0
+West,Rusizi ,Private Hospital,A- Used,0
+West,Rusizi ,Private Hospital,AB+ Used,0
+West,Rusizi ,Private Hospital,AB- Used,0
+West,Rusizi ,Private Hospital,B+ Used,0
+West,Rusizi ,Private Hospital,B- Used,0
+West,Rusizi ,Private Hospital,O+ Used,0
+West,Rusizi ,Private Hospital,O- Used,0
+West,Rutsiro ,District Hospital,A+ Used,23
+West,Rutsiro ,District Hospital,A- Used,79
+West,Rutsiro ,District Hospital,AB+ Used,10
+West,Rutsiro ,District Hospital,AB- Used,4
+West,Rutsiro ,District Hospital,B+ Used,36
+West,Rutsiro ,District Hospital,B- Used,7
+West,Rutsiro ,District Hospital,O+ Used,171
+West,Rutsiro ,District Hospital,O- Used,11
+East,Rwamagana ,Provincial Hospital,A+ Used,155
+East,Rwamagana ,Provincial Hospital,A- Used,107
+East,Rwamagana ,Provincial Hospital,AB+ Used,41
+East,Rwamagana ,Provincial Hospital,AB- Used,22
+East,Rwamagana ,Provincial Hospital,B+ Used,246
+East,Rwamagana ,Provincial Hospital,B- Used,10
+East,Rwamagana ,Provincial Hospital,O+ Used,699
+East,Rwamagana ,Provincial Hospital,O- Used,123

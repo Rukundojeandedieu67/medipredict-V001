@@ -1,0 +1,968 @@
+{
+  "data_source": "simulated",
+  "frequency": "daily",
+  "seed_splits": {
+    "train": [
+      "seed_00",
+      "seed_01",
+      "seed_02",
+      "seed_03",
+      "seed_04",
+      "seed_05",
+      "seed_06",
+      "seed_07",
+      "seed_08",
+      "seed_09",
+      "seed_10",
+      "seed_11"
+    ],
+    "validation": [
+      "seed_12",
+      "seed_13",
+      "seed_14",
+      "seed_15"
+    ],
+    "test": [
+      "seed_16",
+      "seed_17",
+      "seed_18",
+      "seed_19"
+    ]
+  },
+  "time_split_gap_days": 3,
+  "bootstrap": {
+    "replicates": 200,
+    "unit": "seed-day cluster",
+    "confidence_level": 0.95
+  },
+  "positive_counts": {
+    "train": {
+      "rows": 1224000,
+      "y_24h": 1121,
+      "y_48h": 2240,
+      "prevalence_24h": 0.0009158496732026144,
+      "prevalence_48h": 0.0018300653594771241,
+      "by_blood_group": {
+        "O+": {
+          "y_24h": 11,
+          "y_48h": 22
+        },
+        "O-": {
+          "y_24h": 259,
+          "y_48h": 517
+        },
+        "A+": {
+          "y_24h": 166,
+          "y_48h": 330
+        },
+        "A-": {
+          "y_24h": 148,
+          "y_48h": 294
+        },
+        "B+": {
+          "y_24h": 226,
+          "y_48h": 451
+        },
+        "B-": {
+          "y_24h": 73,
+          "y_48h": 146
+        },
+        "AB+": {
+          "y_24h": 231,
+          "y_48h": 466
+        },
+        "AB-": {
+          "y_24h": 7,
+          "y_48h": 14
+        }
+      }
+    },
+    "validation": {
+      "rows": 137280,
+      "y_24h": 138,
+      "y_48h": 277,
+      "prevalence_24h": 0.0010052447552447552,
+      "prevalence_48h": 0.0020177738927738926,
+      "by_blood_group": {
+        "O+": {
+          "y_24h": 4,
+          "y_48h": 8
+        },
+        "O-": {
+          "y_24h": 37,
+          "y_48h": 74
+        },
+        "A+": {
+          "y_24h": 17,
+          "y_48h": 34
+        },
+        "A-": {
+          "y_24h": 20,
+          "y_48h": 41
+        },
+        "B+": {
+          "y_24h": 23,
+          "y_48h": 46
+        },
+        "B-": {
+          "y_24h": 2,
+          "y_48h": 4
+        },
+        "AB+": {
+          "y_24h": 34,
+          "y_48h": 68
+        },
+        "AB-": {
+          "y_24h": 1,
+          "y_48h": 2
+        }
+      }
+    },
+    "test": {
+      "rows": 135360,
+      "y_24h": 116,
+      "y_48h": 231,
+      "prevalence_24h": 0.0008569739952718677,
+      "prevalence_48h": 0.0017065602836879433,
+      "by_blood_group": {
+        "O+": {
+          "y_24h": 1,
+          "y_48h": 2
+        },
+        "O-": {
+          "y_24h": 32,
+          "y_48h": 64
+        },
+        "A+": {
+          "y_24h": 15,
+          "y_48h": 29
+        },
+        "A-": {
+          "y_24h": 15,
+          "y_48h": 30
+        },
+        "B+": {
+          "y_24h": 25,
+          "y_48h": 50
+        },
+        "B-": {
+          "y_24h": 5,
+          "y_48h": 10
+        },
+        "AB+": {
+          "y_24h": 23,
+          "y_48h": 46
+        },
+        "AB-": {
+          "y_24h": 0,
+          "y_48h": 0
+        }
+      }
+    }
+  },
+  "alert_budgets_per_seed_day": [
+    1,
+    3,
+    5,
+    10
+  ],
+  "horizons": {
+    "24h": {
+      "models": {
+        "days_cover_rule": {
+          "pr_auc": 0.0023373686057436894,
+          "brier_score": 0.0008559840498492122,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.001006001140922308,
+              "observed_positive_rate": 0.0008569739952718677
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 4,
+              "recall": 0.034482758620689655,
+              "precision": 0.0070921985815602835,
+              "alerts_per_true_event": 141.0
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 9,
+              "recall": 0.07758620689655173,
+              "precision": 0.005319148936170213,
+              "alerts_per_true_event": 188.0
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 12,
+              "recall": 0.10344827586206896,
+              "precision": 0.00425531914893617,
+              "alerts_per_true_event": 235.0
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 21,
+              "recall": 0.1810344827586207,
+              "precision": 0.003723404255319149,
+              "alerts_per_true_event": 268.57142857142856
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.001607789658010006,
+            "3": 0.0015826970338821411,
+            "5": 0.0015826970338821411,
+            "10": 0.0015137034934014082
+          }
+        },
+        "logistic_regression": {
+          "pr_auc": 0.005554616722612178,
+          "brier_score": 0.000854517100378871,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.001089142868295312,
+              "observed_positive_rate": 0.0008569739952718677
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 4,
+              "recall": 0.034482758620689655,
+              "precision": 0.0070921985815602835,
+              "alerts_per_true_event": 141.0
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 12,
+              "recall": 0.10344827586206896,
+              "precision": 0.0070921985815602835,
+              "alerts_per_true_event": 141.0
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 20,
+              "recall": 0.1724137931034483,
+              "precision": 0.0070921985815602835,
+              "alerts_per_true_event": 141.0
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 35,
+              "recall": 0.3017241379310345,
+              "precision": 0.0062056737588652485,
+              "alerts_per_true_event": 161.14285714285714
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.00800839439034462,
+            "3": 0.00668319221585989,
+            "5": 0.005555188283324242,
+            "10": 0.003762492211535573
+          }
+        },
+        "lightgbm": {
+          "pr_auc": 0.007621623133625468,
+          "brier_score": 0.0008535920003382167,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.0010355473064894533,
+              "observed_positive_rate": 0.0008569739952718677
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 3,
+              "recall": 0.02586206896551724,
+              "precision": 0.005319148936170213,
+              "alerts_per_true_event": 188.0
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 19,
+              "recall": 0.16379310344827586,
+              "precision": 0.011229314420803783,
+              "alerts_per_true_event": 89.05263157894737
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 29,
+              "recall": 0.25,
+              "precision": 0.01028368794326241,
+              "alerts_per_true_event": 97.24137931034483
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 43,
+              "recall": 0.3706896551724138,
+              "precision": 0.007624113475177305,
+              "alerts_per_true_event": 131.1627906976744
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.006971868674200333,
+            "3": 0.004974050860156668,
+            "5": 0.003965682072287306,
+            "10": 0.003227333636078279
+          }
+        }
+      },
+      "lightgbm_ci_95": {
+        "pr_auc": [
+          0.004807570601332186,
+          0.016304416892361052
+        ],
+        "recall_by_alert_budget": {
+          "1": [
+            0.0,
+            0.06035794602698651
+          ],
+          "3": [
+            0.10548720472440945,
+            0.2316084392014519
+          ],
+          "5": [
+            0.18090676883780332,
+            0.3306473829201102
+          ],
+          "10": [
+            0.26355569155446756,
+            0.4578667685468186
+          ]
+        }
+      },
+      "paired_recall_difference_ci_95": {
+        "1": [
+          -0.04386609907120743,
+          0.036089333608417595
+        ],
+        "3": [
+          0.01765109890109891,
+          0.1656149301825994
+        ],
+        "5": [
+          0.06284589426321711,
+          0.2328674902239602
+        ],
+        "10": [
+          0.09090909090909094,
+          0.2966206578284947
+        ]
+      },
+      "test_positive_count": 116,
+      "test_prevalence": 0.0008569739952718677,
+      "lightgbm_per_blood_group": {
+        "O+": {
+          "positive_count": 1,
+          "pr_auc": 0.004366812227074236,
+          "recall_at_10_alerts_per_seed_day": 0.0
+        },
+        "O-": {
+          "positive_count": 32,
+          "pr_auc": 0.0069683892430499085,
+          "recall_at_10_alerts_per_seed_day": 0.28125
+        },
+        "A+": {
+          "positive_count": 15,
+          "pr_auc": 0.005677848637447558,
+          "recall_at_10_alerts_per_seed_day": 0.4666666666666667
+        },
+        "A-": {
+          "positive_count": 15,
+          "pr_auc": 0.026786819340404257,
+          "recall_at_10_alerts_per_seed_day": 0.8666666666666667
+        },
+        "B+": {
+          "positive_count": 25,
+          "pr_auc": 0.008927370454566316,
+          "recall_at_10_alerts_per_seed_day": 0.44
+        },
+        "B-": {
+          "positive_count": 5,
+          "pr_auc": 0.042242569668183245,
+          "recall_at_10_alerts_per_seed_day": 0.4
+        },
+        "AB+": {
+          "positive_count": 23,
+          "pr_auc": 0.0020812536025024675,
+          "recall_at_10_alerts_per_seed_day": 0.043478260869565216
+        },
+        "AB-": {
+          "positive_count": 0,
+          "pr_auc": null,
+          "recall_at_10_alerts_per_seed_day": null
+        }
+      },
+      "lightgbm_beats_days_cover_rule_by_budget": {
+        "1": false,
+        "3": true,
+        "5": true,
+        "10": true
+      }
+    },
+    "48h": {
+      "models": {
+        "days_cover_rule": {
+          "pr_auc": 0.0037660666191367954,
+          "brier_score": 0.001702907495200634,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.002027050359174609,
+              "observed_positive_rate": 0.0017065602836879433
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 5,
+              "recall": 0.021645021645021644,
+              "precision": 0.008865248226950355,
+              "alerts_per_true_event": 112.8
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 13,
+              "recall": 0.05627705627705628,
+              "precision": 0.0076832151300236405,
+              "alerts_per_true_event": 130.15384615384616
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 18,
+              "recall": 0.07792207792207792,
+              "precision": 0.006382978723404255,
+              "alerts_per_true_event": 156.66666666666666
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 32,
+              "recall": 0.13852813852813853,
+              "precision": 0.005673758865248227,
+              "alerts_per_true_event": 176.25
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.0030528567731380463,
+            "3": 0.00301212165504694,
+            "5": 0.00301212165504694,
+            "10": 0.002899622078984976
+          }
+        },
+        "logistic_regression": {
+          "pr_auc": 0.009650450318364347,
+          "brier_score": 0.0016980958171188831,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.002040174091234803,
+              "observed_positive_rate": 0.0017065602836879433
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 5,
+              "recall": 0.021645021645021644,
+              "precision": 0.008865248226950355,
+              "alerts_per_true_event": 112.8
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 24,
+              "recall": 0.1038961038961039,
+              "precision": 0.014184397163120567,
+              "alerts_per_true_event": 70.5
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 38,
+              "recall": 0.1645021645021645,
+              "precision": 0.01347517730496454,
+              "alerts_per_true_event": 74.21052631578948
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 72,
+              "recall": 0.3116883116883117,
+              "precision": 0.01276595744680851,
+              "alerts_per_true_event": 78.33333333333333
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.016099361702799797,
+            "3": 0.0121951038017869,
+            "5": 0.010526363737881184,
+            "10": 0.006526496261358261
+          }
+        },
+        "lightgbm": {
+          "pr_auc": 0.012104198728997345,
+          "brier_score": 0.001694230249217266,
+          "calibration_curve": [
+            {
+              "count": 135360,
+              "mean_predicted_probability": 0.002062035589125354,
+              "observed_positive_rate": 0.0017065602836879433
+            }
+          ],
+          "by_alert_budget": {
+            "1": {
+              "alerts_per_seed_day": 1,
+              "alert_count": 564,
+              "true_positive_alerts": 10,
+              "recall": 0.04329004329004329,
+              "precision": 0.01773049645390071,
+              "alerts_per_true_event": 56.4
+            },
+            "3": {
+              "alerts_per_seed_day": 3,
+              "alert_count": 1692,
+              "true_positive_alerts": 29,
+              "recall": 0.12554112554112554,
+              "precision": 0.017139479905437353,
+              "alerts_per_true_event": 58.3448275862069
+            },
+            "5": {
+              "alerts_per_seed_day": 5,
+              "alert_count": 2820,
+              "true_positive_alerts": 46,
+              "recall": 0.19913419913419914,
+              "precision": 0.016312056737588652,
+              "alerts_per_true_event": 61.30434782608695
+            },
+            "10": {
+              "alerts_per_seed_day": 10,
+              "alert_count": 5640,
+              "true_positive_alerts": 81,
+              "recall": 0.35064935064935066,
+              "precision": 0.014361702127659574,
+              "alerts_per_true_event": 69.62962962962963
+            }
+          },
+          "validation_cutoffs_by_budget": {
+            "1": 0.015978758225408462,
+            "3": 0.012565765666476181,
+            "5": 0.009729186751442308,
+            "10": 0.007021985269110555
+          }
+        }
+      },
+      "lightgbm_ci_95": {
+        "pr_auc": [
+          0.009852331145667562,
+          0.01764240752843064
+        ],
+        "recall_by_alert_budget": {
+          "1": [
+            0.018683014661750836,
+            0.07088825080022597
+          ],
+          "3": [
+            0.08060538116591928,
+            0.16612577971460313
+          ],
+          "5": [
+            0.15138733953076583,
+            0.2477793504967418
+          ],
+          "10": [
+            0.284477288639944,
+            0.40194833323488294
+          ]
+        }
+      },
+      "paired_recall_difference_ci_95": {
+        "1": [
+          -0.007338935574229693,
+          0.06088967630722084
+        ],
+        "3": [
+          0.024866744296655894,
+          0.12174362850642115
+        ],
+        "5": [
+          0.06691515901545955,
+          0.1714677516576251
+        ],
+        "10": [
+          0.1357068997931942,
+          0.2693060874920611
+        ]
+      },
+      "test_positive_count": 231,
+      "test_prevalence": 0.0017065602836879433,
+      "lightgbm_per_blood_group": {
+        "O+": {
+          "positive_count": 2,
+          "pr_auc": 0.005849753694581281,
+          "recall_at_10_alerts_per_seed_day": 0.0
+        },
+        "O-": {
+          "positive_count": 64,
+          "pr_auc": 0.015054112727634864,
+          "recall_at_10_alerts_per_seed_day": 0.15625
+        },
+        "A+": {
+          "positive_count": 29,
+          "pr_auc": 0.012151876444864509,
+          "recall_at_10_alerts_per_seed_day": 0.6551724137931034
+        },
+        "A-": {
+          "positive_count": 30,
+          "pr_auc": 0.024507853489695364,
+          "recall_at_10_alerts_per_seed_day": 0.8666666666666667
+        },
+        "B+": {
+          "positive_count": 50,
+          "pr_auc": 0.020468522629089513,
+          "recall_at_10_alerts_per_seed_day": 0.4
+        },
+        "B-": {
+          "positive_count": 10,
+          "pr_auc": 0.014994780033478115,
+          "recall_at_10_alerts_per_seed_day": 0.2
+        },
+        "AB+": {
+          "positive_count": 46,
+          "pr_auc": 0.006134716570049056,
+          "recall_at_10_alerts_per_seed_day": 0.08695652173913043
+        },
+        "AB-": {
+          "positive_count": 0,
+          "pr_auc": null,
+          "recall_at_10_alerts_per_seed_day": null
+        }
+      },
+      "lightgbm_beats_days_cover_rule_by_budget": {
+        "1": true,
+        "3": true,
+        "5": true,
+        "10": true
+      }
+    }
+  },
+  "rolling_origin": [
+    {
+      "fold": 1,
+      "training_end_day_exclusive": 255,
+      "evaluation_start_day": 258,
+      "evaluation_end_day_exclusive": 328,
+      "rows": 201600,
+      "positive_count": 196,
+      "pr_auc": 0.00665614002226751,
+      "recall_at_alert_budget": 0.336734693877551,
+      "precision_at_alert_budget": 0.007857142857142858
+    },
+    {
+      "fold": 2,
+      "training_end_day_exclusive": 328,
+      "evaluation_start_day": 331,
+      "evaluation_end_day_exclusive": 423,
+      "rows": 264960,
+      "positive_count": 257,
+      "pr_auc": 0.010344426596548441,
+      "recall_at_alert_budget": 0.4046692607003891,
+      "precision_at_alert_budget": 0.009420289855072464
+    }
+  ],
+  "leakage_checks": {
+    "shuffled_label_pr_auc": 0.0008390132141891855,
+    "unshuffled_lightgbm_pr_auc": 0.007621623133625468,
+    "test_prevalence": 0.0008569739952718677,
+    "shuffle_collapsed_to_prevalence_band": true,
+    "features_in_target": [],
+    "univariate_proxy_screen": [
+      {
+        "feature": "days_of_cover",
+        "best_univariate_pr_auc": 0.0023373686057436894
+      },
+      {
+        "feature": "stock_units",
+        "best_univariate_pr_auc": 0.0018032029561912515
+      },
+      {
+        "feature": "weekday_sin",
+        "best_univariate_pr_auc": 0.0011545308369854607
+      },
+      {
+        "feature": "group_O-",
+        "best_univariate_pr_auc": 0.0011422923290127986
+      },
+      {
+        "feature": "time_since_delivery_days",
+        "best_univariate_pr_auc": 0.0010633955977920402
+      },
+      {
+        "feature": "district_admissions_weight",
+        "best_univariate_pr_auc": 0.0010405164361418867
+      },
+      {
+        "feature": "group_B+",
+        "best_univariate_pr_auc": 0.0009907169642129291
+      },
+      {
+        "feature": "group_AB-",
+        "best_univariate_pr_auc": 0.0009793988517392772
+      },
+      {
+        "feature": "group_O+",
+        "best_univariate_pr_auc": 0.0009699731567853359
+      },
+      {
+        "feature": "group_AB+",
+        "best_univariate_pr_auc": 0.0009565806635689248
+      },
+      {
+        "feature": "demand_trend_7d_vs_14d",
+        "best_univariate_pr_auc": 0.0009432649781670133
+      },
+      {
+        "feature": "group_share",
+        "best_univariate_pr_auc": 0.0009418683304413312
+      },
+      {
+        "feature": "group_B-",
+        "best_univariate_pr_auc": 0.0009337260827539625
+      },
+      {
+        "feature": "demand_volatility_7d",
+        "best_univariate_pr_auc": 0.0009112368904060615
+      },
+      {
+        "feature": "expiring_units_7d",
+        "best_univariate_pr_auc": 0.0009044689244044267
+      },
+      {
+        "feature": "expected_lead_time_hours",
+        "best_univariate_pr_auc": 0.0008990263896729529
+      },
+      {
+        "feature": "weekday_cos",
+        "best_univariate_pr_auc": 0.0008955048613328931
+      },
+      {
+        "feature": "demand_mean_14d",
+        "best_univariate_pr_auc": 0.0008773684170018516
+      },
+      {
+        "feature": "demand_mean_7d",
+        "best_univariate_pr_auc": 0.0008770400614891858
+      },
+      {
+        "feature": "demand_mean_1d",
+        "best_univariate_pr_auc": 0.0008642095810071516
+      },
+      {
+        "feature": "group_A+",
+        "best_univariate_pr_auc": 0.000860795222955898
+      },
+      {
+        "feature": "group_A-",
+        "best_univariate_pr_auc": 0.000860795222955898
+      },
+      {
+        "feature": "recent_surge_flag",
+        "best_univariate_pr_auc": 0.0008570879697359283
+      },
+      {
+        "feature": "demand_mean_3d",
+        "best_univariate_pr_auc": 0.0008546382168442538
+      },
+      {
+        "feature": "supply_received_7d",
+        "best_univariate_pr_auc": 0.0008462357633418414
+      }
+    ],
+    "potential_label_proxy_features": [],
+    "proxy_screen_passed": true,
+    "median_replacement_feature_ablations": [
+      {
+        "feature": "group_share",
+        "pr_auc_after_median_ablation": 0.0028491339875324788,
+        "delta_vs_full_pr_auc": -0.004772489146092989
+      },
+      {
+        "feature": "weekday_sin",
+        "pr_auc_after_median_ablation": 0.011074509681179446,
+        "delta_vs_full_pr_auc": 0.0034528865475539783
+      },
+      {
+        "feature": "demand_mean_14d",
+        "pr_auc_after_median_ablation": 0.005146250453015904,
+        "delta_vs_full_pr_auc": -0.0024753726806095635
+      },
+      {
+        "feature": "district_admissions_weight",
+        "pr_auc_after_median_ablation": 0.00535117613729392,
+        "delta_vs_full_pr_auc": -0.0022704469963315474
+      },
+      {
+        "feature": "demand_mean_3d",
+        "pr_auc_after_median_ablation": 0.005678855622127033,
+        "delta_vs_full_pr_auc": -0.0019427675114984345
+      },
+      {
+        "feature": "expiring_units_7d",
+        "pr_auc_after_median_ablation": 0.005730601542521118,
+        "delta_vs_full_pr_auc": -0.0018910215911043492
+      },
+      {
+        "feature": "time_since_delivery_days",
+        "pr_auc_after_median_ablation": 0.00597153191094288,
+        "delta_vs_full_pr_auc": -0.0016500912226825879
+      },
+      {
+        "feature": "days_of_cover",
+        "pr_auc_after_median_ablation": 0.006046794904895914,
+        "delta_vs_full_pr_auc": -0.0015748282287295539
+      },
+      {
+        "feature": "weekday_cos",
+        "pr_auc_after_median_ablation": 0.009114272759706913,
+        "delta_vs_full_pr_auc": 0.0014926496260814458
+      },
+      {
+        "feature": "expected_lead_time_hours",
+        "pr_auc_after_median_ablation": 0.008403685751254886,
+        "delta_vs_full_pr_auc": 0.0007820626176294181
+      },
+      {
+        "feature": "stock_units",
+        "pr_auc_after_median_ablation": 0.006861681023282301,
+        "delta_vs_full_pr_auc": -0.0007599421103431665
+      },
+      {
+        "feature": "group_B-",
+        "pr_auc_after_median_ablation": 0.008113592484099059,
+        "delta_vs_full_pr_auc": 0.0004919693504735912
+      },
+      {
+        "feature": "demand_mean_7d",
+        "pr_auc_after_median_ablation": 0.007201740568319865,
+        "delta_vs_full_pr_auc": -0.00041988256530560257
+      },
+      {
+        "feature": "demand_volatility_7d",
+        "pr_auc_after_median_ablation": 0.007968038962608757,
+        "delta_vs_full_pr_auc": 0.0003464158289832892
+      },
+      {
+        "feature": "demand_trend_7d_vs_14d",
+        "pr_auc_after_median_ablation": 0.007320136092821355,
+        "delta_vs_full_pr_auc": -0.0003014870408041123
+      },
+      {
+        "feature": "demand_mean_1d",
+        "pr_auc_after_median_ablation": 0.007809750249996166,
+        "delta_vs_full_pr_auc": 0.0001881271163706984
+      },
+      {
+        "feature": "group_A+",
+        "pr_auc_after_median_ablation": 0.007795934114178459,
+        "delta_vs_full_pr_auc": 0.00017431098055299167
+      },
+      {
+        "feature": "group_B+",
+        "pr_auc_after_median_ablation": 0.007716906780987534,
+        "delta_vs_full_pr_auc": 9.528364736206656e-05
+      },
+      {
+        "feature": "group_A-",
+        "pr_auc_after_median_ablation": 0.007527684629402786,
+        "delta_vs_full_pr_auc": -9.393850422268184e-05
+      },
+      {
+        "feature": "supply_received_7d",
+        "pr_auc_after_median_ablation": 0.0075874868113567405,
+        "delta_vs_full_pr_auc": -3.4136322268727044e-05
+      },
+      {
+        "feature": "group_AB+",
+        "pr_auc_after_median_ablation": 0.007639151898992197,
+        "delta_vs_full_pr_auc": 1.7528765366729357e-05
+      },
+      {
+        "feature": "group_O-",
+        "pr_auc_after_median_ablation": 0.007622019761034629,
+        "delta_vs_full_pr_auc": 3.966274091616803e-07
+      },
+      {
+        "feature": "group_AB-",
+        "pr_auc_after_median_ablation": 0.007621474451285303,
+        "delta_vs_full_pr_auc": -1.4868234016456733e-07
+      },
+      {
+        "feature": "recent_surge_flag",
+        "pr_auc_after_median_ablation": 0.007621623133625468,
+        "delta_vs_full_pr_auc": 0.0
+      },
+      {
+        "feature": "group_O+",
+        "pr_auc_after_median_ablation": 0.007621623133625468,
+        "delta_vs_full_pr_auc": 0.0
+      }
+    ]
+  },
+  "feature_columns": [
+    "stock_units",
+    "days_of_cover",
+    "demand_mean_1d",
+    "demand_mean_3d",
+    "demand_mean_7d",
+    "demand_mean_14d",
+    "demand_trend_7d_vs_14d",
+    "demand_volatility_7d",
+    "supply_received_7d",
+    "time_since_delivery_days",
+    "expected_lead_time_hours",
+    "expiring_units_7d",
+    "district_admissions_weight",
+    "weekday_sin",
+    "weekday_cos",
+    "group_share",
+    "recent_surge_flag",
+    "group_O+",
+    "group_O-",
+    "group_A+",
+    "group_A-",
+    "group_B+",
+    "group_B-",
+    "group_AB+",
+    "group_AB-"
+  ],
+  "test_group_shares_reference": {
+    "O+": 0.4774776910041122,
+    "O-": 0.04065984854769326,
+    "A+": 0.23709751964258205,
+    "A-": 0.01332021852742851,
+    "B+": 0.17938447317587666,
+    "B-": 0.009847955156844388,
+    "AB+": 0.040209520875057775,
+    "AB-": 0.0020027730704051763
+  }
+}

@@ -1,0 +1,3 @@
+[console_scripts]
+medipredict-load-reference = medipredict.db.load_reference:main
+medipredict-sim = medipredict.simulator:main

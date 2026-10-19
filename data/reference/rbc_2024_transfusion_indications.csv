@@ -1,0 +1,10 @@
+indication,rbc,platelets,ffp,cryo,total_components,all_indication_total_components,source,data_source
+Anemia,19973,1527,276,37,21813,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+PPH (postpartum haemorrhage),8428,2336,2394,1208,14366,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Bleeding,3851,813,536,222,5422,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Thrombocytopenia,433,3275,123,12,3843,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Sepsis,1773,992,210,46,3021,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Cancers,1769,918,97,30,2814,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Abortion,1611,124,91,29,1855,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Malaria,875,287,16,2,1180,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
+Uterine rupture,344,146,147,55,692,55006,"RBC Blood Transfusion Division Annual Report 2024, Table 4.3",real
