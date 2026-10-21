@@ -2,7 +2,9 @@
 
 ## Intended use
 
-Prototype early warning of simulated unmet blood demand for decision support. It is not validated on operational Rwanda stock readings and must not drive automatic dispatch.
+A ranked watch-list of district/blood-group inventory series for human decision support. It is not a stockout alarm, does not make operational stockout-accuracy claims, and must not trigger transfers or dispatch.
+
+This frozen model is version `v0.1.0` and was trained on simulated data only. The returned `confidence` describes input/history completeness; A-, B-, and AB- are separately marked low confidence via `low_confidence_group`, regardless of their numeric risk. The measured precision is low at the evaluated alert budgets. Scores must be re-validated on real data before operational use.
 
 ## Data and split
 
@@ -133,7 +135,7 @@ Expanding-window LightGBM folds are evaluated chronologically within the trainin
 
 ## Limitations
 
-The simulations share one policy and demand generator; results may reflect simulator artifacts. Seed-held-out evaluation tests robustness across simulator randomness, not generalization to real hospitals. Daily timestamps support 24h and 48h labels but do not provide intraday warning timing, so no warning lead-time metric is reported. Alert budgets are evaluation scenarios, not operational alert policies. No real-world performance claim is supported.
+The simulations share one policy and demand generator; results may reflect simulator artifacts. Calibration missed its requested targets: national unmet demand was 0.107%, A-/B-/AB- expiry was 15.438%/24.017%/71.566%, and AB- had 17 stockout episodes over 20 seeds. Seed-held-out evaluation tests robustness across simulator randomness, not generalization to real hospitals. Daily timestamps support 24h and 48h labels but do not provide intraday warning timing, so no warning lead-time metric is reported. Alert budgets are evaluation scenarios, not operational alert policies. No real-world performance claim is supported. The model must be re-validated on real data before operational use.
 
 ## Artifacts
 

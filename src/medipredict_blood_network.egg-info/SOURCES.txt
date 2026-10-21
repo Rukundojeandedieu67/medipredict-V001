@@ -9,6 +9,13 @@ src/medipredict/db/load_reference.py
 src/medipredict/db/migrations/env.py
 src/medipredict/db/migrations/script.py.mako
 src/medipredict/db/migrations/versions/0001_initial_schema.py
+src/medipredict/inference/__init__.py
+src/medipredict/inference/bundle.py
+src/medipredict/inference/score.py
+src/medipredict/ingest/__init__.py
+src/medipredict/ingest/mapping.py
+src/medipredict/ingest/normalize.py
+src/medipredict/ingest/readers.py
 src/medipredict/sim/__init__.py
 src/medipredict/sim/__main__.py
 src/medipredict/sim/config/sim.yaml
@@ -18,6 +25,8 @@ src/medipredict_blood_network.egg-info/dependency_links.txt
 src/medipredict_blood_network.egg-info/entry_points.txt
 src/medipredict_blood_network.egg-info/requires.txt
 src/medipredict_blood_network.egg-info/top_level.txt
+tests/test_inference.py
+tests/test_ingest.py
 tests/test_migration.py
 tests/test_modeling.py
 tests/test_reference.py

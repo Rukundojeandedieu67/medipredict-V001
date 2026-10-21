@@ -1,0 +1,2 @@
+facility_id,facility_name,district,sector,facility_type,ownership,has_blood_bank,blood_fridge_capacity_units,bed_count,maternity_beds,icu_beds,nearest_regional_centre,lat,lon,contact_role,last_updated
+EXAMPLE-001,Example District Hospital,Huye,Ngoma,District Hospital,Public,Y,120,200,40,6,Butare,-2.6,29.74,Blood bank in-charge,2026-10-19

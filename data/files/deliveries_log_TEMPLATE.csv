@@ -1,0 +1,2 @@
+order_id,ordered_at,dispatched_at,received_at,from_centre,to_district,to_facility_id,blood_group,units_ordered,units_received,mode,delay_reason
+EXAMPLE-001,2026-10-01 08:10,2026-10-01 09:00,2026-10-01 10:05,Butare,Huye,EXAMPLE-001,O+,10,10,drone,

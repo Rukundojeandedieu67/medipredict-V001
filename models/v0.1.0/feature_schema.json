@@ -1,0 +1,257 @@
+{
+  "feature_order": [
+    "stock_units",
+    "days_of_cover",
+    "demand_mean_1d",
+    "demand_mean_3d",
+    "demand_mean_7d",
+    "demand_mean_14d",
+    "demand_trend_7d_vs_14d",
+    "demand_volatility_7d",
+    "supply_received_7d",
+    "time_since_delivery_days",
+    "expected_lead_time_hours",
+    "expiring_units_7d",
+    "district_admissions_weight",
+    "weekday_sin",
+    "weekday_cos",
+    "group_share",
+    "recent_surge_flag",
+    "group_O+",
+    "group_O-",
+    "group_A+",
+    "group_A-",
+    "group_B+",
+    "group_B-",
+    "group_AB+",
+    "group_AB-"
+  ],
+  "features": [
+    {
+      "allowed_range": [
+        0.0,
+        128.0
+      ],
+      "dtype": "float32",
+      "name": "stock_units",
+      "unit": "units"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        90.0
+      ],
+      "dtype": "float32",
+      "name": "days_of_cover",
+      "unit": "days"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        38.0
+      ],
+      "dtype": "float32",
+      "name": "demand_mean_1d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        25.666666666666668
+      ],
+      "dtype": "float32",
+      "name": "demand_mean_3d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        20.857142857142858
+      ],
+      "dtype": "float32",
+      "name": "demand_mean_7d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        18.857142857142858
+      ],
+      "dtype": "float32",
+      "name": "demand_mean_14d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        -4.642857142857142,
+        4.928571428571427
+      ],
+      "dtype": "float32",
+      "name": "demand_trend_7d_vs_14d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        10.194035871377872
+      ],
+      "dtype": "float32",
+      "name": "demand_volatility_7d",
+      "unit": "units/day"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        196.0
+      ],
+      "dtype": "float32",
+      "name": "supply_received_7d",
+      "unit": "units"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        35.0
+      ],
+      "dtype": "float32",
+      "name": "time_since_delivery_days",
+      "unit": "days"
+    },
+    {
+      "allowed_range": [
+        6.0,
+        8.68
+      ],
+      "dtype": "float32",
+      "name": "expected_lead_time_hours",
+      "unit": "hours"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        2.0
+      ],
+      "dtype": "float32",
+      "name": "expiring_units_7d",
+      "unit": "units"
+    },
+    {
+      "allowed_range": [
+        0.007024564568336083,
+        0.13091065301904994
+      ],
+      "dtype": "float32",
+      "name": "district_admissions_weight",
+      "unit": "fraction"
+    },
+    {
+      "allowed_range": [
+        -0.9749279121818236,
+        0.9749279121818236
+      ],
+      "dtype": "float32",
+      "name": "weekday_sin",
+      "unit": "dimensionless"
+    },
+    {
+      "allowed_range": [
+        -0.9009688679024191,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "weekday_cos",
+      "unit": "dimensionless"
+    },
+    {
+      "allowed_range": [
+        0.0020027730704051763,
+        0.4774776910041122
+      ],
+      "dtype": "float32",
+      "name": "group_share",
+      "unit": "fraction"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "recent_surge_flag",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_O+",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_O-",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_A+",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_A-",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_B+",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_B-",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_AB+",
+      "unit": "boolean"
+    },
+    {
+      "allowed_range": [
+        0.0,
+        1.0
+      ],
+      "dtype": "float32",
+      "name": "group_AB-",
+      "unit": "boolean"
+    }
+  ],
+  "schema_version": "1.0.0"
+}

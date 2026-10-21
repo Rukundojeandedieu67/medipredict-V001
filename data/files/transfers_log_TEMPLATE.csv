@@ -1,0 +1,2 @@
+transfer_id,requested_at,dispatched_at,received_at,from_district,to_district,from_facility_id,to_facility_id,blood_group,units,reason,outcome
+EXAMPLE-001,2026-10-02 14:00,2026-10-02 14:40,2026-10-02 17:10,Nyanza,Huye,,EXAMPLE-001,O-,3,urgent PPH case,delivered

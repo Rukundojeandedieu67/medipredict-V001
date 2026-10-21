@@ -1,0 +1,4 @@
+timestamp,district,blood_group,stock_units,demand_units,supply_received,expired_units,unmet_demand_units
+2026-10-01,Huye,O+,42,9,10,0,0
+2026-10-02,Huye,O+,43,8,9,0,0
+2026-10-03,Huye,O-,6,1,0,0,0

@@ -1,0 +1,1 @@
+"""MediPredict API service."""

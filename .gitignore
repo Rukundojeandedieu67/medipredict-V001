@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 .venv/
 .env
+Backend/.env
+Backend/.venv/
+Backend/data/uploads/
+.env
 data/generated/*
 !data/generated/.gitkeep
-

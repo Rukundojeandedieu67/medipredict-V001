@@ -1,0 +1,91 @@
+{
+  "created_at_utc": "2026-10-19T17:37:13.456922+00:00",
+  "feature_count": 25,
+  "files": {
+    "MODEL_CARD.md": "9b2cbae448aa48b1a04a86142b8c1e22eb7b98b61b6463d7b9e85af94cc459ad",
+    "calibrator_24h.joblib": "626c4c167044b88048edfda7dba0dad6ec16052a9aef624b17eee0fc591c03d5",
+    "calibrator_48h.joblib": "fa6589870f50fc8f00d78b54c8af7004f3c9fe0a154a05cbd48c274e93e7fb7b",
+    "feature_schema.json": "3e490598286e336cce3ed59657f1301650d60b8eff006efd79806c374bebd408",
+    "metrics.json": "218b149ad2a626b3e40e72451a91a0e17bda6e896b144467db4a4ac5e233e90b",
+    "model_24h.joblib": "197061452730dfeffb0428eba0592eddb8ba4219c3fa0420ee1bbca8e49f6da5",
+    "model_48h.joblib": "1db9ee2925be8c600754decd800c43faa711536d112924b96d443a16ac5996a7",
+    "reference_stats.json": "a82b5d0a6f95d5b8daa846069742c274d61afebd885191dff7029c01943c2cbe"
+  },
+  "git_commit": "4471de1dc7e14607c8801c4791b34be49cb46f5e",
+  "git_worktree_dirty": true,
+  "manifest_hash_note": "manifest.json is excluded from files because a file cannot contain its own SHA-256 hash.",
+  "model_version": "v0.1.0",
+  "seeds": {
+    "seed_numbers_by_split": {
+      "test": [
+        2042,
+        2043,
+        2044,
+        2045
+      ],
+      "train": [
+        2026,
+        2027,
+        2028,
+        2029,
+        2030,
+        2031,
+        2032,
+        2033,
+        2034,
+        2035,
+        2036,
+        2037
+      ],
+      "validation": [
+        2038,
+        2039,
+        2040,
+        2041
+      ]
+    },
+    "seed_splits": {
+      "test": [
+        "seed_16",
+        "seed_17",
+        "seed_18",
+        "seed_19"
+      ],
+      "train": [
+        "seed_00",
+        "seed_01",
+        "seed_02",
+        "seed_03",
+        "seed_04",
+        "seed_05",
+        "seed_06",
+        "seed_07",
+        "seed_08",
+        "seed_09",
+        "seed_10",
+        "seed_11"
+      ],
+      "validation": [
+        "seed_12",
+        "seed_13",
+        "seed_14",
+        "seed_15"
+      ]
+    },
+    "training_seed_numbers": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034,
+      2035,
+      2036,
+      2037
+    ]
+  },
+  "trained_on": "simulated"
+}
